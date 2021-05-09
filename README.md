@@ -7,3 +7,4 @@
 - [Sorted List To BST](https://github.com/akashanup/python-programming/tree/main/SortedListToBST)
 - [Delete Operation For Two Strings](https://github.com/akashanup/python-programming/tree/main/DeleteOperationForTwoStrings)
 - [Super Palindromes](https://github.com/akashanup/python-programming/tree/main/SuperPalindrome)
+- [Construct Target Array With Multiple Sums](https://github.com/akashanup/python-programming/tree/main/ConstructTargetArrayWithMultipleSums)
