@@ -10,3 +10,4 @@
 - [Super Palindromes](https://github.com/akashanup/python-programming/tree/main/SuperPalindrome)
 - [Construct Target Array With Multiple Sums](https://github.com/akashanup/python-programming/tree/main/ConstructTargetArrayWithMultipleSums)
 - [Count Primes](https://github.com/akashanup/python-programming/tree/main/CountPrimes)
+- [Maximum Points You Can Obtain from Cards](https://github.com/akashanup/python-programming/tree/main/MaximumPointsYouCanObtainFromCards)
