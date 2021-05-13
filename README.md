@@ -13,3 +13,4 @@
 - [Maximum Points You Can Obtain from Cards](https://github.com/akashanup/python-programming/tree/main/MaximumPointsYouCanObtainFromCards)
 - [Range Sum Query 2D - Immutable](https://github.com/akashanup/python-programming/tree/main/RangeSumQuery2D-Immutable)
 - [Maximum Population Year](https://github.com/akashanup/python-programming/tree/main/MaximumPopulationYear)
+- [Ambiguous Coordinates](https://github.com/akashanup/python-programming/tree/main/AmbiguousCoordinates)
