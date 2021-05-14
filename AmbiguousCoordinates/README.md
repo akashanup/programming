@@ -7,14 +7,12 @@ The final answer list can be returned in any order.  Also note that all coordina
 ### Example1
 
 ```sh
-Example 1:
 Input: s = "(123)"
 Output: ["(1, 23)", "(12, 3)", "(1.2, 3)", "(1, 2.3)"]
 ```
 ### Example2
 
 ```sh
-Example 2:
 Input: s = "(00011)"
 Output:  ["(0.001, 1)", "(0, 0.011)"]
 Explanation: 
@@ -23,14 +21,12 @@ Explanation:
 ### Example3
 
 ```sh
-Example 3:
 Input: s = "(0123)"
 Output: ["(0, 123)", "(0, 12.3)", "(0, 1.23)", "(0.1, 23)", "(0.1, 2.3)", "(0.12, 3)"]
 ```
 ### Example4
 
 ```sh
-Example 4:
 Input: s = "(100)"
 Output: [(10, 0)]
 Explanation: 
