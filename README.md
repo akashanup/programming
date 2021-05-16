@@ -16,6 +16,7 @@
 - [Ambiguous Coordinates](https://github.com/akashanup/python-programming/tree/main/AmbiguousCoordinates)
 - [Flatten Binary Tree to Linked List](https://github.com/akashanup/python-programming/tree/main/FlattenBinaryTreeToLinkedList)
 - [Valid Number](https://github.com/akashanup/python-programming/tree/main/ValidNumber)
+- [Binary Tree Cameras](https://github.com/akashanup/python-programming/tree/main/BinaryTreeCameras)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
