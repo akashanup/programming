@@ -18,6 +18,7 @@
 - [Valid Number](https://github.com/akashanup/python-programming/tree/main/ValidNumber)
 - [Binary Tree Cameras](https://github.com/akashanup/python-programming/tree/main/BinaryTreeCameras)
 - [Longest String Chain](https://github.com/akashanup/python-programming/tree/main/LongestStringChain)
+- [Find Duplicate File in System](https://github.com/akashanup/python-programming/tree/main/FindDuplicateFileInSystem)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
