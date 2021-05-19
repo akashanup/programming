@@ -23,5 +23,5 @@ Output: 2
 
 ```sh
 1 <= nums.length <= 1000
-0 <= nums[i] <= 105
+0 <= nums[i] <= 10^5
 ```

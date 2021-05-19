@@ -31,8 +31,8 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 m == matrix.length
 n == matrix[i].length
 1 <= m, n <= 200
--105 <= matrix[i][j] <= 105
+-10^5 <= matrix[i][j] <= 10^5
 0 <= row1 <= row2 < m
 0 <= col1 <= col2 < n
-At most 104 calls will be made to sumRegion.
+At most 10^4 calls will be made to sumRegion.
 ```

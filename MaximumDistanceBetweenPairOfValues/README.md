@@ -40,8 +40,8 @@ Explanation: There are no valid pairs, so return 0.
 ### Constraints
 
 ```sh
-1 <= nums1.length <= 105
-1 <= nums2.length <= 105
-1 <= nums1[i], nums2[j] <= 105
+1 <= nums1.length <= 10^5
+1 <= nums2.length <= 10^5
+1 <= nums1[i], nums2[j] <= 10^5
 Both nums1 and nums2 are non-increasing.
 ```
