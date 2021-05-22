@@ -22,7 +22,9 @@
 - [Minimum Moves to Equal Array Elements II](https://github.com/akashanup/python-programming/tree/main/MinimumMovesToEqualArrayElementsII)
 - [Binary Tree Level Order Traversal](https://github.com/akashanup/python-programming/tree/main/BinaryTreeLevelOrderTraversal)
 - [Find and Replace Pattern](https://github.com/akashanup/python-programming/tree/main/FindAndReplacePattern)
+- [N-Queens](https://github.com/akashanup/python-programming/tree/main/N-Queens)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 - [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
+- [Nth Fibonacci Number Modulo M](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
