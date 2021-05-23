@@ -23,6 +23,7 @@
 - [Binary Tree Level Order Traversal](https://github.com/akashanup/python-programming/tree/main/BinaryTreeLevelOrderTraversal)
 - [Find and Replace Pattern](https://github.com/akashanup/python-programming/tree/main/FindAndReplacePattern)
 - [N-Queens](https://github.com/akashanup/python-programming/tree/main/N-Queens)
+- [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
