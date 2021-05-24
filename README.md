@@ -24,9 +24,9 @@
 - [Find and Replace Pattern](https://github.com/akashanup/python-programming/tree/main/FindAndReplacePattern)
 - [N-Queens](https://github.com/akashanup/python-programming/tree/main/N-Queens)
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
-- [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/ToLowerCase)
+- [To Lower Case](https://github.com/akashanup/python-programming/tree/main/ToLowerCase)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 - [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
-- [To Lower Case](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
+- [Nth Fibonacci Number Modulo M](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
