@@ -32,5 +32,5 @@
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 - [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
 - [Nth Fibonacci Number Modulo M](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
-- [MinimumNumberOfPlatformsRequiredForRailwayStation](https://github.com/akashanup/python-programming/tree/MinimumNumberOfPlatformsRequiredForRailwayStation)
+- [MinimumNumberOfPlatformsRequiredForRailwayStation](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
 - [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
