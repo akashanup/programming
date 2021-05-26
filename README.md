@@ -26,6 +26,7 @@
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 - [To Lower Case](https://github.com/akashanup/python-programming/tree/main/ToLowerCase)
 - [Evaluate Reverse Polish Notation](https://github.com/akashanup/python-programming/tree/main/EvaluateReversePolishNotation)
+- [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/akashanup/python-programming/tree/main/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
