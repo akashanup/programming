@@ -1,33 +1,31 @@
-# Nth Fibonacci Number Modulo M
+# Partitioning Into Minimum Number Of Deci-Binary Numbers
 
-Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m).
+A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example, 101 and 1100 are deci-binary, while 112 and 3001 are not.
+
+Given a string n that represents a positive decimal integer, return the minimum number of positive deci-binary numbers needed so that they sum up to n.
 
 ### Example1
 ```sh
-Input: n = 7, m = 3
-Output: 1
+Input: n = "32"
+Output: 3
+Explanation: 10 + 11 + 11 = 32
 ```
 
 ### Example2
 ```sh
-Input: n = 2015, m = 3
-Output: 1
+Input: n = "82734"
+Output: 8
 ```
 
 ### Example3
 ```sh
-Input: n = 239, m = 1000
-Output: 161
-```
-
-### Example4
-```sh
-Input: n = 2816213588, m = 239
-Output: 151
+Input: n = "27346209830709182346"
+Output: 9
 ```
 
 ### Constraints:
 ```sh
-1 <= n <= 10^14
-2 <= m <= 10^3
+1 <= n.length <= 105
+n consists of only digits.
+n does not contain any leading zeros and represents a positive integer.
 ```
