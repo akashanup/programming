@@ -27,6 +27,7 @@
 - [To Lower Case](https://github.com/akashanup/python-programming/tree/main/ToLowerCase)
 - [Evaluate Reverse Polish Notation](https://github.com/akashanup/python-programming/tree/main/EvaluateReversePolishNotation)
 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/akashanup/python-programming/tree/main/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers)
+- [Maximum Product of Word Lengths](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfWordLengths)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
