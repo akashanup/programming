@@ -28,6 +28,7 @@
 - [Evaluate Reverse Polish Notation](https://github.com/akashanup/python-programming/tree/main/EvaluateReversePolishNotation)
 - [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/akashanup/python-programming/tree/main/PartitioningIntoMinimumNumberOfDeci-BinaryNumbers)
 - [Maximum Product of Word Lengths](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfWordLengths)
+- [Maximum Erasure Value](https://github.com/akashanup/python-programming/tree/main/MaximumErasureValue)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
