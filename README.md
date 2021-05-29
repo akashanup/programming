@@ -2,6 +2,7 @@
 
 ## LeetCode
 - [Prefix and Suffix Search](https://github.com/akashanup/python-programming/tree/main/PrefixAndSuffixSearch)
+- [Course Schedule III](https://github.com/akashanup/python-programming/tree/main/CourseScheduleIII)
 - [Running Sum Of 1d Array](https://github.com/akashanup/python-programming/tree/main/RunningSumOf1dArray)
 - [Non Decreasing Array](https://github.com/akashanup/python-programming/tree/main/NonDecreasingArray)
 - [Jump Game II](https://github.com/akashanup/python-programming/tree/main/JumpGameII)
