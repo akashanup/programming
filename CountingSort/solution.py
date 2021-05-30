@@ -9,7 +9,7 @@ class Solution:
             lookup[i] += lookup[i - 1]
         # print(lookup)
         sortedArr = [None] * len(arr)
-        for i in range(len(arr)):
+        for i in range(len(arr) - 1, -1, -1):
             sortedArr[lookup[arr[i]] - 1] = arr[i]
             lookup[arr[i]] -= 1
         # print(sortedArr)
