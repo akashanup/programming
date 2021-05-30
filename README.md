@@ -31,6 +31,7 @@
 - [Maximum Product of Word Lengths](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfWordLengths)
 - [Maximum Erasure Value](https://github.com/akashanup/python-programming/tree/main/MaximumErasureValue)
 - [N-Queens II](https://github.com/akashanup/python-programming/tree/main/N-QueensII)
+- [Maximum Gap](https://github.com/akashanup/python-programming/tree/main/MaximumGap)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
