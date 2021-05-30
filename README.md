@@ -42,3 +42,4 @@
 
 ## Miscellaneous
 - [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
+- [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountingSort)
