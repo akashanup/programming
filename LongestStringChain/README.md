@@ -8,20 +8,20 @@ A word chain is a sequence of words [word_1, word_2, ..., word_k] with k >= 1, w
 
 Return the longest possible length of a word chain with words chosen from the given list of words.
 
-### Example1
+### Example 1
 ```sh
 Input: words = ["a","b","ba","bca","bda","bdca"]
 Output: 4
 Explanation: One of the longest word chain is "a","ba","bda","bdca".
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: words = ["xbc","pcxbcf","xb","cxbc","pcxbc"]
 Output: 5
 ```
 
-### Constraints:
+### Constraints
 ```sh
 1 <= words.length <= 1000
 1 <= words[i].length <= 16

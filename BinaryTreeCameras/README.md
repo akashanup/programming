@@ -8,7 +8,7 @@ Calculate the minimum number of cameras needed to monitor all nodes of the tree.
 
 [![Tree1](bstCameras01.png)]()
 
-### Example1
+### Example 1
 ```sh
 Input: [0,0,null,0,0]
 Output: 1
@@ -16,14 +16,14 @@ Explanation: One camera is enough to monitor all nodes if placed as shown.
 ```
 
 [![Tree2](bstCameras02.png)]()
-### Example2
+### Example 2
 ```sh
 Input: [0,0,null,0,null,0,null,null,0]
 Output: 2
 Explanation: At least two cameras are needed to monitor all nodes of the tree. The above image shows one of the valid configurations of camera placement.
 ```
 
-### Constraints:
+### Constraints
 ```sh
 The number of nodes in the given tree will be in the range [1, 1000].
 Every node has value 0.

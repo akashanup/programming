@@ -14,13 +14,13 @@ The output is a list of groups of duplicate file paths. For each group, it conta
 
 - "directory_path/file_name.txt"
 
-### Example1
+### Example 1
 ```sh
 Input: paths = ["root/a 1.txt(abcd) 2.txt(efgh)","root/c 3.txt(abcd)","root/c/d 4.txt(efgh)","root 4.txt(efgh)"]
 Output: [["root/a/2.txt","root/c/d/4.txt","root/4.txt"],["root/a/1.txt","root/c/3.txt"]]
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: paths = ["root/a 1.txt(abcd) 2.txt(efgh)","root/c 3.txt(abcd)","root/c/d 4.txt(efgh)"]
 Output: [["root/a/2.txt","root/c/d/4.txt"],["root/a/1.txt","root/c/3.txt"]]

@@ -19,31 +19,31 @@ For example, all the following are valid numbers: ["2", "0089", "-0.1", "+3.14",
 
 Given a string s, return true if s is a valid number.
 
-### Example1
+### Example 1
 ```sh
 Input: s = "0"
 Output: true
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: s = "e"
 Output: false
 ```
 
-### Example3
+### Example 3
 ```sh
 Input: s = "."
 Output: false
 ```
 
-### Example4
+### Example 4
 ```sh
 Input: s = ".1"
 Output: true
 ```
 
-### Constraints:
+### Constraints
 ```sh
 1 <= s.length <= 20
 s consists of only English letters (both uppercase and lowercase), digits (0-9), plus '+', minus '-', or dot '.'.

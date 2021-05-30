@@ -9,8 +9,7 @@ Implement the NumMatrix class:
 
 [![matrix](matrix.jpg)]()
 
-### Example1
-
+### Example 1
 ```sh
 Input
 ["NumMatrix", "sumRegion", "sumRegion", "sumRegion"]
@@ -26,7 +25,6 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 ```
 
 ### Constraints
-
 ```sh
 m == matrix.length
 n == matrix[i].length

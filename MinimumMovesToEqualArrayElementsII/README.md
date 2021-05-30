@@ -4,7 +4,7 @@ Given an integer array nums of size n, return the minimum number of moves requir
 
 In one move, you can increment or decrement an element of the array by 1.
 
-### Example1
+### Example 1
 ```sh
 Input: nums = [1,2,3]
 Output: 2
@@ -13,7 +13,7 @@ Only two moves are needed (remember each move increments or decrements one eleme
 [1,2,3]  =>  [2,2,3]  =>  [2,2,2]
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: nums = [1,10,2,9]
 Output: 16

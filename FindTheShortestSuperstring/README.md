@@ -4,14 +4,14 @@ Given an array of strings words, return the smallest string that contains each s
 
 You may assume that no string in words is a substring of another string in words.
 
-### Example1
+### Example 1
 ```sh
 Input: words = ["alex","loves","leetcode"]
 Output: "alexlovesleetcode"
 Explanation: All permutations of "alex","loves","leetcode" would also be accepted.
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: words = ["catg","ctaagt","gcta","ttca","atgcatc"]
 Output: "gctaagttcatgcatc"
@@ -21,6 +21,5 @@ Output: "gctaagttcatgcatc"
 ```sh
 1 <= words.length <= 12
 1 <= words[i].length <= 20
-words[i] consists of lowercase English letters.
-All the strings of words are unique.
+words[i] consists of lowercase English letters. All the strings of words are unique.
 ```

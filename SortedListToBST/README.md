@@ -5,26 +5,26 @@ For this problem, a height-balanced binary tree is defined as a binary tree in w
 
 [![linkedlist](linked.jpg)]()
 
-### Example1
+### Example 1
 ```sh
 Input: head = [-10,-3,0,5,9]
 Output: [0,-3,9,-10,null,5]
 Explanation: One possible answer is [0,-3,9,-10,null,5], which represents the shown height balanced BST.
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: head = []
 Output: []
 ```
 
-### Example3
+### Example 3
 ```sh
 Input: head = [0]
 Output: [0]
 ```
 
-### Example4
+### Example 4
 ```sh
 Input: head = [1,3]
 Output: [3,1]

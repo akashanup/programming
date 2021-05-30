@@ -6,7 +6,7 @@ A word matches the pattern if there exists a permutation of letters p so that af
 
 Recall that a permutation of letters is a bijection from letters to letters: every letter maps to another letter, and no two letters map to the same letter.
 
-### Example1
+### Example 1
 ```sh
 Input: words = ["abc","deq","mee","aqq","dkd","ccc"], pattern = "abb"
 Output: ["mee","aqq"]
@@ -14,7 +14,7 @@ Explanation: "mee" matches the pattern because there is a permutation {a -> m, b
 "ccc" does not match the pattern because {a -> c, b -> c, ...} is not a permutation, since a and b map to the same letter.
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: words = ["a","b","c"], pattern = "a"
 Output: ["a","b","c"]

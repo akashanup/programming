@@ -8,14 +8,14 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
 [![Queens](queens.jpg)]()
 
-### Example1
+### Example 1
 ```sh
 Input: n = 4
 Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above
 ```
 
-### Example2
+### Example 2
 ```sh
 Input: n = 1
 Output: [["Q"]]

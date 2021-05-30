@@ -6,8 +6,7 @@ choose index i, such that 0 <= i < target.size and set the value of A at index i
 You may repeat this procedure as many times as needed.
 Return True if it is possible to construct the target array from A otherwise return False.
 
-### Example1
-
+### Example 1
 ```sh
 Input: target = [9,3,5]
 Output: true
@@ -17,30 +16,27 @@ Explanation: Start with [1, 1, 1]
 [1, 3, 5], sum = 9 choose index 0
 [9, 3, 5] Done
 ```
-### Example2
 
+### Example 2
 ```sh
 Input: target = [1,1,1,2]
 Output: false
 Explanation: Impossible to create target array from [1,1,1,1].
 ```
 
-### Example3
-
+### Example 3
 ```sh
 Input: target = [8,5]
 Output: true
 ```
 
 ### Example4
-
 ```sh
 Input: target = [1,1000000000]
 Output: true
 ```
 
 ### Constraints
-
 ```sh
 N == target.length
 1 <= target.length <= 5 * 10^4
