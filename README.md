@@ -39,3 +39,6 @@
 - [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
 - [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
 - [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
+
+## Miscellaneous
+- [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
