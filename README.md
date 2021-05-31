@@ -32,6 +32,7 @@
 - [Maximum Erasure Value](https://github.com/akashanup/python-programming/tree/main/MaximumErasureValue)
 - [N-Queens II](https://github.com/akashanup/python-programming/tree/main/N-QueensII)
 - [Maximum Gap](https://github.com/akashanup/python-programming/tree/main/MaximumGap)
+- [Search Suggestions System](https://github.com/akashanup/python-programming/tree/main/SearchSuggestionsSystem)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
