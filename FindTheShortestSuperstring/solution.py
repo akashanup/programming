@@ -1,3 +1,6 @@
+from functools import lru_cache
+
+
 class Solution:
     def shortestSuperstring(self, words: List[str]) -> str:
         # TSP, DP
@@ -9,6 +12,7 @@ class Solution:
                     if words[j].startswith(words[i][-k:]):
                         w[i][j] = k
                         break
+
         @lru_cache(None)
         def dp(nodes):
             if len(nodes) == 2:
@@ -18,5 +22,6 @@ class Solution:
             # remove the current ending nodes from nodes[:-1]
             nodes_wo_end = nodes[:end_idx] + nodes[end_idx + 1:-1]
             # words[end][w[node][end]:] will remove overlap part from the end node.
-            return min((dp(nodes_wo_end + (node, )) + words[end][w[node][end]:] for node in nodes_wo_end), key=len)
-        return min((dp(tuple(range(n)) + (node, )) for node in range(n)), key=len)
+            return min((dp(nodes_wo_end + (node,)) + words[end][w[node][end]:] for node in nodes_wo_end), key=len)
+
+        return min((dp(tuple(range(n)) + (node,)) for node in range(n)), key=len)
