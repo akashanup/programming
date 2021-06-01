@@ -34,8 +34,7 @@
 - [Maximum Gap](https://github.com/akashanup/python-programming/tree/main/MaximumGap)
 - [Search Suggestions System](https://github.com/akashanup/python-programming/tree/main/SearchSuggestionsSystem)
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
-- [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
-- [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
+- [Max Area of Island](https://github.com/akashanup/python-programming/tree/main/MaxAreaOfIsland)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
