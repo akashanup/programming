@@ -35,6 +35,7 @@
 - [Search Suggestions System](https://github.com/akashanup/python-programming/tree/main/SearchSuggestionsSystem)
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
+- [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
