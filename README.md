@@ -36,6 +36,7 @@
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 - [Max Area of Island](https://github.com/akashanup/python-programming/tree/main/MaxAreaOfIsland)
 - [Interleaving String](https://github.com/akashanup/python-programming/tree/main/InterleavingString)
+- [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/akashanup/python-programming/tree/main/MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
