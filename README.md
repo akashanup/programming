@@ -35,6 +35,7 @@
 - [Search Suggestions System](https://github.com/akashanup/python-programming/tree/main/SearchSuggestionsSystem)
 - [Find the Shortest Superstring](https://github.com/akashanup/python-programming/tree/main/FindTheShortestSuperstring)
 - [Max Area of Island](https://github.com/akashanup/python-programming/tree/main/MaxAreaOfIsland)
+- [Interleaving String](https://github.com/akashanup/python-programming/tree/main/InterleavingString)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
