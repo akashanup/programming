@@ -1,4 +1,4 @@
-# Python programs
+# Programs
 
 ## LeetCode
 - [Prefix and Suffix Search](https://github.com/akashanup/python-programming/tree/main/PrefixAndSuffixSearch)
