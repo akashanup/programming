@@ -24,6 +24,10 @@ class Graph:
 
     def isCyclic(self):
         parent = self.initializeParent()
+        # Iterate through all edges of graph,
+        # find sets of both vertices of every
+        # edge, if sets are same, then there
+        # is cycle in graph.
         for i in self.graph:
             for j in self.graph[i]:
                 x, y = self.findParent(parent, i), self.findParent(parent, j)
