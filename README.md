@@ -37,6 +37,7 @@
 - [Max Area of Island](https://github.com/akashanup/python-programming/tree/main/MaxAreaOfIsland)
 - [Interleaving String](https://github.com/akashanup/python-programming/tree/main/InterleavingString)
 - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/akashanup/python-programming/tree/main/MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts)
+- [Maximum Performance of a Team](https://github.com/akashanup/programming/tree/main/MaximumPerformanceOfATeam)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
