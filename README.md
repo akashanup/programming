@@ -38,7 +38,8 @@
 - [Interleaving String](https://github.com/akashanup/python-programming/tree/main/InterleavingString)
 - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/akashanup/python-programming/tree/main/MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts)
 - [Maximum Performance of a Team](https://github.com/akashanup/programming/tree/main/MaximumPerformanceOfATeam)
-- [ReductionOperationsToMakeTheArrayElementsEqual](https://github.com/akashanup/programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
+- [Reduction Operations To Make The Array Elements Equal](https://github.com/akashanup/programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
+- [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/akashanup/programming/tree/main/DetermineWhetherMatrixCanBeObtainedByRotation)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
