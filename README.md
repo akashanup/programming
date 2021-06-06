@@ -40,6 +40,7 @@
 - [Maximum Performance of a Team](https://github.com/akashanup/programming/tree/main/MaximumPerformanceOfATeam)
 - [Reduction Operations To Make The Array Elements Equal](https://github.com/akashanup/programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
 - [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/akashanup/programming/tree/main/DetermineWhetherMatrixCanBeObtainedByRotation)
+- [Longest Consecutive Sequence](https://github.com/akashanup/programming/tree/main/LongestConsecutiveSequence)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
