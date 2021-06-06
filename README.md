@@ -38,6 +38,7 @@
 - [Interleaving String](https://github.com/akashanup/python-programming/tree/main/InterleavingString)
 - [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/akashanup/python-programming/tree/main/MaximumAreaOfAPieceOfCakeAfterHorizontalAndVerticalCuts)
 - [Maximum Performance of a Team](https://github.com/akashanup/programming/tree/main/MaximumPerformanceOfATeam)
+- [ReductionOperationsToMakeTheArrayElementsEqual](https://github.com/akashanup/programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
