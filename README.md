@@ -41,6 +41,7 @@
 - [Reduction Operations To Make The Array Elements Equal](https://github.com/akashanup/programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
 - [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/akashanup/programming/tree/main/DetermineWhetherMatrixCanBeObtainedByRotation)
 - [Longest Consecutive Sequence](https://github.com/akashanup/programming/tree/main/LongestConsecutiveSequence)
+- [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
