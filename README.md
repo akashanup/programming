@@ -1,4 +1,4 @@
-# Python programs
+# Programs
 
 ## LeetCode
 - [Prefix and Suffix Search](https://github.com/akashanup/python-programming/tree/main/PrefixAndSuffixSearch)
@@ -57,3 +57,4 @@
 - [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountingSort)
 - [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
 - [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
+- [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
