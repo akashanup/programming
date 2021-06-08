@@ -4,7 +4,7 @@ There are n different online courses numbered from 1 to n. You are given an arra
 
 You will start on the 1st day and you cannot take two or more courses simultaneously.
 
-Return the maximum number of courses that you can take.
+Return the maximum number of courses that you can take. 
 
 ### Example 1
 ```sh
