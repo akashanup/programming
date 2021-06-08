@@ -31,5 +31,5 @@ Output: 8
 ### Constraints
 ```sh
 1 <= word1.length, word2.length <= 500
-word1 and word2 consist of only lowercase English letters.
+word1 and word2 consist of only lowercase English letters. 
 ```
