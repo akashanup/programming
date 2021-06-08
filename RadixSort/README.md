@@ -4,7 +4,7 @@ The idea of Radix Sort is to do digit by digit sort starting from the least sign
 
 If we have log2n bits for every digit, the running time of Radix appears to be better than Quick Sort for a wide range of input numbers.
 
-Radix Sort takes O(d*(n+b)) time where b is the base for representing numbers, for example, for the decimal system, b is 10.
+Radix Sort takes O(d*(n+b)) time where b is the base for representing numbers, for example, for the decimal system, b is 10. 
 
 ### Example 1
 ```sh
