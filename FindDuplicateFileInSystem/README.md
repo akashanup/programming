@@ -12,7 +12,7 @@ It means there are n files (f1.txt, f2.txt ... fn.txt) with content (f1_content,
 
 The output is a list of groups of duplicate file paths. For each group, it contains all the file paths of the files that have the same content. A file path is a string that has the following format:
 
-- "directory_path/file_name.txt"
+- "directory_path/file_name.txt" 
 
 ### Example 1
 ```sh
