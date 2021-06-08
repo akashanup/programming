@@ -2,7 +2,7 @@
 
 You are going to travel to another city that is located d miles away from your home city. Your car can travel
 at most m miles on a full tank and you start with a full tank. Along your way, there are gas stations at
-distances stop 1 , stop 2 , . . . , stop n from your home city. What is the minimum number of refills needed?
+distances stop 1 , stop 2 , . . ., stop n from your home city. What is the minimum number of refills needed?
 
 ### Example 1
 ```sh
