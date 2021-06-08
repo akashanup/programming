@@ -1,6 +1,6 @@
 # Nth Fibonacci Number Modulo M
 
-Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m).
+Given two integers n and m, output F n mod m (that is, the remainder of F n when divided by m). 
 
 ### Example 1
 ```sh
