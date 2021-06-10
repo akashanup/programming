@@ -56,14 +56,15 @@
 - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
 
 ## Miscellaneous
-- [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
-
   ### Searching
   - [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
 
   ### Sorting
   - [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
-  - [BinaryInsertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
+  - [Binary Insertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
   - [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
   - [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountingSort)
   - [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
+
+  ### Greedy Algorithm
+  - [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)  
