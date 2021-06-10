@@ -63,6 +63,7 @@
 
   ### Sorting
   - [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
+  - [BinaryInsertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
   - [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
   - [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountingSort)
   - [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
