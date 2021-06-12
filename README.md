@@ -45,6 +45,7 @@
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/akashanup/programming/tree/main/ConstructBinaryTreeFromPreorderAndInorderTraversal)
 - [My Calendar I](https://github.com/akashanup/programming/tree/main/MyCalendarI)
 - [Stone Game VII](https://github.com/akashanup/programming/tree/main/StoneGameVII)
+- [Minimum Number of Refueling Stops](https://github.com/akashanup/programming/tree/main/MinimumNumberOfRefuelingStops)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
