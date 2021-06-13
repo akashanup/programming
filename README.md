@@ -56,6 +56,7 @@
 - [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
 - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
+- [Palindrome Pairs](https://github.com/akashanup/programming/tree/main/PalindromePairs)
 
 ## Miscellaneous
   ### Searching
