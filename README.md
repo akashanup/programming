@@ -69,4 +69,7 @@
   - [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
 
   ### Greedy Algorithm
-  - [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)  
+  - [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
+  
+  ### Dynamic Programming
+  - [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
