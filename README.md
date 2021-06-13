@@ -46,6 +46,7 @@
 - [My Calendar I](https://github.com/akashanup/programming/tree/main/MyCalendarI)
 - [Stone Game VII](https://github.com/akashanup/programming/tree/main/StoneGameVII)
 - [Minimum Number of Refueling Stops](https://github.com/akashanup/programming/tree/main/MinimumNumberOfRefuelingStops)
+- [Palindrome Pairs](https://github.com/akashanup/programming/tree/main/PalindromePairs)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -56,7 +57,6 @@
 - [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
 - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
-- [Palindrome Pairs](https://github.com/akashanup/programming/tree/main/PalindromePairs)
 
 ## Miscellaneous
   ### Searching
