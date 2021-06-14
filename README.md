@@ -47,6 +47,7 @@
 - [Stone Game VII](https://github.com/akashanup/programming/tree/main/StoneGameVII)
 - [Minimum Number of Refueling Stops](https://github.com/akashanup/programming/tree/main/MinimumNumberOfRefuelingStops)
 - [Palindrome Pairs](https://github.com/akashanup/programming/tree/main/PalindromePairs)
+- [Maximum Units on a Truck](https://github.com/akashanup/programming/tree/main/MaximumUnitsOnATruck)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
