@@ -48,6 +48,7 @@
 - [Minimum Number of Refueling Stops](https://github.com/akashanup/programming/tree/main/MinimumNumberOfRefuelingStops)
 - [Palindrome Pairs](https://github.com/akashanup/programming/tree/main/PalindromePairs)
 - [Maximum Units on a Truck](https://github.com/akashanup/programming/tree/main/MaximumUnitsOnATruck)
+- [Matchsticks To Square](https://github.com/akashanup/programming/tree/main/MatchsticksToSquare)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
