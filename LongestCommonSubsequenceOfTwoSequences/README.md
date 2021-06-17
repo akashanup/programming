@@ -10,17 +10,17 @@ common subsequence, i.e., the largest non-negative integer 𝑝 such that there 
 
 ### Example 1
 ```sh
-Input: a = 275, b = 25
+Input: a = [2, 7, 5], b = [2, 5]
 Output: 2
 ```
 
 ### Example 2
 ```sh
-Input: a = 7, b = 1234
+Input: a = [7], b = [1, 2, 3, 4]
 Output: 0
 ```
-### Example 1
+### Example 3
 ```sh
-Input: a = 2783, b = 5287
+Input: a = [2, 7, 8, 3], b = [5, 2, 8, 7]
 Output: 2
 ```
