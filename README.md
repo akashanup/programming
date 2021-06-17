@@ -80,3 +80,4 @@
   - [Primitive Calculator](https://github.com/akashanup/programming/tree/main/PrimitiveCalculator)
   - [Edit Distance](https://github.com/akashanup/programming/tree/main/EditDistance)
   - [Longest Common Subsequence of Two Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfTwoSequences)
+  - [Longest Common Subsequence of Three Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfThreeSequences)
