@@ -1,30 +1,21 @@
-# Palindrome Pairs
+# Number of Subarrays with Bounded Maximum
 
-Given a list of unique words, return all the pairs of the distinct indices (i, j) in the given list, so that the concatenation of the two words words[i] + words[j] is a palindrome.
+We are given an array nums of positive integers, and two positive integers left and right (left <= right).
+
+Return the number of (contiguous, non-empty) subarrays such that the value of the maximum array element in that subarray is at least left and at most right.
 
 ### Example 1
 ```sh
-Input: words = ["abcd","dcba","lls","s","sssll"]
-Output: [[0,1],[1,0],[3,2],[2,4]]
-Explanation: The palindromes are ["dcbaabcd","abcddcba","slls","llssssll"]
-```
-
-### Example 2
-```sh
-Input: words = ["bat","tab","cat"]
-Output: [[0,1],[1,0]]
-Explanation: The palindromes are ["battab","tabbat"]
-```
-
-### Example 3
-```sh
-Input: words = ["a",""]
-Output: [[0,1],[1,0]]
+Input: 
+nums = [2, 1, 4, 3]
+left = 2
+right = 3
+Output: 3
+Explanation: There are three subarrays that meet the requirements: [2], [2, 1], [3].
 ```
 
 ### Constraints
 ```sh
-1 <= words.length <= 5000
-0 <= words[i].length <= 300
-words[i] consists of lower-case English letters.
+left, right, and nums[i] will be an integer in the range [0, 109].
+The length of nums will be in the range of [1, 50000].
 ```
