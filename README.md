@@ -51,6 +51,7 @@
 - [Matchsticks To Square](https://github.com/akashanup/programming/tree/main/MatchsticksToSquare)
 - [Generate Parentheses](https://github.com/akashanup/programming/tree/main/GenerateParentheses)
 - [Number of Subarrays with Bounded Maximum](https://github.com/akashanup/programming/tree/main/NumberOfSubarraysWithBoundedMaximum)
+- [Range Sum Query - Mutable](https://github.com/akashanup/programming/tree/main/RangeSumQuery-Mutable)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
