@@ -84,3 +84,4 @@
   - [Longest Common Subsequence of Two Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfTwoSequences)
   - [Longest Common Subsequence of Three Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfThreeSequences)
   - [Maximum Amount of Gold](https://github.com/akashanup/programming/tree/main/MaximumAmountOfGold)
+  - [Partitioning Souvenirs](https://github.com/akashanup/programming/tree/main/PartitioningSouvenirs)
