@@ -1,28 +1,24 @@
-# Prefix and Suffix Search
+# Pascal's Triangle
 
-Design a special dictionary with some words that searchs the words in it by a prefix and a suffix.
-Implement the WordFilter class:
-- WordFilter(string[] words) Initializes the object with the words in the dictionary.
-- f(string prefix, string suffix) Returns the index of the word in the dictionary, which has the prefix prefix and the suffix suffix. If there is more than one valid index, return the largest of them. If there is no such word in the dictionary, return -1. 
+Given an integer numRows, return the first numRows of Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+
+[![PascalTriangleAnimated](PascalTriangleAnimated.gif)]()
 
 ### Example 1
 ```sh
-Input
-["WordFilter", "f"]
-[[["apple"]], ["a", "e"]]
-Output
-[null, 0]
+Input: numRows = 5
+Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+```
 
-Explanation
-WordFilter wordFilter = new WordFilter(["apple"]);
-wordFilter.f("a", "e"); // return 0, because the word at index 0 has prefix = "a" and suffix = 'e".
+### Example 2
+```sh
+Input: numRows = 1
+Output: [[1]]
 ```
 
 ### Constraints
 ```sh
-1 <= words.length <= 15000
-1 <= words[i].length <= 10
-1 <= prefix.length, suffix.length <= 10
-words[i], prefix and suffix consist of lower-case English letters only.
-At most 15000 calls will be made to the function f.
+1 <= numRows <= 30
 ```
