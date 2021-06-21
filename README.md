@@ -53,6 +53,7 @@
 - [Number of Subarrays with Bounded Maximum](https://github.com/akashanup/programming/tree/main/NumberOfSubarraysWithBoundedMaximum)
 - [Range Sum Query - Mutable](https://github.com/akashanup/programming/tree/main/RangeSumQuery-Mutable)
 - [K Inverse Pairs Array](https://github.com/akashanup/programming/tree/main/K-InversePairsArray)
+- [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
