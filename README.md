@@ -54,6 +54,7 @@
 - [Range Sum Query - Mutable](https://github.com/akashanup/programming/tree/main/RangeSumQuery-Mutable)
 - [K Inverse Pairs Array](https://github.com/akashanup/programming/tree/main/K-InversePairsArray)
 - [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
+- [Number of Matching Subsequences](https://github.com/akashanup/programming/tree/main/NumberOfMatchingSubsequences)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
