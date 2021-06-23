@@ -55,6 +55,7 @@
 - [K Inverse Pairs Array](https://github.com/akashanup/programming/tree/main/K-InversePairsArray)
 - [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
 - [Number of Matching Subsequences](https://github.com/akashanup/programming/tree/main/NumberOfMatchingSubsequences)
+- [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/ReverseLinkedList-II)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
