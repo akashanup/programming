@@ -56,6 +56,7 @@
 - [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
 - [Number of Matching Subsequences](https://github.com/akashanup/programming/tree/main/NumberOfMatchingSubsequences)
 - [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/ReverseLinkedList-II)
+- [Out of Boundary Paths](https://github.com/akashanup/programming/tree/main/OutOfBoundaryPaths)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
