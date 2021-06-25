@@ -57,6 +57,7 @@
 - [Number of Matching Subsequences](https://github.com/akashanup/programming/tree/main/NumberOfMatchingSubsequences)
 - [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/ReverseLinkedList-II)
 - [Out of Boundary Paths](https://github.com/akashanup/programming/tree/main/OutOfBoundaryPaths)
+- [Redundant Connection](https://github.com/akashanup/programming/tree/main/RedundantConnection)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
