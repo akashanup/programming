@@ -1,9 +1,10 @@
-# Insertion Sort
+# Insertion Sort For Singly Linked List
 
-To sort an array of size n in ascending order by using Insertion sort: 
-- Iterate from arr[1] to arr[n] over the array. 
-- Compare the current element (key) to its predecessor. 
-- If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.
+To sort a linked list in ascending order by using Insertion sort: 
+- Create an empty list as result
+- Traverse the given list and do the following:
+    - Insert the current node in a sorted way in the result
+    - Change the head of given linked list to the head of the result
 
 ### Example 1
 ```sh
