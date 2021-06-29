@@ -58,6 +58,7 @@
 - [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/ReverseLinkedList-II)
 - [Out of Boundary Paths](https://github.com/akashanup/programming/tree/main/OutOfBoundaryPaths)
 - [Redundant Connection](https://github.com/akashanup/programming/tree/main/RedundantConnection)
+- [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
