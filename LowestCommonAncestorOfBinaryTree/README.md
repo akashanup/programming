@@ -1,25 +1,36 @@
-#  K Inverse Pairs Array
+# Lowest Common Ancestor of a Binary Tree
 
-For an integer array nums, an inverse pair is a pair of integers [i, j] where 0 <= i < j < nums.length and nums[i] > nums[j].
+Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
 
-Given two integers n and k, return the number of different arrays consist of numbers from 1 to n such that there are exactly k inverse pairs. Since the answer can be huge, return it modulo 109 + 7.
+According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
 
+[![binarytree1](binarytree1.png)]()
 ### Example 1
 ```sh
-Input: n = 3, k = 0
-Output: 1
-Explanation: Only the array [1,2,3] which consists of numbers from 1 to 3 has exactly 0 inverse pairs.
+Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
+Output: 3
+Explanation: The LCA of nodes 5 and 1 is 3.
 ```
 
+[![binarytree2](binarytree1.png)]()
 ### Example 2
 ```sh
-Input: n = 3, k = 1
-Output: 2
-Explanation: The array [1,3,2] and [2,1,3] have exactly 1 inverse pair.
+Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
+Output: 5
+Explanation: The LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.
+```
+
+### Example 3
+```sh
+Input: root = [1,2], p = 1, q = 2
+Output: 1
 ```
 
 ### Constraints
 ```sh
-1 <= n <= 1000
-0 <= k <= 1000
+The number of nodes in the tree is in the range [2, 105].
+-10^9 <= Node.val <= 10^9
+All Node.val are unique.
+p != q
+p and q will exist in the tree.
 ```
