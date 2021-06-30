@@ -62,7 +62,8 @@
 - [Candy](https://github.com/akashanup/programming/tree/main/Candy)
 - [Remove All Adjacent Duplicates In String](https://github.com/akashanup/programming/tree/main/RemoveAllAdjacentDuplicatesInString)
 - [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
-  
+- [Lowest Common Ancestor of a Binary Tree](https://github.com/akashanup/programming/tree/main/LowestCommonAncestorOfBinaryTree) 
+
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 - [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
