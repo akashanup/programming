@@ -67,6 +67,7 @@
 - [Find K Closest Elements](https://github.com/akashanup/programming/tree/main/FindKClosestElements)
 - [Max Sum Of Rectangle No Larger Than K](https://github.com/akashanup/programming/tree/main/MaxSumOfRectangleNoLargerThanK)
 - [Count Vowels Permutation](https://github.com/akashanup/programming/tree/main/CountVowelsPermutation)
+- [Reshape the Matrix](https://github.com/akashanup/programming/tree/main/ReshapeTheMatrix)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
