@@ -99,6 +99,7 @@
   - [Edit Distance](https://github.com/akashanup/programming/tree/main/EditDistance)
   - [Longest Common Subsequence of Two Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfTwoSequences)
   - [Longest Common Subsequence of Three Sequences](https://github.com/akashanup/programming/tree/main/LongestCommonSubsequenceOfThreeSequences)
+  - [Longest Increasing Subsequence](https://github.com/akashanup/programming/tree/main/LongestIncreasingSubsequence)
   - [Maximum Amount of Gold](https://github.com/akashanup/programming/tree/main/MaximumAmountOfGold)
   - [Unbounded Knapsack (Repetition of items allowed)](https://github.com/akashanup/programming/tree/main/UnboundedKnapsack-RepetitionOfItemsAllowed)
   - [Partitioning Souvenirs](https://github.com/akashanup/programming/tree/main/PartitioningSouvenirs)
