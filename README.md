@@ -71,6 +71,7 @@
 - [Reduce Array Size to The Half](https://github.com/akashanup/programming/tree/main/ReduceArraySizeToTheHalf)
 - [Kth Smallest Element in a Sorted Matrix](https://github.com/akashanup/programming/tree/main/KthSmallestElementInSortedMatrix)
 - [Maximum Length of Repeated Subarray](https://github.com/akashanup/programming/tree/main/MaximumLengthOfRepeatedSubarray)
+- [Find Median from Data Stream](https://github.com/akashanup/programming/tree/main/FindMedianFromDataStream)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
