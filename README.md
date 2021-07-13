@@ -73,6 +73,7 @@
 - [Maximum Length of Repeated Subarray](https://github.com/akashanup/programming/tree/main/MaximumLengthOfRepeatedSubarray)
 - [Find Median from Data Stream](https://github.com/akashanup/programming/tree/main/FindMedianFromDataStream)
 - [Isomorphic Strings](https://github.com/akashanup/programming/tree/main/IsomorphicStrings)
+- [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
