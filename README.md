@@ -74,6 +74,7 @@
 - [Find Median from Data Stream](https://github.com/akashanup/programming/tree/main/FindMedianFromDataStream)
 - [Isomorphic Strings](https://github.com/akashanup/programming/tree/main/IsomorphicStrings)
 - [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
+- [Custom Sort String](https://github.com/akashanup/programming/tree/main/CustomSortString)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -116,3 +117,6 @@
 
   ### Stack
   - [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
+
+  ### Queue
+  - [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
