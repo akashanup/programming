@@ -76,6 +76,7 @@
 - [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
 - [Custom Sort String](https://github.com/akashanup/programming/tree/main/CustomSortString)
 - [Valid Triangle Number](https://github.com/akashanup/programming/tree/main/ValidTriangleNumber)
+- [4Sum](https://github.com/akashanup/programming/tree/main/4Sum)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
