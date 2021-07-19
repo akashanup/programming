@@ -78,6 +78,7 @@
 - [Valid Triangle Number](https://github.com/akashanup/programming/tree/main/ValidTriangleNumber)
 - [4Sum](https://github.com/akashanup/programming/tree/main/4Sum)
 - [Three Equal Parts](https://github.com/akashanup/programming/tree/main/ThreeEqualParts)
+- [ReverseNodesInK-Group](https://github.com/akashanup/programming/tree/main/ReverseNodesInK-Group)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
