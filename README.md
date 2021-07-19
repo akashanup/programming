@@ -79,6 +79,7 @@
 - [4Sum](https://github.com/akashanup/programming/tree/main/4Sum)
 - [Three Equal Parts](https://github.com/akashanup/programming/tree/main/ThreeEqualParts)
 - [ReverseNodesInK-Group](https://github.com/akashanup/programming/tree/main/ReverseNodesInK-Group)
+- [Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/programming/tree/main/LowestCommonAncestorOfBinarySearchTree)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
