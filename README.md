@@ -80,6 +80,7 @@
 - [Three Equal Parts](https://github.com/akashanup/programming/tree/main/ThreeEqualParts)
 - [ReverseNodesInK-Group](https://github.com/akashanup/programming/tree/main/ReverseNodesInK-Group)
 - [Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/programming/tree/main/LowestCommonAncestorOfBinarySearchTree)
+- [Shuffle an Array](https://github.com/akashanup/programming/tree/main/ShuffleAnArray)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
