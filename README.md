@@ -82,6 +82,7 @@
 - [Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/programming/tree/main/LowestCommonAncestorOfBinarySearchTree)
 - [Shuffle an Array](https://github.com/akashanup/programming/tree/main/ShuffleAnArray)
 - [Push Dominoes](https://github.com/akashanup/programming/tree/main/PushDominoes)
+- [Partition Array into Disjoint Intervals](https://github.com/akashanup/programming/tree/main/PartitionArrayIntoDisjointIntervals)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
