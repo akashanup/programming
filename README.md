@@ -85,7 +85,8 @@
 - [Partition Array into Disjoint Intervals](https://github.com/akashanup/programming/tree/main/PartitionArrayIntoDisjointIntervals)
 - [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/TheNumberOfTheSmallestUnoccupiedChair)
 - [Non-negative Integers without Consecutive Ones](https://github.com/akashanup/programming/tree/main/NonNegativeIntegersWithoutConsecutiveOnes)
-  
+- [Binary Tree Right Side View](https://github.com/akashanup/programming/tree/main/BinaryTreeRightSideView)
+
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 - [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
