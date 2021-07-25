@@ -83,6 +83,7 @@
 - [Shuffle an Array](https://github.com/akashanup/programming/tree/main/ShuffleAnArray)
 - [Push Dominoes](https://github.com/akashanup/programming/tree/main/PushDominoes)
 - [Partition Array into Disjoint Intervals](https://github.com/akashanup/programming/tree/main/PartitionArrayIntoDisjointIntervals)
+- [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/TheNumberOfTheSmallestUnoccupiedChair)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
