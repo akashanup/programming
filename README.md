@@ -130,3 +130,6 @@
 
   ### Queue
   - [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
+
+  ### Priority Queue(Heapq)
+  - [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
