@@ -18,15 +18,15 @@ The diagram on the right represents the answer.
 [![Tree2](tree2.png)]()
 ### Example 2
 ```sh
-Input: root = [1]
-Output: [[1]]
+Input: root = [1,0,1,0,0,0,1]
+Output: [1,null,1,null,1]
 ```
 
 [![Tree3](tree3.png)]()
 ### Example 3
 ```sh
-Input: root = []
-Output: []
+Input: root = [1,1,0,1,1,0,1,0]
+Output: [1,1,0,1,1,null,1]
 ```
 
 ### Constraints
