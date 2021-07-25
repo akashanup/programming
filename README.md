@@ -84,6 +84,7 @@
 - [Push Dominoes](https://github.com/akashanup/programming/tree/main/PushDominoes)
 - [Partition Array into Disjoint Intervals](https://github.com/akashanup/programming/tree/main/PartitionArrayIntoDisjointIntervals)
 - [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/TheNumberOfTheSmallestUnoccupiedChair)
+- [Non-negative Integers without Consecutive Ones](https://github.com/akashanup/programming/tree/main/NonNegativeIntegersWithoutConsecutiveOnes)
   
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
