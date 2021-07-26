@@ -30,7 +30,7 @@ class Solution:
                 node = self.prev
                 node.right = root
                 node.right.left = node
-                self.prev = node.right
+                self.prev = root
             else:
                 self.next = root
                 self.prev = root
