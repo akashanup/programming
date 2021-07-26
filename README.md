@@ -87,6 +87,7 @@
 - [Non-negative Integers without Consecutive Ones](https://github.com/akashanup/programming/tree/main/NonNegativeIntegersWithoutConsecutiveOnes)
 - [Binary Tree Right Side View](https://github.com/akashanup/programming/tree/main/BinaryTreeRightSideView)
 - [Vertical Order Traversal of a Binary Tree](https://github.com/akashanup/programming/tree/main/VerticalOrderTraversalOfBinaryTree)
+- [Convert Sorted Array to Binary Search Tree](https://github.com/akashanup/programming/tree/main/ConvertSortedArrayToBinarySearchTree)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
