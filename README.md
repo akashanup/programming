@@ -128,6 +128,7 @@
   ### Tree
   - [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
   - [Compute tree height](https://github.com/akashanup/programming/tree/main/ComputeTreeHeight)
+  - [Convert a given Binary Tree to Doubly Linked List](https://github.com/akashanup/programming/tree/main/ConvertGivenBinaryTreeToDoublyLinkedList)
 
   ### Stack
   - [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
