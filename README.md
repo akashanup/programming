@@ -99,6 +99,7 @@
 - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
+- [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
 
 ## Miscellaneous
   ### Searching
