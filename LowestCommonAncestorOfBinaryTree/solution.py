@@ -7,43 +7,19 @@ class TreeNode:
 
 
 class Solution:
-    def getAncestorsList(self, tree, nodeVal):
-        ancestors = []
-        while nodeVal in tree:
-            ancestors.append(tree[nodeVal])
-            nodeVal = tree[nodeVal]
-        return ancestors
-
-    def getTreeDict(self, root, tree):
-        if root:
-            if root.left:
-                left = root.left
-                tree[left.val] = root.val
-                self.getTreeDict(left, tree)
-            if root.right:
-                right = root.right
-                tree[right.val] = root.val
-                self.getTreeDict(right, tree)
-
     def lowestCommonAncestor(self, root, p, q):
+        if not root:
+            return None
         if p.val == root.val or q.val == root.val:
             return root
-        tree = {}
-        # Get a dictionary of all the nodes as indexes and their parent as respective values
-        self.getTreeDict(root, tree)
-        # Get a list of all the ancestors of a node
-        pAncestor = self.getAncestorsList(tree, p.val)
-        qAncestor = self.getAncestorsList(tree, q.val)
-        if p.val in qAncestor:
-            return TreeNode(p.val)
-        if q.val in pAncestor:
-            return TreeNode(q.val)
-        for i in pAncestor:
-            if i in qAncestor or i == q.val:
-                return TreeNode(i)
-        for i in qAncestor:
-            if i in pAncestor or i == p.val:
-                return TreeNode(i)
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+        if left and right:
+            return root
+        elif left:
+            return left
+        else:
+            return right
 
 
 node = TreeNode(3)
