@@ -102,7 +102,8 @@
 - [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
 - [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
 - [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
-- [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix/)
+- [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
+- [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
 
 ## Miscellaneous
   ### Searching
