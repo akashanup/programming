@@ -107,6 +107,7 @@
 - [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
 - [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
 - [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
+- [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
 
 ## Miscellaneous
   ### Searching
