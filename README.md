@@ -89,6 +89,7 @@
 - [Vertical Order Traversal of a Binary Tree](https://github.com/akashanup/programming/tree/main/VerticalOrderTraversalOfBinaryTree)
 - [Convert Sorted Array to Binary Search Tree](https://github.com/akashanup/programming/tree/main/ConvertSortedArrayToBinarySearchTree)
 - [Minimum Path Sum](https://github.com/akashanup/programming/tree/main/MinimumPathSum)
+- [K Closest Points to Origin](https://github.com/akashanup/programming/tree/main/K-ClosestPointsToOrigin)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
