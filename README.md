@@ -100,6 +100,7 @@
 - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
 - [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
+- [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
 
 ## Miscellaneous
   ### Searching
