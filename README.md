@@ -91,6 +91,7 @@
 - [Minimum Path Sum](https://github.com/akashanup/programming/tree/main/MinimumPathSum)
 - [K Closest Points to Origin](https://github.com/akashanup/programming/tree/main/K-ClosestPointsToOrigin)
 - [3Sum Closest](https://github.com/akashanup/programming/tree/main/3SumClosest)
+- [01 Matrix](https://github.com/akashanup/programming/tree/main/01Matrix)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
