@@ -93,6 +93,7 @@
 - [3Sum Closest](https://github.com/akashanup/programming/tree/main/3SumClosest)
 - [01 Matrix](https://github.com/akashanup/programming/tree/main/01Matrix)
 - [Map Sum Pairs](https://github.com/akashanup/programming/tree/main/MapSumPairs)
+- [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/TrappingRainWater)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
