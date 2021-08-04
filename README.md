@@ -96,6 +96,7 @@
 - [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/TrappingRainWater)
 - [Subsets II](https://github.com/akashanup/programming/tree/main/SubsetsII)
 - [Number of Islands](https://github.com/akashanup/programming/tree/main/NumberOfIslands)
+- [Path Sum II](https://github.com/akashanup/programming/tree/main/PathSumII)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
