@@ -99,6 +99,7 @@
 - [Path Sum II](https://github.com/akashanup/programming/tree/main/PathSumII)
 - [Perfect Squares](https://github.com/akashanup/programming/tree/main/PerfectSquares)
 - [Stone Game](https://github.com/akashanup/programming/tree/main/StoneGame)
+- [Unique Binary Search Trees](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTrees)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
