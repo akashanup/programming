@@ -152,6 +152,7 @@
   ### Stack
   - [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
   - [Min Stack](https://github.com/akashanup/programming/tree/main/MinStack)
+  - [Valid Parentheses](https://github.com/akashanup/programming/tree/main/ValidParentheses)
 
   ### Queue
   - [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
