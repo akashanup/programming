@@ -101,6 +101,7 @@
 - [Stone Game](https://github.com/akashanup/programming/tree/main/StoneGame)
 - [Unique Binary Search Trees](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTrees)
 - [N-ary Tree Level Order Traversal](https://github.com/akashanup/programming/tree/main/N-aryTreeLevelOrderTraversal)
+- [Daily Temperatures](https://github.com/akashanup/programming/tree/main/DailyTemperatures)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
