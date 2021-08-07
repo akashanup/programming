@@ -105,6 +105,7 @@
 - [Clone Graph](https://github.com/akashanup/programming/tree/main/CloneGraph)
 - [Target Sum](https://github.com/akashanup/programming/tree/main/TargetSum)
 - [Palindrome Partitioning II](https://github.com/akashanup/programming/tree/main/PalindromePartitioningII)
+- [Implement Queue using Stacks](https://github.com/akashanup/programming/tree/main/ImplementQueueUsingStacks)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
