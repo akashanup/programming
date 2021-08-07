@@ -107,6 +107,7 @@
 - [Palindrome Partitioning II](https://github.com/akashanup/programming/tree/main/PalindromePartitioningII)
 - [Implement Queue using Stacks](https://github.com/akashanup/programming/tree/main/ImplementQueueUsingStacks)
 - [Check if Move is Legal](https://github.com/akashanup/programming/tree/main/CheckIfMoveIsLegal)
+- [Maximum Profit in Job Scheduling](https://github.com/akashanup/programming/tree/main/MaximumProfitInJobScheduling)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
