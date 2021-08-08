@@ -110,6 +110,7 @@
 - [Maximum Profit in Job Scheduling](https://github.com/akashanup/programming/tree/main/MaximumProfitInJobScheduling)
 - [Next Greater Element III](https://github.com/akashanup/programming/tree/main/NextGreaterElementIII)
 - [Binary Tree Inorder Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreeInorderTraversal)
+- [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -174,7 +175,9 @@
   - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
-
+  - [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
+  
   ### Graphs
   - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
+  - [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
