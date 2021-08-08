@@ -12,9 +12,10 @@ class Graph:
             self.graph[v1] = [v2]
 
     def findParent(self, i):
-        if i == self.parent[i]:
-            return i
-        return self.findParent(self.parent[i])
+        if self.parent[i] != i:
+            # Path compression
+            self.parent[i] = self.findParent(self.parent[i])
+        return self.parent[i]
 
     def union(self, i, j):
         x = self.findParent(i)
@@ -22,6 +23,7 @@ class Graph:
         # If both the vertices belong to same subset then union can't be performed.
         if x == y:
             return
+        # Union by rank
         if self.rank[x] > self.rank[y]:
             self.parent[y] = x
         elif self.rank[y] > self.rank[x]:
