@@ -117,8 +117,6 @@
 - [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
 - [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
 - [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
-- [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
-- [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
 - [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
 - [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
 - [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
@@ -141,6 +139,7 @@
 
   ### Greedy Algorithm
   - [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
+  - [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   
   ### Dynamic Programming
   - [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
@@ -169,3 +168,12 @@
 
   ### Priority Queue(Heapq)
   - [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
+
+  ### Disjoint Set
+  - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
+  - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
+  - [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
+
+  ### Graphs
+  - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
+  - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
