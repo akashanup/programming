@@ -1,13 +1,9 @@
-class Subset:
-    def __init__(self, parent, rank):
-        self.parent = parent
-        self.rank = rank
-
-
 class Graph:
     def __init__(self, vertices):
         self.vertices = vertices
         self.graph = {}
+        self.parent = {}
+        self.rank = {}
 
     def addEdge(self, v1, v2):
         if v1 in self.graph:
@@ -15,39 +11,48 @@ class Graph:
         else:
             self.graph[v1] = [v2]
 
-    def findParent(self, subsets, node):
-        if subsets[node].parent == node:
-            return subsets[node].parent
-        else:
-            return self.findParent(subsets, subsets[node].parent)
+    def findParent(self, i):
+        if i == self.parent[i]:
+            return i
+        return self.findParent(self.parent[i])
 
-    @staticmethod
-    def union(subsets, v1, v2):
-        if subsets[v1].rank > subsets[v2].rank:
-            subsets[v2].parent = v1
-        elif subsets[v2].rank > subsets[v1].rank:
-            subsets[v1].parent = v2
+    def union(self, i, j):
+        x = self.findParent(i)
+        y = self.findParent(j)
+        # If both the vertices belong to same subset then union can't be performed.
+        if x == y:
+            return
+        if self.rank[x] > self.rank[y]:
+            self.parent[y] = x
+        elif self.rank[y] > self.rank[x]:
+            self.parent[x] = y
         else:
-            subsets[v2].parent = v1
-            subsets[v1].rank += 1
+            # Either do this.
+            self.parent[y] = x
+            self.rank[x] += 1
+            # Or do this.
+            # self.parent[x] = y
+            # self.rank[y] += 1
 
-    def initializeSubset(self):
-        return {i: Subset(i, 0) for i in self.vertices}
+    def makeSet(self, i):
+        self.parent[i] = i
+        self.rank[i] = 0
 
     def isCyclic(self):
-        subsets = self.initializeSubset()
+        # Initialize sets
+        [self.makeSet(i) for i in self.vertices]
+
         # Iterate through all edges of graph,
-        # find sets of both vertices of every
-        # edge, if sets are same, then there
-        # is cycle in graph.
+        # find sets of both vertices of every edge,
+        # If sets are same, then there is cycle in graph.
         for i in self.graph:
-            x = self.findParent(subsets, i)
+            x = self.findParent(i)
             for j in self.graph[i]:
-                y = self.findParent(subsets, j)
+                y = self.findParent(j)
                 if x == y:
                     return True
                 else:
-                    self.union(subsets, x, y)
+                    self.union(x, y)
         return False
 
 
