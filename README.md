@@ -176,8 +176,10 @@
   - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   - [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
-  
+  - [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
+
   ### Graphs
   - [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
+  - [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
