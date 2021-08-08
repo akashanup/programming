@@ -109,6 +109,7 @@
 - [Check if Move is Legal](https://github.com/akashanup/programming/tree/main/CheckIfMoveIsLegal)
 - [Maximum Profit in Job Scheduling](https://github.com/akashanup/programming/tree/main/MaximumProfitInJobScheduling)
 - [Next Greater Element III](https://github.com/akashanup/programming/tree/main/NextGreaterElementIII)
+- [Binary Tree Inorder Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreeInorderTraversal)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
