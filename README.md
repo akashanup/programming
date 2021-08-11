@@ -114,6 +114,7 @@
 - [Add Strings](https://github.com/akashanup/programming/tree/main/AddStrings)
 - [LRU Cache](https://github.com/akashanup/programming/tree/main/LRU-Cache)
 - [Valid Tic-Tac-Toe State](https://github.com/akashanup/programming/tree/main/ValidTicTacToeState)
+- [Array of Doubled Pairs](https://github.com/akashanup/programming/tree/main/ArrayOfDoubledPairs)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
