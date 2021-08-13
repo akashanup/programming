@@ -116,6 +116,7 @@
 - [Valid Tic-Tac-Toe State](https://github.com/akashanup/programming/tree/main/ValidTicTacToeState)
 - [Array of Doubled Pairs](https://github.com/akashanup/programming/tree/main/ArrayOfDoubledPairs)
 - [Group Anagrams](https://github.com/akashanup/programming/tree/main/GroupAnagrams)
+- [Set Matrix Zeroes](https://github.com/akashanup/programming/tree/main/SetMatrixZeroes)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
