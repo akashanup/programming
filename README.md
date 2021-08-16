@@ -191,3 +191,8 @@
   - [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
   - [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
   - [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
+
+  ### Strings
+  - [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
+  - [Lexicographically smallest string formed by appending a character from the first K characters of a given string](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
+  - [Lexicographically smallest string obtained after concatenating array](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
