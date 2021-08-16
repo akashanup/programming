@@ -1,24 +1,13 @@
-class Solution:
-    def applicableCombinations(self, coins, val, lasCoinUsed, combination):
-        if val == 0:
-            return combination
-        else:
-            for i in coins[coins.index(lasCoinUsed):]:
-                if val - i >= 0:
-                    combination.append(i)
-                    return self.applicableCombinations(coins, val - i, i, combination)
-            return []
+import sys
 
-    def minCoins(self, coins, val):
-        coins = sorted(coins, reverse=True)
-        combinations = []
-        for i in coins:
-            combination = self.applicableCombinations(coins, val, i, [])
-            if len(combination):
-                combinations.append(combination)
-        print(combinations)
-        if len(combinations):
-            combinations.sort(key=lambda x: len(x))
-            return len(combinations[0])
-        else:
+
+class Solution:
+    def coinChange(self, coins: List[int], amount: int) -> int:
+        dp = [0] + [sys.maxsize for _ in range(amount)]
+        for i in range(1, amount+1):
+            for coin in coins:
+                if i - coin >= 0:
+                    dp[i] = min(dp[i], dp[i-coin] + 1)
+        if dp[amount] == sys.maxsize:
             return -1
+        return dp[amount]
