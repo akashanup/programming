@@ -117,6 +117,8 @@
 - [Array of Doubled Pairs](https://github.com/akashanup/programming/tree/main/ArrayOfDoubledPairs)
 - [Group Anagrams](https://github.com/akashanup/programming/tree/main/GroupAnagrams)
 - [Set Matrix Zeroes](https://github.com/akashanup/programming/tree/main/SetMatrixZeroes)
+- [Count Good Nodes In Binary Tree](https://github.com/akashanup/programming/tree/main/CountGoodNodesInBinaryTree)
+- [Maximum Product of Splitted Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumProductOfSplittedBinaryTree)
 
 ## GeeksforGeeks
 - [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
