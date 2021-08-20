@@ -119,6 +119,7 @@
 116. [Set Matrix Zeroes](https://github.com/akashanup/programming/tree/main/SetMatrixZeroes)
 117. [Count Good Nodes In Binary Tree](https://github.com/akashanup/programming/tree/main/CountGoodNodesInBinaryTree)
 118. [Maximum Product of Splitted Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumProductOfSplittedBinaryTree)
+119. [Valid Sudoku](https://github.com/akashanup/programming/tree/main/ValidSudoku)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
