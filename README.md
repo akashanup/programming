@@ -120,6 +120,8 @@
 117. [Count Good Nodes In Binary Tree](https://github.com/akashanup/programming/tree/main/CountGoodNodesInBinaryTree)
 118. [Maximum Product of Splitted Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumProductOfSplittedBinaryTree)
 119. [Valid Sudoku](https://github.com/akashanup/programming/tree/main/ValidSudoku)
+120. [Two Sum IV - Input is a BST](https://github.com/akashanup/programming/tree/main/TwoSum-IV-InputIsBST)
+121. [Complex Number Multiplication](https://github.com/akashanup/programming/tree/main/ComplexNumberMultiplication)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
