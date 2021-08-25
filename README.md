@@ -122,6 +122,7 @@
 119. [Valid Sudoku](https://github.com/akashanup/programming/tree/main/ValidSudoku)
 120. [Two Sum IV - Input is a BST](https://github.com/akashanup/programming/tree/main/TwoSum-IV-InputIsBST)
 121. [Complex Number Multiplication](https://github.com/akashanup/programming/tree/main/ComplexNumberMultiplication)
+122. [Sum of Square Numbers](https://github.com/akashanup/programming/tree/main/SumOfSquareNumbers)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
