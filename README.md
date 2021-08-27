@@ -123,6 +123,7 @@
 120. [Two Sum IV - Input is a BST](https://github.com/akashanup/programming/tree/main/TwoSum-IV-InputIsBST)
 121. [Complex Number Multiplication](https://github.com/akashanup/programming/tree/main/ComplexNumberMultiplication)
 122. [Sum of Square Numbers](https://github.com/akashanup/programming/tree/main/SumOfSquareNumbers)
+123. [Longest Uncommon Subsequence II](https://github.com/akashanup/programming/tree/main/LongestUncommonSubsequenceII)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
