@@ -124,6 +124,7 @@
 121. [Complex Number Multiplication](https://github.com/akashanup/programming/tree/main/ComplexNumberMultiplication)
 122. [Sum of Square Numbers](https://github.com/akashanup/programming/tree/main/SumOfSquareNumbers)
 123. [Longest Uncommon Subsequence II](https://github.com/akashanup/programming/tree/main/LongestUncommonSubsequenceII)
+124. [Range Addition II](https://github.com/akashanup/programming/tree/main/RangeAdditionII)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
