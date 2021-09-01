@@ -126,6 +126,7 @@
 123. [Longest Uncommon Subsequence II](https://github.com/akashanup/programming/tree/main/LongestUncommonSubsequenceII)
 124. [Range Addition II](https://github.com/akashanup/programming/tree/main/RangeAdditionII)
 125. [Find Minimum in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/FindMinimumInRotatedSortedArray)
+126. [Array Nesting](https://github.com/akashanup/programming/tree/main/ArrayNesting)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
