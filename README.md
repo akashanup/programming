@@ -128,6 +128,7 @@
 125. [Find Minimum in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/FindMinimumInRotatedSortedArray)
 126. [Array Nesting](https://github.com/akashanup/programming/tree/main/ArrayNesting)
 127. [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTreesII)
+128. [Sum of Distances in Tree](https://github.com/akashanup/programming/tree/main/SumOfDistancesInTree)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
