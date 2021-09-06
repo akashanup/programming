@@ -130,6 +130,8 @@
 127. [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTreesII)
 128. [Sum of Distances in Tree](https://github.com/akashanup/programming/tree/main/SumOfDistancesInTree)
 129. [Orderly Queue](https://github.com/akashanup/programming/tree/main/OrderlyQueue)
+130. [Slowest Key](https://github.com/akashanup/programming/tree/main/SlowestKey)
+
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
