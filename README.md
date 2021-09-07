@@ -195,18 +195,13 @@
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
 
-  ### Disjoint Set
+  ### Graphs & Disjoint Set
   1. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
   2. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
   3. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   4. [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
   5. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
-
-  ### Graphs
-  1. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
-  2. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
-  3. [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
-  4. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
+  6. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
