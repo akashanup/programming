@@ -1,20 +1,22 @@
+import unittest
+
 class Solution:
-    def merge(self, num1, num2):
+    def merge(self, nums1, nums2):
         i = 0
         j = 0
         mergeArray = []
-        while i < len(num1) and j < len(num2):
-            if num1[i] > num2[j]:
-                mergeArray.append(num1[i])
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] < nums2[j]:
+                mergeArray.append(nums1[i])
                 i += 1
             else:
-                mergeArray.append(num2[j])
+                mergeArray.append(nums2[j])
                 j += 1
-        while i < len(num1):
-            mergeArray.append(num1[i])
+        while i < len(nums1):
+            mergeArray.append(nums1[i])
             i += 1
-        while j < len(num2):
-            mergeArray.append(num2[j])
+        while j < len(nums2):
+            mergeArray.append(nums2[j])
             j += 1
         return mergeArray
 
@@ -28,4 +30,19 @@ class Solution:
             return arr
 
 
-print(Solution().mergeSort([12, 11, 13, 5, 6, 7]))
+class Test(unittest.TestCase):
+    def testMergeSort1(self):
+        arr = [12, 11, 13, 5, 6, 7]
+        actual = Solution().mergeSort(arr)
+        expected = sorted(arr)
+        self.assertEqual(actual, expected)
+
+    def testMergeSort2(self):
+        arr = [8, 4, 3, 35, 6, 10, 13]
+        actual = Solution().mergeSort(arr)
+        expected = sorted(arr)
+        self.assertEqual(actual, expected)
+
+
+if __name__ == "__main__":
+    unittest.main(verbosity=2)
