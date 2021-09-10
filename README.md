@@ -204,6 +204,7 @@
   5. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
   6. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
   7. [Adding Exits to a Maze](https://github.com/akashanup/programming/tree/main/AddingExitsToMaze)
+  8. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
