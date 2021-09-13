@@ -134,6 +134,8 @@
 131. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
 132. [Shifting Letters](https://github.com/akashanup/programming/tree/main/ShiftingLetters)
 133. [Largest Plus Sign](https://github.com/akashanup/programming/tree/main/LargestPlusSign)
+134. [Basic Calculator](https://github.com/akashanup/programming/tree/main/BasicCalculator)
+135. [Maximum Number of Balloons](https://github.com/akashanup/programming/tree/main/MaximumNumberOfBalloons)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
