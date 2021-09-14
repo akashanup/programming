@@ -8,7 +8,7 @@ Then, it is enough to check whether the resulting graph contains a cycle.
 
 **Task:** Check whether a given directed graph with 𝑛 vertices and 𝑚 edges contains a cycle.
 
-**Input:** Format. A graph is given in the standard format.
+**Input:** A graph is given in the standard format.
 
 **Output:** Output 1 if the graph contains a cycle and 0 otherwise.
 
