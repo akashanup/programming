@@ -4,8 +4,8 @@ import unittest
 class Solution:
     def binarySearch(self, nums, num):
         start = 0
-        end = len(nums)
-        while start < end:
+        end = len(nums) - 1
+        while start <= end:
             mid = start + ((end - start) // 2)
             if nums[mid] == num:
                 return mid
@@ -25,6 +25,11 @@ class UnitTest(unittest.TestCase):
     def testBinarySearch2(self):
         actual = Solution().binarySearch(nums=[3, 4, 5, 6, 7, 8, 9, 10, 1, 2], num=5)
         expected = 2
+        self.assertEqual(actual, expected)
+
+    def testBinarySearch3(self):
+        actual = Solution().binarySearch(nums=[5, 6, 7, 8, 9, 10, 1, 2, 3], num=3)
+        expected = 8
         self.assertEqual(actual, expected)
 
 
