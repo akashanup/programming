@@ -157,6 +157,8 @@
 ## Miscellaneous
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
+  2. [Find Maximum Value in Array](https://github.com/akashanup/programming/tree/main/FindMaximumValueInArray)
+  3. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
