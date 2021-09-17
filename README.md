@@ -138,6 +138,8 @@
 135. [Maximum Number of Balloons](https://github.com/akashanup/programming/tree/main/MaximumNumberOfBalloons)
 136. [Reverse Only Letters](https://github.com/akashanup/programming/tree/main/ReverseOnlyLetters)
 137. [Longest Turbulent Subarray](https://github.com/akashanup/programming/tree/main/LongestTurbulentSubarray)
+138. [Spiral Matrix](https://github.com/akashanup/programming/tree/main/SpiralMatrix)
+139. [Intersection of Two Arrays II](https://github.com/akashanup/programming/tree/main/IntersectionOfTwoArraysII)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
