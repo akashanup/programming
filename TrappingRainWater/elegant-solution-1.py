@@ -23,4 +23,4 @@ class Solution:
         for h in range(walls):
             water += (min(suffixMaxHeight[h], prefixMaxHeight[h]) - height[h])
         return water
-        
+
