@@ -141,6 +141,8 @@
 138. [Spiral Matrix](https://github.com/akashanup/programming/tree/main/SpiralMatrix)
 139. [Intersection of Two Arrays II](https://github.com/akashanup/programming/tree/main/IntersectionOfTwoArraysII)
 140. [Expression Add Operators](https://github.com/akashanup/programming/tree/main/ExpressionAddOperators)
+141. [Find Original Array From Doubled Array](https://github.com/akashanup/programming/tree/main/FindOriginalArrayFromDoubledArray)
+142. [Maximum Earnings From Taxi](https://github.com/akashanup/programming/tree/main/MaximumEarningsFromTaxi)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -171,6 +173,7 @@
   5. [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountInversionsInAnArray)
   6. [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
   7. [Move All Zeros To End Of List](https://github.com/akashanup/python-programming/tree/main/MoveAllZerosToEndOfList)
+  8. [Counting Sort - Segregation Logic To Sort 0s, 1s and 2s](https://github.com/akashanup/python-programming/tree/main/CountingSort-SegregationLogicToSortZerosOnesAndTwos)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
