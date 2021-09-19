@@ -231,3 +231,6 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckingWhetherAny
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
   2. [Lexicographically smallest string formed by appending a character from the first K characters of a given string](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
   3. [Lexicographically smallest string obtained after concatenating array](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
+
+  ### Arrays
+  1. [Remove Duplicates From Sorted Array](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedArray)
