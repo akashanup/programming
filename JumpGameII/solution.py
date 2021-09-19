@@ -2,10 +2,10 @@ class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
         
-        if (n == 1 or nums[0] == 0):
+        if n == 1 or nums[0] == 0:
             return 0
         
-        jumps = 1;
+        jumps = 1
         current = nums[0]
         farthest = nums[0]
         
