@@ -180,6 +180,9 @@
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
   2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
+
+  ### Backtracking
+  1. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
   
   ### Dynamic Programming
   1. [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
