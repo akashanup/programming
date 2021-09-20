@@ -235,4 +235,4 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckingWhetherAny
 
   ### Arrays
   1. [Remove Duplicates From Sorted Array](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedArray)
-  2. [Left Side More Right Side Less](https://github.com/akashanup/programming/tree/main/LeftSideMoreRightSideLess)
+  2. [Left Side Less Right Side More](https://github.com/akashanup/programming/tree/main/LeftSideLessRightSideMore)
