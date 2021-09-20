@@ -173,10 +173,11 @@
   2. [Binary Insertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
   3. [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
   4. [Count Inversions in an array](https://github.com/akashanup/programming/tree/main/MergeSort)
-  5. [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountInversionsInAnArray)
-  6. [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
-  7. [Move All Zeros To End Of List](https://github.com/akashanup/python-programming/tree/main/MoveAllZerosToEndOfList)
-  8. [Counting Sort - Segregation Logic To Sort 0s, 1s and 2s](https://github.com/akashanup/python-programming/tree/main/CountingSort-SegregationLogicToSortZerosOnesAndTwos)
+  5. [Quick Sort](https://github.com/akashanup/programming/tree/main/QuickSort)
+  6. [Counting Sort](https://github.com/akashanup/python-programming/tree/main/CountInversionsInAnArray)
+  7. [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
+  8. [Move All Zeros To End Of List](https://github.com/akashanup/python-programming/tree/main/MoveAllZerosToEndOfList)
+  9. [Counting Sort - Segregation Logic To Sort 0s, 1s and 2s](https://github.com/akashanup/python-programming/tree/main/CountingSort-SegregationLogicToSortZerosOnesAndTwos)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
