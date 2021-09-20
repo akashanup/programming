@@ -145,6 +145,7 @@
 142. [Maximum Earnings From Taxi](https://github.com/akashanup/programming/tree/main/MaximumEarningsFromTaxi)
 143. [Sum of Beauty in the Array](https://github.com/akashanup/programming/tree/main/SumOfBeautyInTheArray)
 144. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
+144. [Find Winner on a Tic Tac Toe Game](https://github.com/akashanup/programming/tree/main/FindWinnerOnTicTacToeGame)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
