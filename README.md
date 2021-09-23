@@ -147,6 +147,7 @@
 144. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
 144. [Find Winner on a Tic Tac Toe Game](https://github.com/akashanup/programming/tree/main/FindWinnerOnTicTacToeGame)
 145. [Maximum Length of a Concatenated String with Unique Characters](https://github.com/akashanup/programming/tree/main/MaximumLengthOfConcatenatedStringWithUniqueCharacters)
+146. [Break a Palindrome](https://github.com/akashanup/programming/tree/main/BreakPalindrome)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
