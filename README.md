@@ -145,9 +145,10 @@
 142. [Maximum Earnings From Taxi](https://github.com/akashanup/programming/tree/main/MaximumEarningsFromTaxi)
 143. [Sum of Beauty in the Array](https://github.com/akashanup/programming/tree/main/SumOfBeautyInTheArray)
 144. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
-144. [Find Winner on a Tic Tac Toe Game](https://github.com/akashanup/programming/tree/main/FindWinnerOnTicTacToeGame)
-145. [Maximum Length of a Concatenated String with Unique Characters](https://github.com/akashanup/programming/tree/main/MaximumLengthOfConcatenatedStringWithUniqueCharacters)
-146. [Break a Palindrome](https://github.com/akashanup/programming/tree/main/BreakPalindrome)
+145. [Find Winner on a Tic Tac Toe Game](https://github.com/akashanup/programming/tree/main/FindWinnerOnTicTacToeGame)
+146. [Maximum Length of a Concatenated String with Unique Characters](https://github.com/akashanup/programming/tree/main/MaximumLengthOfConcatenatedStringWithUniqueCharacters)
+147. [Break a Palindrome](https://github.com/akashanup/programming/tree/main/BreakPalindrome)
+148. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -184,6 +185,7 @@
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
   2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
+  3. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
 
   ### Backtracking
   1. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
