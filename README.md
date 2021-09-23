@@ -229,7 +229,7 @@
   8. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
   9. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
   10. [Checking Whether Any Intersection in a City is Reachable from
-Any Other](https://github.com/akashanup/programming/tree/main/CheckingWhetherAnyIntersectionInCityIsReachableFromAnyOther)
+Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
