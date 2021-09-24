@@ -149,6 +149,7 @@
 146. [Maximum Length of a Concatenated String with Unique Characters](https://github.com/akashanup/programming/tree/main/MaximumLengthOfConcatenatedStringWithUniqueCharacters)
 147. [Break a Palindrome](https://github.com/akashanup/programming/tree/main/BreakPalindrome)
 148. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
+149. [N-th Tribonacci Number](https://github.com/akashanup/programming/tree/main/NthTribonacciNumber)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
