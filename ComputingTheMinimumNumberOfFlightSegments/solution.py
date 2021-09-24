@@ -14,6 +14,7 @@ class Solution:
         queue = [[0, u]]
         while queue:
             currentLevel, currentNode = queue.pop(0)
+            visited[currentNode] = True
             if currentNode == v:
                 return currentLevel
             for node in graph[currentNode]:
