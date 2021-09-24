@@ -234,6 +234,7 @@
   10. [Checking Whether Any Intersection in a City is Reachable from
 Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
   11. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
+  12. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
