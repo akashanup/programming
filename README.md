@@ -233,6 +233,7 @@
   9. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
   10. [Checking Whether Any Intersection in a City is Reachable from
 Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
+  11. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
