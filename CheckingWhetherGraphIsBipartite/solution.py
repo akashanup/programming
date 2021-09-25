@@ -11,17 +11,19 @@ class Solution:
         for x, y in edges:
             graph[x].append(y)
             graph[y].append(x)
-        colors[1] = 1
-        queue = [1]
-        while queue:
-            currentNode = queue.pop(0)
-            for node in graph[currentNode]:
-                if colors[node] is None:
-                    colors[node] = 1 - colors[currentNode]
-                    queue.append(node)
-                elif colors[node] == colors[currentNode]:
-                    return 0
-        return 1
+        for i in range(1, nodes+1):
+            if colors[i] is None:
+                colors[i] = 1
+                queue = [i]
+                while queue:
+                    currentNode = queue.pop(0)
+                    for node in graph[currentNode]:
+                        if colors[node] is None:
+                            colors[node] = 1 - colors[currentNode]
+                            queue.append(node)
+                        elif colors[node] == colors[currentNode]:
+                            return False
+        return True
 
 
 class Test(unittest.TestCase):
