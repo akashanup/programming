@@ -154,6 +154,7 @@
 151. [Search Insert Position](https://github.com/akashanup/programming/tree/main/SearchInsertPosition)
 152. [Shortest Path in a Grid with Obstacles Elimination](https://github.com/akashanup/programming/tree/main/ShortestPathInGridWithObstaclesElimination)
 153. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
+154. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -176,6 +177,7 @@
   2. [Find Maximum Value in Array](https://github.com/akashanup/programming/tree/main/FindMaximumValueInArray)
   3. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
   4. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
+  5. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
