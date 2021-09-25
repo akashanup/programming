@@ -152,6 +152,7 @@
 149. [N-th Tribonacci Number](https://github.com/akashanup/programming/tree/main/NthTribonacciNumber)
 150. [Is Graph Bipartite?](https://github.com/akashanup/programming/tree/main/IsGraphBipartite)
 151. [Search Insert Position](https://github.com/akashanup/programming/tree/main/SearchInsertPosition)
+152. [Shortest Path in a Grid with Obstacles Elimination](https://github.com/akashanup/programming/tree/main/ShortestPathInGridWithObstaclesElimination)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
