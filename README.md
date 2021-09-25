@@ -150,6 +150,7 @@
 147. [Break a Palindrome](https://github.com/akashanup/programming/tree/main/BreakPalindrome)
 148. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
 149. [N-th Tribonacci Number](https://github.com/akashanup/programming/tree/main/NthTribonacciNumber)
+150. [Is Graph Bipartite?](https://github.com/akashanup/programming/tree/main/IsGraphBipartite)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
