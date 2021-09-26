@@ -178,6 +178,7 @@
   3. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
   4. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
   5. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
+  5. [Find Element In Sorted Array Of Infinite Numbers](https://github.com/akashanup/programming/tree/main/FindElementInSortedArrayOfInfiniteNumbers)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
