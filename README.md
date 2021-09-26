@@ -156,6 +156,7 @@
 153. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
 154. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
 155. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
+156. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -181,7 +182,8 @@
   5. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
   6. [Find Element In Sorted Array Of Infinite Numbers](https://github.com/akashanup/programming/tree/main/FindElementInSortedArrayOfInfiniteNumbers)
   7. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
-  7. [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
+  8. [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
+  9. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
