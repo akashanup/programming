@@ -1,37 +1,31 @@
-import unittest
-
-
 class Solution:
-    def binarySearch(self, nums, num):
+    def findPivot(self, nums):
         start = 0
         end = len(nums) - 1
         while start <= end:
             mid = start + ((end - start) // 2)
-            if nums[mid] == num:
+            if mid < end and nums[mid] > nums[mid + 1]:
                 return mid
-            elif nums[start] <= num < nums[mid]:
+            elif mid > start and nums[mid] < nums[mid - 1]:
+                return mid - 1
+            elif nums[mid] > nums[start]:
+                start = mid + 1
+            else:
+                end = mid - 1
+        return start
+
+    def binarySearch(self, nums, start, end, target):
+        while start <= end:
+            mid = start + ((end - start) // 2)
+            if nums[mid] == target:
+                return mid
+            elif target < nums[mid]:
                 end = mid - 1
             else:
                 start = mid + 1
         return -1
 
-
-class UnitTest(unittest.TestCase):
-    def testbinarySearch1(self):
-        actual = Solution().binarySearch(nums=[3, 4, 5, 6, 7, 8, 9, 10, 1, 2], num=1)
-        expected = 8
-        self.assertEqual(actual, expected)
-
-    def testBinarySearch2(self):
-        actual = Solution().binarySearch(nums=[3, 4, 5, 6, 7, 8, 9, 10, 1, 2], num=5)
-        expected = 2
-        self.assertEqual(actual, expected)
-
-    def testBinarySearch3(self):
-        actual = Solution().binarySearch(nums=[5, 6, 7, 8, 9, 10, 1, 2, 3], num=3)
-        expected = 8
-        self.assertEqual(actual, expected)
-
-
-if __name__ == "__main__":
-    unittest.main(verbosity=2)
+    def search(self, nums: List[int], target: int) -> int:
+        pivotIndex = self.findPivot(nums)
+        targetIndex = self.binarySearch(nums, 0, pivotIndex, target)
+        return targetIndex if targetIndex != -1 else self.binarySearch(nums, pivotIndex+1, len(nums)-1, target)
