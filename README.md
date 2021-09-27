@@ -157,6 +157,7 @@
 154. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
 155. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
 156. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
+157. [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/UniqueEmailAddresses)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
