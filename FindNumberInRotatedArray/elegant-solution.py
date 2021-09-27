@@ -4,22 +4,27 @@ class Solution:
         end = len(nums) - 1
         while start <= end:
             mid = start + ((end - start) // 2)
+            """
+                Update start and end pointers based on the different parts of array where target may lie.
+                For example - Consider the following array:
+                arr = [4, 5, 6, 7, 8, 1, 2, 3] 
+                parts of array would be:
+                1st part: 4-7
+                2nd part: 8
+                3rd part: 1-3
+            """
             if nums[mid] == target:
                 return mid
             elif nums[start] <= nums[mid]:
-                if nums[mid] < target:
-                    start = mid + 1
+                # 1st part of array i.e, if target lies in first part of array then search only in that part Else search in the remaining parts
+                if nums[start] <= target < nums[mid]:
+                    end = mid - 1
                 else:
-                    if nums[start] <= target:
-                        end = mid - 1
-                    else:
-                        start = mid + 1                    
+                    start = mid + 1
             else:
-                if nums[mid] < target:
-                    if nums[end] < target:
-                        end = mid - 1
-                    else:
-                        start = mid + 1
+                # 3rd part of array i.e, if target lies in 3rd part then search only in that part Else search in the remaining parts.
+                if nums[mid] < target <= nums[end]:
+                    start = mid + 1
                 else:
                     end = mid - 1
         return -1
