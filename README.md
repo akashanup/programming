@@ -186,6 +186,7 @@
   8. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
   9. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
   10. [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArrayII)
+  11. [Find the Rotation Count in Rotated Sorted array](https://github.com/akashanup/programming/tree/main/FindTheRotationCountInRotatedSortedArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
