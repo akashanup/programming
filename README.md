@@ -178,13 +178,14 @@
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
   2. [Find Maximum Value in Array](https://github.com/akashanup/programming/tree/main/FindMaximumValueInArray)
-  3. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
-  4. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
-  5. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
-  6. [Find Element In Sorted Array Of Infinite Numbers](https://github.com/akashanup/programming/tree/main/FindElementInSortedArrayOfInfiniteNumbers)
-  7. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
-  8. [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
-  9. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
+  3. [Find Smallest Letter Greater Than Target](https://github.com/akashanup/programming/tree/main/FindSmallestLetterGreaterThanTarget)
+  4. [Find First and Last Position of Element in Sorted Array](https://github.com/akashanup/programming/tree/main/FindFirstAndLastPositionOfElementInSortedArray)
+  5. [Find Element In Sorted Array Of Infinite Numbers](https://github.com/akashanup/programming/tree/main/FindElementInSortedArrayOfInfiniteNumbers)
+  6. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
+  7. [Find Peak Element](https://github.com/akashanup/programming/tree/main/FindPeakElement)
+  8. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
+  9. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
+  10. [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArrayII)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
