@@ -1,5 +1,5 @@
 class Solution:
-    def findPivot(self, nums):
+    def findPivotWithDuplicates(self, nums):
         start = 0
         end = len(nums) - 1
         while start <= end:
@@ -33,6 +33,6 @@ class Solution:
         return -1
 
     def search(self, nums: List[int], target: int) -> bool:
-        pivotIndex = self.findPivot(nums)
+        pivotIndex = self.findPivotWithDuplicates(nums)
         targetIndex = self.binarySearch(nums, 0, pivotIndex, target)
         return True if targetIndex != -1 else (True if self.binarySearch(nums, pivotIndex + 1, len(nums) - 1, target) != -1 else False)
