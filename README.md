@@ -158,6 +158,7 @@
 155. [Peak Index in a Mountain Array](https://github.com/akashanup/programming/tree/main/PeakIndexInMountainArray)
 156. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
 157. [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/UniqueEmailAddresses)
+158. [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/SortArrayByParityII)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
