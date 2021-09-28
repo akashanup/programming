@@ -159,6 +159,7 @@
 156. [Find in Mountain Array](https://github.com/akashanup/programming/tree/main/FindInMountainArray)
 157. [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/UniqueEmailAddresses)
 158. [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/SortArrayByParityII)
+159. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -188,6 +189,7 @@
   9. [Find Number in Rotated Array](https://github.com/akashanup/programming/tree/main/FindNumberInRotatedArray)
   10. [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArrayII)
   11. [Find the Rotation Count in Rotated Sorted array](https://github.com/akashanup/programming/tree/main/FindTheRotationCountInRotatedSortedArray)
+  12. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
