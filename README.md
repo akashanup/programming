@@ -160,21 +160,21 @@
 157. [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/UniqueEmailAddresses)
 158. [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/SortArrayByParityII)
 159. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
+160. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 2. [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
 3. [Nth Fibonacci Number Modulo M](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
-4. [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
-5. [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
-6. [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
-7. [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
-8. [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
-9. [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
-10. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
-11. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
-12. [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
-13. [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
+4. [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
+5. [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
+6. [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
+7. [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
+8. [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
+9. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
+10. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
+11. [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
+12. [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
 
 ## Miscellaneous
   ### Searching
@@ -190,6 +190,7 @@
   10. [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArrayII)
   11. [Find the Rotation Count in Rotated Sorted array](https://github.com/akashanup/programming/tree/main/FindTheRotationCountInRotatedSortedArray)
   12. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
+  13. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -206,6 +207,7 @@
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
   2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   3. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
+  4. [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
 
   ### Backtracking
   1. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
