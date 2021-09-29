@@ -163,6 +163,7 @@
 160. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
 161. [Split Linked List in Parts](https://github.com/akashanup/programming/tree/main/SplitLinkedListInParts)
 162. [Search In 2D Matrix II](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrixII)
+163. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -194,6 +195,7 @@
   12. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
   13. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
   14. [Search In 2D Matrix II](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrixII)
+  15. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
