@@ -161,6 +161,7 @@
 158. [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/SortArrayByParityII)
 159. [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/SplitArrayLargestSum)
 160. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
+161. [Split Linked List in Parts](https://github.com/akashanup/programming/tree/main/SplitLinkedListInParts)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
