@@ -166,6 +166,7 @@
 163. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
 164. [Partition to K Equal Sum Subsets](https://github.com/akashanup/programming/tree/main/PartitionToK-EqualSumSubsets)
 165. [Maximum Subarray](https://github.com/akashanup/programming/tree/main/MaximumSubarray)
+166. [Two Sum](https://github.com/akashanup/programming/tree/main/TwoSum)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
