@@ -167,6 +167,7 @@
 164. [Partition to K Equal Sum Subsets](https://github.com/akashanup/programming/tree/main/PartitionToK-EqualSumSubsets)
 165. [Maximum Subarray](https://github.com/akashanup/programming/tree/main/MaximumSubarray)
 166. [Two Sum](https://github.com/akashanup/programming/tree/main/TwoSum)
+167. [Merge Sorted Array](https://github.com/akashanup/python-programming/tree/main/MergeSortedArray)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -210,6 +211,7 @@
   7. [Radix Sort](https://github.com/akashanup/python-programming/tree/main/RadixSort)
   8. [Move All Zeros To End Of List](https://github.com/akashanup/python-programming/tree/main/MoveAllZerosToEndOfList)
   9. [Counting Sort - Segregation Logic To Sort 0s, 1s and 2s](https://github.com/akashanup/python-programming/tree/main/CountingSort-SegregationLogicToSortZerosOnesAndTwos)
+  10. [Merge Sorted Array](https://github.com/akashanup/python-programming/tree/main/MergeSortedArray)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
