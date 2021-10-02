@@ -168,6 +168,8 @@
 165. [Maximum Subarray](https://github.com/akashanup/programming/tree/main/MaximumSubarray)
 166. [Two Sum](https://github.com/akashanup/programming/tree/main/TwoSum)
 167. [Merge Sorted Array](https://github.com/akashanup/python-programming/tree/main/MergeSortedArray)
+168. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
+169. [Dungeon Game](https://github.com/akashanup/python-programming/tree/main/DungeonGame)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -218,6 +220,10 @@
   2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   3. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
   4. [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
+
+  ### Sliding Window
+  1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
+  2. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
 
   ### Backtracking
   1. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
