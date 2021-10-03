@@ -172,6 +172,7 @@
 169. [Dungeon Game](https://github.com/akashanup/python-programming/tree/main/DungeonGame)
 170. [Best Time to Buy and Sell Stock](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStock)
 171. [Jump Game](https://github.com/akashanup/python-programming/tree/main/JumpGame)
+172. [Sqrt(x)](https://github.com/akashanup/python-programming/tree/main/Sqrt-x)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -204,6 +205,7 @@
   13. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
   14. [Search In 2D Matrix II](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrixII)
   15. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
+  16. [Sqrt(x)](https://github.com/akashanup/python-programming/tree/main/Sqrt-x)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
