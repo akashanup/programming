@@ -171,6 +171,7 @@
 168. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
 169. [Dungeon Game](https://github.com/akashanup/python-programming/tree/main/DungeonGame)
 170. [Best Time to Buy and Sell Stock](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStock)
+171. [Jump Game](https://github.com/akashanup/python-programming/tree/main/JumpGame)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
