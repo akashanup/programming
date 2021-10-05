@@ -215,6 +215,7 @@
   19. [Minimum Number of Operations to Make Array Continuous](https://github.com/akashanup/programming/tree/main/MinimumNumberOfOperationsToMakeArrayContinuous)
   20. [Search In 2D Matrix II](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrixII)
   21. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
+  22. [Count Negative Numbers in a Sorted Matrix](https://github.com/akashanup/programming/tree/main/CountNegativeNumbersInSortedMatrix)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
