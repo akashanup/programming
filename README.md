@@ -177,6 +177,8 @@
 174. [Two Sum II - Input Array Is Sorted](https://github.com/akashanup/python-programming/tree/main/TwoSumII-InputArrayIsSorted)
 175. [Island Perimeter](https://github.com/akashanup/python-programming/tree/main/IslandPerimeter)
 176. [Climbing Stairs](https://github.com/akashanup/python-programming/tree/main/ClimbingStairs)
+177. [Diagonal Traverse](https://github.com/akashanup/python-programming/tree/main/DiagonalTraverse)
+178. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -216,6 +218,7 @@
   20. [Search In 2D Matrix II](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrixII)
   21. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
   22. [Count Negative Numbers in a Sorted Matrix](https://github.com/akashanup/programming/tree/main/CountNegativeNumbersInSortedMatrix)
+  23. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -268,6 +271,10 @@
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
   2. [Design Circular Queue](https://github.com/akashanup/programming/tree/main/DesignCircularQueue)
+
+  ### Matrix
+  1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
+  2. [Diagonal TraverseII](https://github.com/akashanup/programming/tree/main/DiagonalTraverseII)
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
