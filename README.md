@@ -219,6 +219,7 @@
   21. [Search In 2D Matrix](https://github.com/akashanup/programming/tree/main/SearchIn2DMatrix)
   22. [Count Negative Numbers in a Sorted Matrix](https://github.com/akashanup/programming/tree/main/CountNegativeNumbersInSortedMatrix)
   23. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
+  24. [First Unique Character in a String](https://github.com/akashanup/programming/tree/main/FirstUniqueCharacterInString)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
