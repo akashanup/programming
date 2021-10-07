@@ -179,6 +179,7 @@
 176. [Climbing Stairs](https://github.com/akashanup/python-programming/tree/main/ClimbingStairs)
 177. [Diagonal Traverse](https://github.com/akashanup/python-programming/tree/main/DiagonalTraverse)
 178. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
+179. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -244,7 +245,9 @@
   2. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
 
   ### Backtracking
-  1. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
+  1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
+  2. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
+  3. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
   
   ### Dynamic Programming
   1. [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
