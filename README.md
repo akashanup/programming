@@ -180,6 +180,7 @@
 177. [Diagonal Traverse](https://github.com/akashanup/python-programming/tree/main/DiagonalTraverse)
 178. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
 179. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
+180. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
