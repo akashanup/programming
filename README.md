@@ -181,6 +181,7 @@
 178. [Find All Duplicates in an Array](https://github.com/akashanup/programming/tree/main/FindAllDuplicatesInAnArray)
 179. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
 180. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
+181. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -283,6 +284,10 @@
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
+
+  ### Trie
+  1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
+
 
   ### Graphs & Disjoint Set
   1. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
