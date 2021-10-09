@@ -235,6 +235,7 @@
   8. [Move All Zeros To End Of List](https://github.com/akashanup/python-programming/tree/main/MoveAllZerosToEndOfList)
   9. [Counting Sort - Segregation Logic To Sort 0s, 1s and 2s](https://github.com/akashanup/python-programming/tree/main/CountingSort-SegregationLogicToSortZerosOnesAndTwos)
   10. [Merge Sorted Array](https://github.com/akashanup/python-programming/tree/main/MergeSortedArray)
+  11. [Sort an Array](https://github.com/akashanup/python-programming/tree/main/SortAnArray)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
