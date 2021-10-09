@@ -182,6 +182,7 @@
 179. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
 180. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 181. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
+182. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -251,6 +252,7 @@
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
   2. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
   3. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
+  4. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
   
   ### Dynamic Programming
   1. [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
@@ -288,6 +290,7 @@
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
+  2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
 
 
   ### Graphs & Disjoint Set
