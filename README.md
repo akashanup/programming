@@ -183,6 +183,7 @@
 180. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 181. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
 182. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
+183. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -287,6 +288,7 @@
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
+  2. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
