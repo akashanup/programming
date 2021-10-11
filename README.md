@@ -184,6 +184,7 @@
 181. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
 182. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
 183. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
+184. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -274,6 +275,7 @@
   1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
   2. [Compute tree height](https://github.com/akashanup/programming/tree/main/ComputeTreeHeight)
   3. [Convert a given Binary Tree to Doubly Linked List](https://github.com/akashanup/programming/tree/main/ConvertGivenBinaryTreeToDoublyLinkedList)
+  4. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
 
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
