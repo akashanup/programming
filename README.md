@@ -276,6 +276,10 @@
   2. [Compute tree height](https://github.com/akashanup/programming/tree/main/ComputeTreeHeight)
   3. [Convert a given Binary Tree to Doubly Linked List](https://github.com/akashanup/programming/tree/main/ConvertGivenBinaryTreeToDoublyLinkedList)
   4. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
+  5. [Binary Tree Level Order Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreeLevelOrderTraversal)
+  6. [Binary Tree Preorder Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreePreorderTraversal)
+  7. [Binary Tree Inorder Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreeInorderTraversal)
+  8. [Binary Tree Postorder Traversal](https://github.com/akashanup/programming/tree/main/BinaryTreePostorderTraversal)
 
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
