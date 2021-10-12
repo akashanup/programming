@@ -271,6 +271,7 @@
   9. [Partitioning Souvenirs](https://github.com/akashanup/programming/tree/main/PartitioningSouvenirs)
   10. [Word Break Problem](https://github.com/akashanup/programming/tree/main/WordBreakProblem)
   11. [Word Break Map Problem](https://github.com/akashanup/programming/tree/main/WordBreakMapProblem)
+  12. [Guess Number Higher or Lower II](https://github.com/akashanup/programming/tree/main/GuessNumberHigherOrLowerII)
 
   ### Tree
   1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
