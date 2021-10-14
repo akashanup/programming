@@ -287,6 +287,7 @@
   9. [Symmetric Tree](https://github.com/akashanup/programming/tree/main/SymmetricTree)
   10. [Construct Binary Search Tree from Preorder Traversal](https://github.com/akashanup/programming/tree/main/ConstructBinarySearchTreeFromPreorderTraversal)
   11. [Second Minimum Node In a Binary Tree](https://github.com/akashanup/programming/tree/main/SecondMinimumNodeInBinaryTree)
+  11. [Kth Smallest Element in a BST](https://github.com/akashanup/programming/tree/main/KthSmallestElementInBST)
 
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
