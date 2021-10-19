@@ -295,6 +295,7 @@
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
   2. [Min Stack](https://github.com/akashanup/programming/tree/main/MinStack)
   3. [Valid Parentheses](https://github.com/akashanup/programming/tree/main/ValidParentheses)
+  4. [Next Greater Element I](https://github.com/akashanup/programming/tree/main/NextGreaterElementI)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
