@@ -313,8 +313,7 @@
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
   2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
-
-
+  
   ### Graphs & Disjoint Set
   1. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
   2. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
@@ -341,3 +340,4 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   3. [Sub-matrix Sum Queries](https://github.com/akashanup/programming/tree/main/SubmatrixSumQueries)
   4. [Rectangle Overlap problem](https://github.com/akashanup/programming/tree/main/RectangleOverlapProblem)
   5. [Merge Intervals](https://github.com/akashanup/programming/tree/main/MergeIntervals)
+  6. [3Sum](https://github.com/akashanup/programming/tree/main/3Sum)
