@@ -342,3 +342,6 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   4. [Rectangle Overlap problem](https://github.com/akashanup/programming/tree/main/RectangleOverlapProblem)
   5. [Merge Intervals](https://github.com/akashanup/programming/tree/main/MergeIntervals)
   6. [3Sum](https://github.com/akashanup/programming/tree/main/3Sum)
+
+  ### Bit Manipulation
+  1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
