@@ -22,7 +22,7 @@ Output: [2,3]
 
 ### Constraints
 ```sh
-2 <= nums.length <= 2 * 104
+2 <= nums.length <= 2 * 10^4
 nums.length is even.
 Half of the integers in nums are even.
 0 <= nums[i] <= 1000
