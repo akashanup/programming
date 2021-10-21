@@ -344,6 +344,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   6. [3Sum](https://github.com/akashanup/programming/tree/main/3Sum)
   7. [Sort Colors](https://github.com/akashanup/programming/tree/main/SortColors)
   8. [Squares Of A Sorted Array](https://github.com/akashanup/programming/tree/main/SquaresOfSortedArray)
+  9. [Rotate Image](https://github.com/akashanup/programming/tree/main/RotateImage)
 
   ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
