@@ -345,5 +345,8 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   7. [Sort Colors](https://github.com/akashanup/programming/tree/main/SortColors)
   8. [Squares Of A Sorted Array](https://github.com/akashanup/programming/tree/main/SquaresOfSortedArray)
 
-  ### Bit Manipulation
+  ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
+
+  ### HashMap & HashSet
+  1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
