@@ -347,6 +347,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   11. [Spiral Matrix](https://github.com/akashanup/programming/tree/main/SpiralMatrix)
   12. [Spiral Matrix II](https://github.com/akashanup/programming/tree/main/SpiralMatrixII)
   13. [Non-overlapping Intervals](https://github.com/akashanup/programming/tree/main/NonOverlappingIntervals)
+  13. [Rotate Array](https://github.com/akashanup/programming/tree/main/RotateArray)
 
   ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
