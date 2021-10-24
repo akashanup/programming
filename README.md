@@ -275,6 +275,7 @@
   13. [Guess Number Higher or Lower II](https://github.com/akashanup/programming/tree/main/GuessNumberHigherOrLowerII)
   14. [House Robber](https://github.com/akashanup/programming/tree/main/HouseRobber)
   15. [House Robber II](https://github.com/akashanup/programming/tree/main/HouseRobberII)
+  16. [Delete and Earn](https://github.com/akashanup/programming/tree/main/DeleteAndEarn)
 
   ### Tree
   1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
