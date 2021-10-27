@@ -250,6 +250,7 @@
   1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
   2. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
   3. [Longest Substring Without Repeating Characters](https://github.com/akashanup/python-programming/tree/main/LongestSubstringWithoutRepeatingCharacters)
+  4. [Permutation in String](https://github.com/akashanup/python-programming/tree/main/PermutationInString)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
