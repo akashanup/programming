@@ -292,6 +292,7 @@
   11. [Kth Smallest Element in a BST](https://github.com/akashanup/programming/tree/main/KthSmallestElementInBST)
   12. [Cousins in Binary Tree](https://github.com/akashanup/programming/tree/main/CousinsInBinaryTree)
   13. [Path Sum III](https://github.com/akashanup/programming/tree/main/PathSumIII)
+  14. [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNode)
 
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
