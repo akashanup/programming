@@ -363,7 +363,8 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
 ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
   2. [Single Number II](https://github.com/akashanup/programming/tree/main/SingleNumberII)
-  3. [PowerOfx-n](https://github.com/akashanup/programming/tree/main/PowerOfx-n)
+  3. [Single Number III](https://github.com/akashanup/programming/tree/main/SingleNumberIII)
+  4. [PowerOfx-n](https://github.com/akashanup/programming/tree/main/PowerOfx-n)
 
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
