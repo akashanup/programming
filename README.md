@@ -251,6 +251,7 @@
   3. [Longest Substring Without Repeating Characters](https://github.com/akashanup/python-programming/tree/main/LongestSubstringWithoutRepeatingCharacters)
   4. [Permutation in String](https://github.com/akashanup/python-programming/tree/main/PermutationInString)
   5. [Find All Anagrams in a String](https://github.com/akashanup/python-programming/tree/main/FindAllAnagramsInString)
+  6. [Longest Duplicate Substring](https://github.com/akashanup/python-programming/tree/main/LongestDuplicateSubstring)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
