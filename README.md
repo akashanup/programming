@@ -354,6 +354,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   12. [Spiral Matrix II](https://github.com/akashanup/programming/tree/main/SpiralMatrixII)
   13. [Non-overlapping Intervals](https://github.com/akashanup/programming/tree/main/NonOverlappingIntervals)
   13. [Rotate Array](https://github.com/akashanup/programming/tree/main/RotateArray)
+  14. [Find All Subsets of a List](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfList)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
