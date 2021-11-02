@@ -6,7 +6,7 @@ class Solution:
         for i in range(len(nums)):
             current = nums[i]
             remaining = nums[:i] + nums[i+1:]
-            # Generating all permutations where m is first element
+            # Generating all permutations where current is first element
             for permutation in self.getAllPermutations(remaining):
                 permutations.append([current]+permutation)
         return permutations
