@@ -356,6 +356,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   13. [Rotate Array](https://github.com/akashanup/programming/tree/main/RotateArray)
   14. [Find All Subsets of a List](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfList)
   15. [Find All Permutations of a List](https://github.com/akashanup/programming/tree/main/FindAllPermutationsOfList)
+  16. [Find All Subsets of a List of size k](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfListOfSizeK)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
