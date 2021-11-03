@@ -258,6 +258,7 @@
   2. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
   3. [Sudoku Solver](https://github.com/akashanup/programming/tree/main/SudokuSolver)
   4. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
+  5. [Unique Paths III](https://github.com/akashanup/programming/tree/main/UniquePathsIII)
   
   ### Dynamic Programming
   1. [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
