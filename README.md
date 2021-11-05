@@ -235,7 +235,6 @@
   12. [Cycle Sort - Missing Number](https://github.com/akashanup/python-programming/tree/main/MissingNumber)
   13. [Find All Numbers Disappeared in an Array](https://github.com/akashanup/python-programming/tree/main/FindAllNumbersDisappearedInAnArray)
   14. [First Missing Positive](https://github.com/akashanup/python-programming/tree/main/FirstMissingPositive)
-  15. [Majority Element](https://github.com/akashanup/python-programming/tree/main/MajorityElement)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
@@ -359,6 +358,8 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   14. [Find All Subsets of a List](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfList)
   15. [Find All Permutations of a List](https://github.com/akashanup/programming/tree/main/FindAllPermutationsOfList)
   16. [Find All Subsets of a List of size k](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfListOfSizeK)
+  17. [Majority Element](https://github.com/akashanup/programming/tree/main/MajorityElement)
+  18. [Majority Element II](https://github.com/akashanup/programming/tree/main/MajorityElementII)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
