@@ -320,20 +320,21 @@
   2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
   
   ### Graphs & Disjoint Set
-  1. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
-  2. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
-  3. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
-  4. [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
-  5. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
-  6. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
-  7. [Adding Exits to a Maze](https://github.com/akashanup/programming/tree/main/AddingExitsToMaze)
-  8. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
-  9. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
-  10. [Checking Whether Any Intersection in a City is Reachable from
+  1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
+  2. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
+  3. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
+  4. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
+  5. [Graph Connectivity With Threshold](https://github.com/akashanup/programming/tree/main/GraphConnectivityWithThreshold)
+  6. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
+  7. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
+  8. [Adding Exits to a Maze](https://github.com/akashanup/programming/tree/main/AddingExitsToMaze)
+  9. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
+  10. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
+  11. [Checking Whether Any Intersection in a City is Reachable from
 Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
-  11. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
-  12. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
-  13. [Surrounded Regions](https://github.com/akashanup/programming/tree/main/SurroundedRegions)
+  12. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
+  13. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
+  14. [Surrounded Regions](https://github.com/akashanup/programming/tree/main/SurroundedRegions)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
