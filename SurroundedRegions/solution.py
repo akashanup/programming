@@ -1,5 +1,12 @@
 from collections import deque
 
+"""
+Logic:
+It is clear from the question that any connected component of "O"s could be flipped if none of its "O"s are present at the borders.
+So the question boils down to find the connected component of "O"s which are within the borders and flip them to "X".
+If any connected component of "O"s has any "O" at border then add this connected component to cantBeFlipped hashset to avoid checking for other "O"s of this component.
+"""
+
 
 class Solution:
     def updateConnectedFlippables(self, board, m, n, row, col, cantBeFlipped):
