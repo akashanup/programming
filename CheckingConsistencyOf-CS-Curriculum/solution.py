@@ -5,13 +5,17 @@ class Solution:
     def explore(self, graph, visited, lookup, node):
         visited[node] = True
         lookup[node] = True
+        cycle = False
         for u in graph[node]:
             if lookup[u]:
-                return 1
-            if not visited[u]:
-                return self.explore(graph, visited, lookup, u)
+                cycle = 1
+            elif not visited[u]:
+                cycle = self.explore(graph, visited, lookup, u)
+
+            if cycle:
+                break
         lookup[node] = False
-        return 0
+        return cycle
 
     def checkForCycle(self, n, edges):
         visited = {}
@@ -38,6 +42,11 @@ class Test(unittest.TestCase):
 
     def testCheckForCycle2(self):
         actual = Solution().checkForCycle(5, [[1, 2], [1, 3], [2, 3], [3, 4], [1, 4], [2, 5], [3, 5]])
+        expected = 0
+        self.assertEqual(actual, expected)
+
+    def testCheckForCycle3(self):
+        actual = Solution().checkForCycle(5, [[2, 5], [3, 5], [4, 2], [4, 3]])
         expected = 0
         self.assertEqual(actual, expected)
 
