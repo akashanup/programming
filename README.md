@@ -329,13 +329,14 @@
   7. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
   8. [Adding Exits to a Maze](https://github.com/akashanup/programming/tree/main/AddingExitsToMaze)
   9. [Course Schedule](https://github.com/akashanup/programming/tree/main/CourseSchedule)
-  10. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
-  11. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
-  12. [Checking Whether Any Intersection in a City is Reachable from
+  10. [Course Schedule II](https://github.com/akashanup/programming/tree/main/CourseScheduleII)
+  11. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
+  12. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
+  13. [Checking Whether Any Intersection in a City is Reachable from
 Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
-  13. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
-  14. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
-  15. [Surrounded Regions](https://github.com/akashanup/programming/tree/main/SurroundedRegions)
+  14. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
+  15. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
+  16. [Surrounded Regions](https://github.com/akashanup/programming/tree/main/SurroundedRegions)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
