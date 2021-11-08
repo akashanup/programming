@@ -1,26 +1,33 @@
 # Edit Distance
 
-The edit distance between two strings is the minimum number of operations (insertions, deletions, and
-substitutions of symbols) to transform one string into another. It is a measure of similarity of two strings.
-Edit distance has applications, for example, in computational biology, natural language processing, and spell
-checking. Your goal in this problem is to compute the edit distance between two strings.
+Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
 
-The goal of this problem is to implement the algorithm for computing the edit distance between two
-strings.
+You have the following three operations permitted on a word:
 
-- Input Format. Each of the two lines of the input contains a string consisting of lower case latin letters.
-- Output Format. Output the edit distance between the given two strings.
+- Insert a character
+- Delete a character
+- Replace a character
 
 ### Example 1
 ```sh
-Input: s = "ab", t = "ab"
-Output: 0
+Input: word1 = "horse", word2 = "ros"
+Output: 3
+Explanation: 
+horse -> rorse (replace 'h' with 'r')
+rorse -> rose (remove 'r')
+rose -> ros (remove 'e')
 ```
 
 ### Example 2
 ```sh
-Input: s = "short", t = "ports"
-Output: 3
+Input: word1 = "intention", word2 = "execution"
+Output: 5
+Explanation: 
+intention -> inention (remove 't')
+inention -> enention (replace 'i' with 'e')
+enention -> exention (replace 'n' with 'x')
+exention -> exection (replace 'n' with 'c')
+exection -> execution (insert 'u')
 ```
 
 ### Example 3
@@ -31,5 +38,6 @@ Output: 5
 
 ### Constraints
 ```sh
-The length of both strings is at least 1 and at most 100.
+0 <= word1.length, word2.length <= 500
+word1 and word2 consist of lowercase English letters.
 ```
