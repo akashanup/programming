@@ -365,6 +365,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   17. [Majority Element](https://github.com/akashanup/programming/tree/main/MajorityElement)
   18. [Majority Element II](https://github.com/akashanup/programming/tree/main/MajorityElementII)
   19. [SubarraySumEqualsK](https://github.com/akashanup/programming/tree/main/SubarraySumEqualsK)
+  20. [Product of the Last K Numbers](https://github.com/akashanup/programming/tree/main/ProductOfTheLast-K-Numbers)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
