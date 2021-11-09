@@ -35,7 +35,7 @@ class Solution:
                 """
                     If at any point the below condition holds true then it is an invalid string because the sequence 'c','r','o','a','k' would break.
                 """
-                if not (hash['c'] <= hash['r'] <= hash['o'] <= hash ['a'] <= hash['k']):
+                if not (hash['c'] <= hash['r'] <= hash['o'] <= hash['a'] <= hash['k']):
                     return -1
         return maxFrogs
 
