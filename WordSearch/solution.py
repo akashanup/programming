@@ -18,6 +18,7 @@ class Solution:
         # Backtrack
         board[row][col] = temp
         return False
+
     def exist(self, board: List[List[str]], word: str) -> bool:
         m = len(board)
         n = len(board[0])
