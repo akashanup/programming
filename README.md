@@ -179,15 +179,14 @@
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
 2. [Super Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/SuperUglyNumber)
 3. [Nth Fibonacci Number Modulo M](https://github.com/akashanup/python-programming/tree/main/NthFibonacciNumberModuloM)
-4. [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
-5. [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
-6. [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
-7. [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
-8. [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
-9. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
-10. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
-11. [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
-12. [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
+4. [Find minimum number of coins that make a given value](https://github.com/akashanup/python-programming/tree/main/FindMinimumNumberOfCoinsThatMakeGivenValue)
+5. [Pythagorean Triplet In An Array](https://github.com/akashanup/programming/tree/main/PythagoreanTripletInAnArray)
+6. [Rotate A Matrix By 90 Degree](https://github.com/akashanup/programming/tree/main/RotateMatrixBy90Degree)
+7. [Minimum number of swaps required to sort an array](https://github.com/akashanup/programming/tree/main/MinimumNumberOfSwapsRequiredToSortAnArray)
+8. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckIfGivenSequenceOfMovesForRobotIsCircularOrNot)
+9. [Check if a given sequence of moves for a robot is circular or not](https://github.com/akashanup/programming/tree/main/CheckForPossiblePathIn-2D-Matrix)
+10. [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
+11. [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
 
 ## Miscellaneous
   ### Searching
@@ -238,6 +237,7 @@
   2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
   3. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
   4. [Minimum Number Of Platforms Required For Railway Station](https://github.com/akashanup/python-programming/tree/main/MinimumNumberOfPlatformsRequiredForRailwayStation)
+  5. [Activity Selection problem](https://github.com/akashanup/python-programming/tree/main/ActivitySelectionProblem)
 
   ### Sliding Window
   1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
