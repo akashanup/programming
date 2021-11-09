@@ -7,7 +7,7 @@ class Solution:
         leftMaxHeight = 0
         for h in range(maxHeightIndex):
             leftMaxHeight = max(leftMaxHeight, height[h])
-            water += (min(maxHeight, leftMaxHeight) - height[h])
+            water += leftMaxHeight - height[h]
         rightMaxHeight = 0
         for h in range(walls - 1, maxHeightIndex, -1):
             rightMaxHeight = max(rightMaxHeight, height[h])

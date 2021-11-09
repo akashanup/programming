@@ -13,10 +13,10 @@ class Solution:
             suffixMaxHeight[h] = tempMax
         water = 0
         '''
+            height          = [0,1,0,2,1,0,1,3,2,1,2,1]
             prefixMaxHeight = [0,1,1,2,2,2,2,3,3,3,3,3]
             suffixMaxHeight = [3,3,3,3,3,3,3,3,2,2,2,1]
             min             = [0,1,1,2,2,2,2,3,2,2,2,1]
-            height          = [0,1,0,2,1,0,1,3,2,1,2,1]
             min - height    = [0,0,1,0,1,2,1,0,0,1,0,0]
             water           = sum(min-height) = 6
         '''
