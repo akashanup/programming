@@ -1,5 +1,6 @@
 import heapq
 
+
 class Solution:
     def scheduleCourse(self, courses: List[List[int]]) -> int:
         courses.sort(key=lambda course: course[1])
