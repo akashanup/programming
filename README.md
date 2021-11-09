@@ -364,6 +364,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   16. [Find All Subsets of a List of size k](https://github.com/akashanup/programming/tree/main/FindAllSubsetsOfListOfSizeK)
   17. [Majority Element](https://github.com/akashanup/programming/tree/main/MajorityElement)
   18. [Majority Element II](https://github.com/akashanup/programming/tree/main/MajorityElementII)
+  19. [SubarraySumEqualsK](https://github.com/akashanup/programming/tree/main/SubarraySumEqualsK)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
