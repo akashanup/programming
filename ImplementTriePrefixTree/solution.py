@@ -4,6 +4,7 @@ class TrieNode:
         self.children = [None] * 26
         self.endOfWord = False
 
+
 class Trie:
 
     def __init__(self):
@@ -44,8 +45,6 @@ class Trie:
                 return False
             p = p.children[index]
         return True
-
-
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
