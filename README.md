@@ -359,6 +359,7 @@
   12. [Cousins in Binary Tree](https://github.com/akashanup/programming/tree/main/CousinsInBinaryTree)
   13. [Path Sum III](https://github.com/akashanup/programming/tree/main/PathSumIII)
   14. [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNode)
+  14. [Delete Node in a BST](https://github.com/akashanup/programming/tree/main/DeleteNodeInBst)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
