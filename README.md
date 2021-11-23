@@ -379,6 +379,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   14. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
   15. [Checking Whether Graph Is Bipartite](https://github.com/akashanup/programming/tree/main/CheckingWhetherGraphIsBipartite)
   16. [Surrounded Regions](https://github.com/akashanup/programming/tree/main/SurroundedRegions)
+  17. [Largest Component Size by Common Factor](https://github.com/akashanup/programming/tree/main/LargestComponentSizeByCommonFactor)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
