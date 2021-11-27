@@ -211,6 +211,7 @@
   20. [Product of the Last K Numbers](https://github.com/akashanup/programming/tree/main/ProductOfTheLast-K-Numbers)
   21. [Candy](https://github.com/akashanup/programming/tree/main/Candy)
   22. [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/TrappingRainWater)
+  23. [Product of Array Except Self](https://github.com/akashanup/programming/tree/main/ProductOfArrayExceptSelf)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
