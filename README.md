@@ -385,3 +385,4 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
   2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
+  3. [Stream of Characters](https://github.com/akashanup/programming/tree/main/StreamOfCharacters)
