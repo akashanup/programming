@@ -3,6 +3,7 @@ The idea is to first build a trie from given list of words.
 Then for each cell of the board, check whether a word from words can be formed using the board traversal in horizontal or vertical direction. This can be achieved using backtracking.
 """
 
+
 class TrieNode:
 
     def __init__(self):
