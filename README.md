@@ -310,6 +310,8 @@
   19. [Jump Game III](https://github.com/akashanup/python-programming/tree/main/JumpGameIII)
   20. [Edit Distance](https://github.com/akashanup/programming/tree/main/EditDistance)
   21. [Edit DistanceII](https://github.com/akashanup/programming/tree/main/EditDistanceII)
+  22. [Coin Change](https://github.com/akashanup/programming/tree/main/CoinChange)
+  23. [Coin Change II](https://github.com/akashanup/programming/tree/main/CoinChangeII)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
