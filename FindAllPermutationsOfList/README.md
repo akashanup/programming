@@ -1,6 +1,6 @@
 # Find All Permutations of a List
 
-Given a list, print all the sublist of a list.
+Given a list, print all the permutations of a list.
 
 ### Example 1
 ```sh
