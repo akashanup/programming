@@ -312,6 +312,7 @@
   21. [Edit DistanceII](https://github.com/akashanup/programming/tree/main/EditDistanceII)
   22. [Coin Change](https://github.com/akashanup/programming/tree/main/CoinChange)
   23. [Coin Change II](https://github.com/akashanup/programming/tree/main/CoinChangeII)
+  24. [Longest Palindromic Subsequence](https://github.com/akashanup/programming/tree/main/LongestPalindromicSubsequence)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
