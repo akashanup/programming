@@ -367,6 +367,7 @@
   14. [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNode)
   14. [Delete Node in a BST](https://github.com/akashanup/programming/tree/main/DeleteNodeInBst)
   15. [Binary Tree Tilt](https://github.com/akashanup/programming/tree/main/BinaryTreeTilt)
+  16. [Minimum Height Trees](https://github.com/akashanup/programming/tree/main/MinimumHeightTrees)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
