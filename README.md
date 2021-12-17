@@ -314,6 +314,7 @@
   23. [Coin Change II](https://github.com/akashanup/programming/tree/main/CoinChangeII)
   24. [Longest Palindromic Subsequence](https://github.com/akashanup/programming/tree/main/LongestPalindromicSubsequence)
   25. [Minimum Insertion Steps to Make a String Palindrome](https://github.com/akashanup/programming/tree/main/MinimumInsertionStepsToMakeStringPalindrome)
+  26. [Maximal Square](https://github.com/akashanup/programming/tree/main/MaximalSquare)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
