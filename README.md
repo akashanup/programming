@@ -170,7 +170,7 @@
 167. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
 168. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
 169. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
-170. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
+170. [Numbers At Most N Given Digit Set](https://github.com/akashanup/programming/tree/main/NumbersAtMost-N-GivenDigitSet)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -320,6 +320,7 @@
   30. [Best Time to Buy and Sell Stock IV](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStockIV)
   31. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStockWithCooldown)
   32. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStockWithTransactionFee)
+  33. [Number of Dice Rolls With Target Sum](https://github.com/akashanup/python-programming/tree/main/NumberOfDiceRollsWithTargetSum)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
@@ -367,13 +368,14 @@
   9. [Symmetric Tree](https://github.com/akashanup/programming/tree/main/SymmetricTree)
   10. [Construct Binary Search Tree from Preorder Traversal](https://github.com/akashanup/programming/tree/main/ConstructBinarySearchTreeFromPreorderTraversal)
   11. [Second Minimum Node In a Binary Tree](https://github.com/akashanup/programming/tree/main/SecondMinimumNodeInBinaryTree)
-  11. [Kth Smallest Element in a BST](https://github.com/akashanup/programming/tree/main/KthSmallestElementInBST)
-  12. [Cousins in Binary Tree](https://github.com/akashanup/programming/tree/main/CousinsInBinaryTree)
-  13. [Path Sum III](https://github.com/akashanup/programming/tree/main/PathSumIII)
-  14. [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNode)
-  14. [Delete Node in a BST](https://github.com/akashanup/programming/tree/main/DeleteNodeInBst)
-  15. [Binary Tree Tilt](https://github.com/akashanup/programming/tree/main/BinaryTreeTilt)
-  16. [Minimum Height Trees](https://github.com/akashanup/programming/tree/main/MinimumHeightTrees)
+  12. [Kth Smallest Element in a BST](https://github.com/akashanup/programming/tree/main/KthSmallestElementInBST)
+  13. [Cousins in Binary Tree](https://github.com/akashanup/programming/tree/main/CousinsInBinaryTree)
+  14. [Path Sum III](https://github.com/akashanup/programming/tree/main/PathSumIII)
+  15. [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNode)
+  16. [Delete Node in a BST](https://github.com/akashanup/programming/tree/main/DeleteNodeInBst)
+  17. [Binary Tree Tilt](https://github.com/akashanup/programming/tree/main/BinaryTreeTilt)
+  18. [Minimum Height Trees](https://github.com/akashanup/programming/tree/main/MinimumHeightTrees)
+  19. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
