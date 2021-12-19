@@ -314,6 +314,7 @@
   3. [Valid Parentheses](https://github.com/akashanup/programming/tree/main/ValidParentheses)
   4. [Next Greater Element I](https://github.com/akashanup/programming/tree/main/NextGreaterElementI)
   4. [Next Greater Element II](https://github.com/akashanup/programming/tree/main/NextGreaterElementII)
+  4. [Decode String](https://github.com/akashanup/programming/tree/main/DecodeString)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
@@ -373,10 +374,10 @@
   6. [Kruskal’s Minimum Spanning Tree Algorithm](https://github.com/akashanup/programming/tree/main/KruskalsMinimumSpanningTreeAlgorithm)
   7. [Finding an Exit from Maze](https://github.com/akashanup/programming/tree/main/FindingAnExitFromMaze)
   8. [Adding Exits to a Maze](https://github.com/akashanup/programming/tree/main/AddingExitsToMaze)
-  9. [Course Schedule](https://github.com/akashanup/programming/tree/main/CourseSchedule)
-  10. [Course Schedule II](https://github.com/akashanup/programming/tree/main/CourseScheduleII)
-  11. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
-  12. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
+  9. [Checking Consistency of CS Curriculum](https://github.com/akashanup/programming/tree/main/CheckingConsistencyOf-CS-Curriculum)
+  10. [Determining an Order of Courses](https://github.com/akashanup/programming/tree/main/DeterminingAnOrderOfCourses)
+  11. [Course Schedule](https://github.com/akashanup/programming/tree/main/CourseSchedule)
+  12. [Course Schedule II](https://github.com/akashanup/programming/tree/main/CourseScheduleII)
   13. [Checking Whether Any Intersection in a City is Reachable from
 Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyIntersectionInCityIsReachableFromAnyOther)
   14. [Computing the Minimum Number of Flight Segments](https://github.com/akashanup/programming/tree/main/ComputingTheMinimumNumberOfFlightSegments)
