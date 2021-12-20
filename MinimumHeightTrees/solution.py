@@ -9,7 +9,7 @@ class Solution:
             graph[v].add(u)
 
         minHeightRoots = [_ for _ in range(n)]
-        # Since the maximum number of min height roots could be 4 so prune the leaf nodes layer by layer till we are left with 1 or 2 node.
+        # Since the maximum number of min height roots could be 2 so prune the leaf nodes layer by layer till we are left with 1 or 2 node.
         while len(minHeightRoots) > 2:
             leaves = set([node for node in minHeightRoots if len(graph[node]) == 1])
             # Prune the leaves from minHeightRoots
