@@ -369,6 +369,7 @@
   18. [Minimum Height Trees](https://github.com/akashanup/programming/tree/main/MinimumHeightTrees)
   19. [Diameter of Binary Tree](https://github.com/akashanup/programming/tree/main/DiameterOfBinaryTree)
   20. [Binary Tree Cameras](https://github.com/akashanup/python-programming/tree/main/BinaryTreeCameras)
+  21. [Inorder Successor in BST](https://github.com/akashanup/python-programming/tree/main/InorderSuccessorInBST)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
