@@ -248,6 +248,7 @@
   12. [Cycle Sort - Missing Number](https://github.com/akashanup/python-programming/tree/main/MissingNumber)
   13. [Find All Numbers Disappeared in an Array](https://github.com/akashanup/python-programming/tree/main/FindAllNumbersDisappearedInAnArray)
   14. [First Missing Positive](https://github.com/akashanup/python-programming/tree/main/FirstMissingPositive)
+  15. [Minimum Absolute Difference](https://github.com/akashanup/python-programming/tree/main/MinimumAbsoluteDifference)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
