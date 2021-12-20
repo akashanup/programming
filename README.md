@@ -290,6 +290,7 @@
   12. [Guess Number Higher or Lower II](https://github.com/akashanup/programming/tree/main/GuessNumberHigherOrLowerII)
   13. [House Robber](https://github.com/akashanup/programming/tree/main/HouseRobber)
   14. [House Robber II](https://github.com/akashanup/programming/tree/main/HouseRobberII)
+  14. [House Robber III](https://github.com/akashanup/programming/tree/main/HouseRobberIII)
   15. [Delete and Earn](https://github.com/akashanup/programming/tree/main/DeleteAndEarn)
   16. [01 Matrix](https://github.com/akashanup/programming/tree/main/01Matrix)
   17. [Jump Game](https://github.com/akashanup/python-programming/tree/main/JumpGame)
