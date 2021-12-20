@@ -309,6 +309,7 @@
   31. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStockWithCooldown)
   32. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/akashanup/python-programming/tree/main/BestTimeToBuyAndSellStockWithTransactionFee)
   33. [Number of Dice Rolls With Target Sum](https://github.com/akashanup/python-programming/tree/main/NumberOfDiceRollsWithTargetSum)
+  34. [Filling Bookcase Shelves](https://github.com/akashanup/python-programming/tree/main/FillingBookcaseShelves)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
