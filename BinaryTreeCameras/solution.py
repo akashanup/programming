@@ -1,3 +1,14 @@
+"""
+Intuition:
+    Instead of trying to cover every node from the top down, let's try to cover it from the bottom up.
+    Consider placing a camera with the deepest nodes first, and working our way up the tree.
+    If a node has its children covered and has a parent, then it is strictly better to place the camera at this node's parent.
+Algorithm:
+    If a node has children that are not covered by a camera, then we must place a camera here.
+    Additionally, if a node has no parent and it is not covered, we must place a camera here.
+"""
+
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -7,15 +18,19 @@ class TreeNode:
 
 
 class Solution:
-    cameras = 0
-
     def minCameraCover(self, root: TreeNode) -> int:
-        def dfs(node: TreeNode) -> int:
-            if not node: return 0
-            val = dfs(node.left) + dfs(node.right)
-            if val == 0: return 3
-            if val < 3: return 0
-            self.cameras += 1
-            return 1
+        self.ans = 0
+        covered = {None}
 
-        return self.cameras + 1 if dfs(root) > 2 else self.cameras
+        def dfs(node, parent=None):
+            if node:
+                dfs(node.left, node)
+                dfs(node.right, node)
+
+                if ((parent is None and node not in covered) or
+                        node.left not in covered or node.right not in covered):
+                    self.ans += 1
+                    covered.update({node, parent, node.left, node.right})
+
+        dfs(root)
+        return self.ans
