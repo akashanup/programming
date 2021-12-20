@@ -322,6 +322,7 @@
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
   2. [Design Circular Queue](https://github.com/akashanup/programming/tree/main/DesignCircularQueue)
+  3. [Moving Average from Data Stream](https://github.com/akashanup/programming/tree/main/MovingAverageFromDataStream)
 
   ### Matrix
   1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
