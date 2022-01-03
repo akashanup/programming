@@ -193,6 +193,7 @@
   22. [Candy](https://github.com/akashanup/programming/tree/main/Candy)
   23. [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/TrappingRainWater)
   24. [Product of Array Except Self](https://github.com/akashanup/programming/tree/main/ProductOfArrayExceptSelf)
+  25. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/programming/tree/main/PairsOfSongsWithTotalDurationsDivisibleBy60)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
