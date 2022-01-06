@@ -344,6 +344,7 @@
   3. [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/TheNumberOfTheSmallestUnoccupiedChair)
   4. [Maximum Earnings From Taxi](https://github.com/akashanup/programming/tree/main/MaximumEarningsFromTaxi)
   5. [Maximum Profit in Job Scheduling](https://github.com/akashanup/programming/tree/main/MaximumProfitInJobScheduling)
+  6. [Car Pooling](https://github.com/akashanup/programming/tree/main/CarPooling)
 
   ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
