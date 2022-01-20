@@ -25,7 +25,7 @@ Output: false
 Explanation: We can not enter room number 2 since the only key that unlocks it is in that room.
 ```
 
-### Example 2
+### Constraints
 ```sh
 n == rooms.length
 2 <= n <= 1000
