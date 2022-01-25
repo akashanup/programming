@@ -195,6 +195,7 @@
   24. [Product of Array Except Self](https://github.com/akashanup/programming/tree/main/ProductOfArrayExceptSelf)
   25. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/programming/tree/main/PairsOfSongsWithTotalDurationsDivisibleBy60)
   26. [Maximize Distance to Closest Person](https://github.com/akashanup/programming/tree/main/MaximizeDistanceToClosestPerson)
+  27. [Valid Mountain Array](https://github.com/akashanup/programming/tree/main/ValidMountainArray)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
@@ -316,6 +317,7 @@
   34. [Filling Bookcase Shelves](https://github.com/akashanup/python-programming/tree/main/FillingBookcaseShelves)
   35. [Longest Palindromic Substring](https://github.com/akashanup/python-programming/tree/main/LongestPalindromicSubstring)
   36. [Palindrome Partitioning](https://github.com/akashanup/python-programming/tree/main/PalindromePartitioning)
+  37. [Stone Game IV](https://github.com/akashanup/python-programming/tree/main/StoneGameIV)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
