@@ -407,3 +407,5 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
   2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
   3. [Stream of Characters](https://github.com/akashanup/programming/tree/main/StreamOfCharacters)
+  4. [Design Add and Search Words Data Structure](https://github.com/akashanup/programming/tree/main/DesignAddAndSearchWordsDataStructure)
+  5. [Maximum XOR of Two Numbers in an Array](https://github.com/akashanup/programming/tree/main/Maximum-XOR-OfTwoNumbersInAnArray)
