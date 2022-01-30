@@ -194,6 +194,7 @@
   25. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/akashanup/programming/tree/main/PairsOfSongsWithTotalDurationsDivisibleBy60)
   26. [Maximize Distance to Closest Person](https://github.com/akashanup/programming/tree/main/MaximizeDistanceToClosestPerson)
   27. [Valid Mountain Array](https://github.com/akashanup/programming/tree/main/ValidMountainArray)
+  28. [All Divisions With the Highest Score of a Binary Array](https://github.com/akashanup/programming/tree/main/AllDivisionsWithTheHighestScoreOfBinaryArray)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
@@ -342,6 +343,8 @@
   2. [Lexicographically smallest string formed by appending a character from the first K characters of a given string](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
   3. [Lexicographically smallest string obtained after concatenating array](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
   4. [Reverse Words in a String](https://github.com/akashanup/programming/tree/main/ReverseWordsInString)
+  5. [Rabin-Karp Algorithm](https://github.com/akashanup/programming/tree/main/RabinKarpAlgorithm)
+  6. [Find Substring With Given Hash Value](https://github.com/akashanup/programming/tree/main/FindSubstringWithGivenHashValue)
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
