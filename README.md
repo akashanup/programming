@@ -347,6 +347,7 @@
   4. [Reverse Words in a String](https://github.com/akashanup/programming/tree/main/ReverseWordsInString)
   5. [Rabin-Karp Algorithm](https://github.com/akashanup/programming/tree/main/RabinKarpAlgorithm)
   6. [Find Substring With Given Hash Value](https://github.com/akashanup/programming/tree/main/FindSubstringWithGivenHashValue)
+  7. [Knuth Moris Pratt](https://github.com/akashanup/programming/tree/main/KnuthMorisPratt-KNP)
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
