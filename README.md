@@ -320,6 +320,7 @@
   36. [Palindrome Partitioning](https://github.com/akashanup/python-programming/tree/main/PalindromePartitioning)
   37. [Stone Game IV](https://github.com/akashanup/python-programming/tree/main/StoneGameIV)
   38. [Maximum Score from Performing Multiplication Operations](https://github.com/akashanup/python-programming/tree/main/MaximumScoreFromPerformingMultiplicationOperations)
+  39. [Minimum Difficulty of a Job Schedule](https://github.com/akashanup/python-programming/tree/main/MinimumDifficultyOfJobSchedule)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
