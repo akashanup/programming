@@ -195,7 +195,8 @@
   27. [Valid Mountain Array](https://github.com/akashanup/programming/tree/main/ValidMountainArray)
   28. [All Divisions With the Highest Score of a Binary Array](https://github.com/akashanup/programming/tree/main/AllDivisionsWithTheHighestScoreOfBinaryArray)
   29. [4Sum](https://github.com/akashanup/programming/tree/main/4Sum)
-  30. [4SumII](https://github.com/akashanup/programming/tree/main/4SumII)
+  30. [4Sum II](https://github.com/akashanup/programming/tree/main/4SumII)
+  31. [Remove Duplicates From Sorted Array II](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedArrayII)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
