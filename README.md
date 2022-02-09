@@ -208,6 +208,7 @@
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
   2. [Contiguous Array](https://github.com/akashanup/programming/tree/main/ContiguousArray)
+  3. [K-diff Pairs in an Array](https://github.com/akashanup/programming/tree/main/K-DiffPairsInAnArray)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
