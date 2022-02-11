@@ -325,6 +325,8 @@
   39. [Stone Game IV](https://github.com/akashanup/python-programming/tree/main/StoneGameIV)
   40. [Maximum Score from Performing Multiplication Operations](https://github.com/akashanup/python-programming/tree/main/MaximumScoreFromPerformingMultiplicationOperations)
   41. [Minimum Difficulty of a Job Schedule](https://github.com/akashanup/python-programming/tree/main/MinimumDifficultyOfJobSchedule)
+  42. [Decode Ways](https://github.com/akashanup/programming/tree/main/DecodeWays)
+  43. [Decode Ways II](https://github.com/akashanup/programming/tree/main/DecodeWaysII)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
