@@ -9,21 +9,24 @@ class Solution:
         hashmapS1 = [0] * 26
         hashmapS2 = [0] * 26
 
+        # Generate hashmap for s1
         for ch in s1:
             hashmapS1[ord(ch)-ord('a')] += 1
 
-        left = 0
-        right = s1len - 1
+        # Generate hashmap for the first window of length len(s1) for s2
+        for i in range(len(s1)):
+            hashmapS2[ord(s2[i])-ord('a')] += 1
 
-        for ch in range(left, right+1):
-            hashmapS2[ord(s2[ch])-ord('a')] += 1
-
-        while right < s2len:
+        start = 0
+        end = len(s1) - 1
+        # Start comparing hashmapS1 with hashmapS2 for all the windows until a match is found.
+        while end < len(s2):
             if hashmapS1 == hashmapS2:
                 return True
-            hashmapS2[ord(s2[left])-ord('a')] -= 1
-            left += 1
-            right += 1
-            if right < s2len:
-                hashmapS2[ord(s2[right])-ord('a')] += 1
+            # Move to next window and update the hashmapS2 for that start and end.
+            hashmapS2[ord(s2[start]) - ord('a')] -= 1
+            start += 1
+            end += 1
+            if end < len(s2):
+                hashmapS2[ord(s2[end]) - ord('a')] += 1
         return False
