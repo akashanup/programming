@@ -329,6 +329,8 @@
   42. [Decode Ways](https://github.com/akashanup/programming/tree/main/DecodeWays)
   43. [Decode Ways II](https://github.com/akashanup/programming/tree/main/DecodeWaysII)
   44. [Maximum Sum Circular Subarray](https://github.com/akashanup/programming/tree/main/MaximumSumCircularSubarray)
+  45. [Unique Paths](https://github.com/akashanup/programming/tree/main/UniquePaths)
+  46. [Unique Paths II](https://github.com/akashanup/programming/tree/main/UniquePathsII)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
