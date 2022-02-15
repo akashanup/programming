@@ -332,6 +332,7 @@
   45. [Unique Paths](https://github.com/akashanup/programming/tree/main/UniquePaths)
   46. [Unique Paths II](https://github.com/akashanup/programming/tree/main/UniquePathsII)
   47. [Minimum Falling Path Sum](https://github.com/akashanup/programming/tree/main/MinimumFallingPathSum)
+  48. [Minimum Cost For Tickets](https://github.com/akashanup/programming/tree/main/MinimumCostForTickets)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
