@@ -23,4 +23,5 @@ Explanation: Cheapest is: start on cost[0], and only step on 1s, skipping cost[3
 ### Constraints
 ```sh
 2 <= cost.length <= 1000
-0 <= cost[i] <= 999```
+0 <= cost[i] <= 999
+```
