@@ -196,6 +196,7 @@
   31. [Remove Duplicates From Sorted Array II](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedArrayII)
   32. [Prefix and Suffix Search](https://github.com/akashanup/python-programming/tree/main/PrefixAndSuffixSearch)
   33. [Count Primes](https://github.com/akashanup/python-programming/tree/main/CountPrimes)
+  34. [Minimize Deviation in Array](https://github.com/akashanup/python-programming/tree/main/MinimizeDeviationInArray)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
