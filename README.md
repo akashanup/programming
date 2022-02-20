@@ -257,6 +257,7 @@
   13. [Find All Numbers Disappeared in an Array](https://github.com/akashanup/python-programming/tree/main/FindAllNumbersDisappearedInAnArray)
   14. [First Missing Positive](https://github.com/akashanup/python-programming/tree/main/FirstMissingPositive)
   15. [Minimum Absolute Difference](https://github.com/akashanup/python-programming/tree/main/MinimumAbsoluteDifference)
+  16. [Remove Covered Intervals](https://github.com/akashanup/python-programming/tree/main/RemoveCoveredIntervals)
 
   ### Greedy Algorithm
   1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
