@@ -336,6 +336,7 @@
   48. [Minimum Cost For Tickets](https://github.com/akashanup/programming/tree/main/MinimumCostForTickets)
   49. [Maximum Length of Repeated Subarray](https://github.com/akashanup/programming/tree/main/MaximumLengthOfRepeatedSubarray)
   50. [Count Vowels Permutation](https://github.com/akashanup/programming/tree/main/CountVowelsPermutation)
+  51. [Paint House III](https://github.com/akashanup/programming/tree/main/PaintHouseIII)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
