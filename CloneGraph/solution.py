@@ -1,35 +1,23 @@
+
 # Definition for a Node.
 class Node:
-    def __init__(self, val=0, neighbors=None):
+    def __init__(self, val = 0, neighbors = None):
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
 
 
 class Solution:
-    def dfs(self, node, copy, copiedNodes):
-        for neighbour in node.neighbors:
-            if neighbour.val in copiedNodes:
-                copy.neighbors.append(copiedNodes[neighbour.val])
-            else:
-                copiedNodes[neighbour.val] = Node(neighbour.val)
-                copy.neighbors.append(copiedNodes[neighbour.val])
-                self.dfs(neighbour, copy.neighbors[-1], copiedNodes)
-
-    def cloneGraph(self, node: 'Node') -> 'Node':
+    def dfs(self, node, hashmap):
         if not node:
-            return node
-        copiedNodes = {node.val: Node(node.val)}
-        copy = copiedNodes[node.val]
-        self.dfs(node, copy, copiedNodes)
+            return None
+        if node.val in hashmap:
+            return hashmap[node.val]
+        
+        copy = Node(node.val)
+        hashmap[node.val] = copy
+        for neighbor in node.neighbors:
+            copy.neighbors.append(self.dfs(neighbor, hashmap))
         return copy
-
-
-node1 = Node(1)
-node2 = Node(2)
-node3 = Node(3)
-node4 = Node(4)
-node1.neighbors = [node2, node4]
-node2.neighbors = [node1, node3]
-node3.neighbors = [node2, node4]
-node4.neighbors = [node1, node3]
-print(Solution().cloneGraph(node1))
+    
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        return self.dfs(node, {})
