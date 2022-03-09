@@ -203,6 +203,7 @@
   4. [Split Linked List in Parts](https://github.com/akashanup/programming/tree/main/SplitLinkedListInParts)
   5. [Merge k Sorted Lists](https://github.com/akashanup/programming/tree/main/Merge-K-SortedLists)
   6. [Swap Nodes in Pairs](https://github.com/akashanup/programming/tree/main/SwapNodesInPairs)
+  7. [Remove Duplicates from Sorted List II](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedListII)
   
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
