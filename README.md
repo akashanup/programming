@@ -205,6 +205,7 @@
   6. [Swap Nodes in Pairs](https://github.com/akashanup/programming/tree/main/SwapNodesInPairs)
   7. [Remove Duplicates from Sorted List II](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedListII)
   8. [Add Two Numbers](https://github.com/akashanup/programming/tree/main/AddTwoNumbers)
+  9. [Copy List with Random Pointer](https://github.com/akashanup/programming/tree/main/CopyListWithRandomPointer)
   
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
