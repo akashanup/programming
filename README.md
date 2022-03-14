@@ -351,6 +351,7 @@
   6. [Next Greater Element II](https://github.com/akashanup/programming/tree/main/NextGreaterElementII)
   7. [Decode String](https://github.com/akashanup/programming/tree/main/DecodeString)
   8. [Largest Rectangle in Histogram](https://github.com/akashanup/programming/tree/main/LargestRectangleInHistogram)
+  9. [Simplify Path](https://github.com/akashanup/programming/tree/main/SimplifyPath)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
