@@ -362,6 +362,7 @@
   ### Matrix
   1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
   2. [Diagonal TraverseII](https://github.com/akashanup/programming/tree/main/DiagonalTraverseII)
+  3. [Score After Flipping Matrix](https://github.com/akashanup/programming/tree/main/ScoreAfterFlippingMatrix)
 
   ### Strings
   1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
