@@ -353,6 +353,8 @@
   8. [Largest Rectangle in Histogram](https://github.com/akashanup/programming/tree/main/LargestRectangleInHistogram)
   9. [Simplify Path](https://github.com/akashanup/programming/tree/main/SimplifyPath)
   10. [Minimum Remove to Make Valid Parentheses](https://github.com/akashanup/programming/tree/main/MinimumRemoveToMakeValidParentheses)
+  11. [Validate Stack Sequences](https://github.com/akashanup/programming/tree/main/ValidateStackSequences)
+  12. [Score of Parentheses](https://github.com/akashanup/programming/tree/main/ScoreOfParentheses)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
