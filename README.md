@@ -355,6 +355,8 @@
   10. [Minimum Remove to Make Valid Parentheses](https://github.com/akashanup/programming/tree/main/MinimumRemoveToMakeValidParentheses)
   11. [Validate Stack Sequences](https://github.com/akashanup/programming/tree/main/ValidateStackSequences)
   12. [Score of Parentheses](https://github.com/akashanup/programming/tree/main/ScoreOfParentheses)
+  13. [Remove Duplicate Letters](https://github.com/akashanup/programming/tree/main/RemoveDuplicateLetters)
+  14. [Smallest Subsequence of Distinct Characters](https://github.com/akashanup/programming/tree/main/SmallestSubsequenceOfDistinctCharacters)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
