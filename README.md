@@ -357,6 +357,7 @@
   12. [Score of Parentheses](https://github.com/akashanup/programming/tree/main/ScoreOfParentheses)
   13. [Remove Duplicate Letters](https://github.com/akashanup/programming/tree/main/RemoveDuplicateLetters)
   14. [Smallest Subsequence of Distinct Characters](https://github.com/akashanup/programming/tree/main/SmallestSubsequenceOfDistinctCharacters)
+  15. [Maximum Frequency Stack](https://github.com/akashanup/programming/tree/main/MaximumFrequencyStack)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
