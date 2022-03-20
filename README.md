@@ -269,6 +269,7 @@
   6. [Largest Values From Labels](https://github.com/akashanup/python-programming/tree/main/LargestValuesFromLabels)
   7. [Gas Station](https://github.com/akashanup/python-programming/tree/main/GasStation)
   8. [Maximum Split of Positive Even Integers](https://github.com/akashanup/python-programming/tree/main/MaximumSplitOfPositiveEvenIntegers)
+  9. [Minimum Domino Rotations For Equal Row](https://github.com/akashanup/python-programming/tree/main/MinimumDominoRotationsForEqualRow)
 
   ### Sliding Window
   1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
