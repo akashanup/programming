@@ -272,6 +272,7 @@
   9. [Minimum Domino Rotations For Equal Row](https://github.com/akashanup/python-programming/tree/main/MinimumDominoRotationsForEqualRow)
   10. [Partition Labels](https://github.com/akashanup/python-programming/tree/main/PartitionLabels)
   11. [Smallest String With A Given Numeric Value](https://github.com/akashanup/python-programming/tree/main/SmallestStringWithGivenNumericValue)
+  12. [Broken Calculator](https://github.com/akashanup/python-programming/tree/main/BrokenCalculator)
 
   ### Sliding Window
   1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
