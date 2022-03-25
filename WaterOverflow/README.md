@@ -1,0 +1,42 @@
+# Water Overflow
+
+There is a stack of water glasses in a form of pascal triangle and a person wants to pour the water at the topmost glass, but the capacity of each glass is 1 unit. Overflow takes place in such a way that after 1 unit, 1/2 of remaining unit gets into bottom left glass and other half in bottom right glass.Now John pours K units of water in the topmost glass and wants to know how much water is there in the Cth glass of the Rth row.
+
+Note: Assume that there are enough glasses in the triangle till no glass overflows.
+
+You don't need to read input or print anything. Your task is to complete the function waterOverflow() which takes 3 Integers K, R and C as input and returns the amount of water(6 digits of precision) in the Cth glass of Rth row.
+
+### Example 1
+```sh
+Input:
+K = 3, R = 2, C = 1
+Output:
+1.000000
+Explanation:
+After the first glass, 2 units of water
+will remain and they will spread equally
+on the two glasses on the second row.
+Therefore, the glass on the 2nd row and
+1st column will have 1 unit of water.
+```
+
+[![](01-2-grid.jpg)]()
+### Example 2
+```sh
+Input:
+K = 3, R = 2, C = 2
+Output:
+1.000000
+Explanation:
+After the first glass, 2 units of water
+will remain and they will spread equally
+on the two glasses on the second row.
+Therefore, the glass on the 2nd row and
+2nd column will have 1 unit of water.
+```
+
+### Constraints
+```sh
+1 <= K <= 500
+1 <= R,C <= K
+```
