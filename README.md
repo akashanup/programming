@@ -448,6 +448,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   17. [Largest Component Size by Common Factor](https://github.com/akashanup/programming/tree/main/LargestComponentSizeByCommonFactor)
   18. [Is Graph Bipartite?](https://github.com/akashanup/programming/tree/main/IsGraphBipartite)
   19. [Clone Graph](https://github.com/akashanup/programming/tree/main/CloneGraph)
+  20. [Path with Maximum Probability](https://github.com/akashanup/programming/tree/main/PathWithMaximumProbability)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
