@@ -12,7 +12,6 @@ Output: 3
 Explanation: The paths that sum to 8 are shown.
 ```
 
-[![pathsumii2](pathsum2.jpg)]()
 ### Example 2
 ```sh
 Input: root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22
