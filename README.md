@@ -191,6 +191,8 @@
   32. [Prefix and Suffix Search](https://github.com/akashanup/python-programming/tree/main/PrefixAndSuffixSearch)
   33. [Count Primes](https://github.com/akashanup/python-programming/tree/main/CountPrimes)
   34. [Minimize Deviation in Array](https://github.com/akashanup/python-programming/tree/main/MinimizeDeviationInArray)
+  35. [Next Permutation](https://github.com/akashanup/python-programming/tree/main/NextPermutation)
+  36. [Container With Most Water](https://github.com/akashanup/python-programming/tree/main/ContainerWithMostWater)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
