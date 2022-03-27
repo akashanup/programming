@@ -1,4 +1,4 @@
-from random import random
+import random
 
 
 class RandomizedSet:
@@ -16,11 +16,12 @@ class RandomizedSet:
 
     def remove(self, val: int) -> bool:
         if val in self.hash:
-            # Shift the element that needs to be deleted to right end and just pop. This will be much more efficient then traditional pop based on the index.
+            # Swap the element that needs to be deleted with the the last element and just pop. This will be much more efficient then traditional pop based on the index.
+            # Since we have to remove in O(1) so to find the index of element in O(1) we need a hashmap which will store the val as key and its latest index as value. This data structure is maintained in insert().
             lastHashIndex = self.data[-1]
-            index = self.hash[val]
-            self.hash[lastHashIndex] = index
-            self.data[-1], self.data[index] = self.data[index], self.data[-1]
+            valDataIndex = self.hash[val]
+            self.hash[lastHashIndex] = valDataIndex
+            self.data[-1], self.data[valDataIndex] = self.data[valDataIndex], self.data[-1]
             self.data.pop()
             self.hash.pop(val)
             return True
@@ -28,7 +29,6 @@ class RandomizedSet:
 
     def getRandom(self) -> int:
         return random.choice(self.data)
-
 
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
