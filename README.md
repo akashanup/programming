@@ -238,6 +238,7 @@
   25. [Search Insert Position](https://github.com/akashanup/programming/tree/main/SearchInsertPosition)
   26. [Find Minimum in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/FindMinimumInRotatedSortedArray)
   27. [Koko Eating Bananas](https://github.com/akashanup/programming/tree/main/KokoEatingBananas)
+  28. [Search in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArray)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
