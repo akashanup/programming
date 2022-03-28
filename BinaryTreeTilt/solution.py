@@ -8,15 +8,10 @@ class Solution:
     def recur(self, root, tiltSum):
         if not root:
             return 0, tiltSum
-        if not root.left and not root.right:
-            value = root.val
-            root.val = 0
-            return value, tiltSum
-        leftSubTreeTilt, tiltSum = self.recur(root.left, tiltSum)
-        rightSubTreeTilt, tiltSum = self.recur(root.right, tiltSum)
-        value = root.val + rightSubTreeTilt + leftSubTreeTilt
-        tilt = abs(rightSubTreeTilt - leftSubTreeTilt)
-        root.val = tilt
+        leftSubTreeSum, tiltSum = self.recur(root.left, tiltSum)
+        rightSubTreeSum, tiltSum = self.recur(root.right, tiltSum)
+        value = root.val + leftSubTreeSum + rightSubTreeSum
+        tilt = abs(rightSubTreeSum - leftSubTreeSum)
         return value, tiltSum+tilt
 
     def findTilt(self, root: Optional[TreeNode]) -> int:
