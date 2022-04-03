@@ -371,6 +371,7 @@
   2. [Design Circular Queue](https://github.com/akashanup/programming/tree/main/DesignCircularQueue)
   3. [Moving Average from Data Stream](https://github.com/akashanup/programming/tree/main/MovingAverageFromDataStream)
   4. [Keys and Rooms](https://github.com/akashanup/programming/tree/main/KeysAndRooms)
+  5. [Sliding Window Maximum](https://github.com/akashanup/programming/tree/main/SlidingWindowMaximum)
 
   ### Matrix
   1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
