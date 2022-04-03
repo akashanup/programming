@@ -3,11 +3,11 @@ from collections import deque
 
 class Solution:
     def maxSlidingWindow(self, nums, k):
-        # Monotonic decreasing queue
+        # Maintain a Monotonic decreasing queue
         queue = deque()
         maxWindow = []
         for key, num in enumerate(nums):
-            # Maintain monotonic decreasing queue.
+            # Pop out element until the current element is greater that queue's tail to maintain monotonic decreasing queue.
             while queue and nums[queue[-1]] <= num:
                 queue.pop()
             queue.append(key)
