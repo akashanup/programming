@@ -283,6 +283,7 @@
   4. [Permutation in String](https://github.com/akashanup/python-programming/tree/main/PermutationInString)
   5. [Find All Anagrams in a String](https://github.com/akashanup/python-programming/tree/main/FindAllAnagramsInString)
   6. [Longest Duplicate Substring](https://github.com/akashanup/python-programming/tree/main/LongestDuplicateSubstring)
+  7. [Longest Repeating Character Replacement](https://github.com/akashanup/python-programming/tree/main/LongestRepeatingCharacterReplacement)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
