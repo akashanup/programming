@@ -3,7 +3,7 @@ class Solution:
         if num <= 1:
             return 1
         if num not in lookup:
-            lookup[num] = num * self.fact(num-1, lookup)
+            lookup[num] = num * self.fact(num - 1, lookup)
         return lookup[num]
 
     def threeSumMulti(self, arr: List[int], target: int) -> int:
@@ -14,12 +14,11 @@ class Solution:
             else:
                 hashmap[num] = 1
 
-
         arr.sort()
         triplets = set()
-        for index,num in enumerate(arr):
-            start = index+1
-            end = len(arr)-1
+        for index, num in enumerate(arr):
+            start = index + 1
+            end = len(arr) - 1
             while start < end:
                 tripletSum = num + arr[start] + arr[end]
                 if tripletSum == target:
@@ -36,18 +35,18 @@ class Solution:
         lookup = {}
 
         # Use the fact of choosing r things from n things => nCr => n!/(n-r)!r!
-        for i,j,k in triplets:
+        for i, j, k in triplets:
             if i != j != k:
                 # If all are different
                 count += (hashmap[i] * hashmap[j] * hashmap[k])
             elif i == j != k:
                 # If two nums are same then choose 2 from total count of num
-                count += (hashmap[k] * (self.fact(hashmap[i], lookup)//(2*self.fact(hashmap[i]-2, lookup))))
+                count += (hashmap[k] * (self.fact(hashmap[i], lookup) // (2 * self.fact(hashmap[i] - 2, lookup))))
             elif i != j == k:
                 # If two nums are same then choose 2 from total count of num
-                count += (hashmap[i] * (self.fact(hashmap[j], lookup)//(2*self.fact(hashmap[j]-2, lookup))))
+                count += (hashmap[i] * (self.fact(hashmap[j], lookup) // (2 * self.fact(hashmap[j] - 2, lookup))))
             else:
                 # All are different then choose 3 from total count of num
-                count += (self.fact(hashmap[i], lookup)//(6*self.fact(hashmap[i]-3, lookup)))
+                count += (self.fact(hashmap[i], lookup) // (6 * self.fact(hashmap[i] - 3, lookup)))
 
-        return count % ((10**9)+7)
+        return count % ((10 ** 9) + 7)
