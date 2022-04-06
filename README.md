@@ -287,7 +287,8 @@
   6. [Longest Duplicate Substring](https://github.com/akashanup/python-programming/tree/main/LongestDuplicateSubstring)
   7. [Longest Repeating Character Replacement](https://github.com/akashanup/python-programming/tree/main/LongestRepeatingCharacterReplacement)
   8. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
-  9. [3Sum With Multiplicity](https://github.com/akashanup/python-programming/tree/main/3SumWithMultiplicity)
+  9. [Subarrays with K Different Integers](https://github.com/akashanup/python-programming/tree/main/SubarraysWith-K-DifferentIntegers)
+  10. [3Sum With Multiplicity](https://github.com/akashanup/python-programming/tree/main/3SumWithMultiplicity)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
