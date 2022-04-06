@@ -210,6 +210,7 @@
   2. [Contiguous Array](https://github.com/akashanup/programming/tree/main/ContiguousArray)
   3. [K-diff Pairs in an Array](https://github.com/akashanup/programming/tree/main/K-DiffPairsInAnArray)
   4. [Insert Delete GetRandom O(1) Duplicates Allowed](https://github.com/akashanup/python-programming/tree/main/InsertDeleteGetRandomO-1-DuplicatesAllowed)
+  5. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
@@ -240,6 +241,7 @@
   26. [Find Minimum in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/FindMinimumInRotatedSortedArray)
   27. [Koko Eating Bananas](https://github.com/akashanup/programming/tree/main/KokoEatingBananas)
   28. [Search in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArray)
+  29. [Time Based Key-Value Store](https://github.com/akashanup/programming/tree/main/TimeBasedKeyValueStore)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -284,6 +286,7 @@
   5. [Find All Anagrams in a String](https://github.com/akashanup/python-programming/tree/main/FindAllAnagramsInString)
   6. [Longest Duplicate Substring](https://github.com/akashanup/python-programming/tree/main/LongestDuplicateSubstring)
   7. [Longest Repeating Character Replacement](https://github.com/akashanup/python-programming/tree/main/LongestRepeatingCharacterReplacement)
+  8. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
