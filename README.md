@@ -244,6 +244,7 @@
   29. [Time Based Key-Value Store](https://github.com/akashanup/programming/tree/main/TimeBasedKeyValueStore)
   30. [Capacity To Ship Packages Within D Days](https://github.com/akashanup/programming/tree/main/CapacityToShipPackagesWithin-D-Days)
   31. [Minimum Limit of Balls in a Bag](https://github.com/akashanup/programming/tree/main/MinimumLimitOfBallsInBag)
+  32. [Median Of Two Sorted Arrays](https://github.com/akashanup/programming/tree/main/MedianOfTwoSortedArrays)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
