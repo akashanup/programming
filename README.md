@@ -242,6 +242,7 @@
   27. [Koko Eating Bananas](https://github.com/akashanup/programming/tree/main/KokoEatingBananas)
   28. [Search in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/SearchInRotatedSortedArray)
   29. [Time Based Key-Value Store](https://github.com/akashanup/programming/tree/main/TimeBasedKeyValueStore)
+  30. [Capacity To Ship Packages Within D Days](https://github.com/akashanup/programming/tree/main/CapacityToShipPackagesWithin-D-Days)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -407,6 +408,7 @@
   2. [Single Number II](https://github.com/akashanup/programming/tree/main/SingleNumberII)
   3. [Single Number III](https://github.com/akashanup/programming/tree/main/SingleNumberIII)
   4. [PowerOfx-n](https://github.com/akashanup/programming/tree/main/PowerOfx-n)
+  5. [Divide Two Integers](https://github.com/akashanup/programming/tree/main/DivideTwoIntegers)
 
   ### Tree
   1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
