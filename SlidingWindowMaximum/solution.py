@@ -7,7 +7,7 @@ class Solution:
         queue = deque()
         maxWindow = []
         for key, num in enumerate(nums):
-            # Pop out element until the current element is greater that queue's tail to maintain monotonic decreasing queue.
+            # Pop out elements from queue until the current element becomes smaller than queue's tail to maintain monotonic decreasing queue.
             while queue and nums[queue[-1]] <= num:
                 queue.pop()
             queue.append(key)
