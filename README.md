@@ -205,6 +205,8 @@
   8. [Add Two Numbers](https://github.com/akashanup/programming/tree/main/AddTwoNumbers)
   9. [Copy List with Random Pointer](https://github.com/akashanup/programming/tree/main/CopyListWithRandomPointer)
   10. [Add Two Numbers II](https://github.com/akashanup/programming/tree/main/AddTwoNumbersII)
+  11. [Palindrome Linked List](https://github.com/akashanup/programming/tree/main/PalindromeLinkedList)
+  11. [Intersection Of Two Linked Lists](https://github.com/akashanup/programming/tree/main/IntersectionOfTwoLinkedLists)
   
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
