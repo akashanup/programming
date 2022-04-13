@@ -204,6 +204,7 @@
   7. [Remove Duplicates from Sorted List II](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedListII)
   8. [Add Two Numbers](https://github.com/akashanup/programming/tree/main/AddTwoNumbers)
   9. [Copy List with Random Pointer](https://github.com/akashanup/programming/tree/main/CopyListWithRandomPointer)
+  10. [Add Two Numbers II](https://github.com/akashanup/programming/tree/main/AddTwoNumbersII)
   
   ### HashMap & HashSet
   1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
@@ -211,6 +212,7 @@
   3. [K-diff Pairs in an Array](https://github.com/akashanup/programming/tree/main/K-DiffPairsInAnArray)
   4. [Insert Delete GetRandom O(1) Duplicates Allowed](https://github.com/akashanup/python-programming/tree/main/InsertDeleteGetRandomO-1-DuplicatesAllowed)
   5. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
+  6. [Design Twitter](https://github.com/akashanup/python-programming/tree/main/DesignTwitter)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
