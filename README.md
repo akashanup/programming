@@ -444,10 +444,10 @@
   25. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/akashanup/programming/tree/main/LowestCommonAncestorOfBinarySearchTree)
   26. [Vertical Order Traversal of a Binary Tree](https://github.com/akashanup/programming/tree/main/VerticalOrderTraversalOfBinaryTree)
   27. [Convert Sorted Array to Binary Search Tree](https://github.com/akashanup/programming/tree/main/ConvertSortedArrayToBinarySearchTree)
-  28. [Invert Binary Tree](https://github.com/akashanup/75DaysChallenge/tree/main/InvertBinaryTree)
-  29. [Subtree of Another Tree](https://github.com/akashanup/75DaysChallenge/tree/main/SubtreeOfAnotherTree)
-  30. [Recover Binary Search Tree](https://github.com/akashanup/75DaysChallenge/tree/main/RecoverBinarySearchTree)
-  31. [Binary Search Tree Iterator](https://github.com/akashanup/75DaysChallenge/tree/main/BinarySearchTreeIterator)
+  28. [Invert Binary Tree](https://github.com/akashanup/programming/tree/main/InvertBinaryTree)
+  29. [Subtree of Another Tree](https://github.com/akashanup/programming/tree/main/SubtreeOfAnotherTree)
+  30. [Recover Binary Search Tree](https://github.com/akashanup/programming/tree/main/RecoverBinarySearchTree)
+  31. [Binary Search Tree Iterator](https://github.com/akashanup/programming/tree/main/BinarySearchTreeIterator)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
