@@ -215,6 +215,7 @@
   4. [Insert Delete GetRandom O(1) Duplicates Allowed](https://github.com/akashanup/python-programming/tree/main/InsertDeleteGetRandomO-1-DuplicatesAllowed)
   5. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
   6. [Design Twitter](https://github.com/akashanup/python-programming/tree/main/DesignTwitter)
+  7. [Design HashSet](https://github.com/akashanup/python-programming/tree/main/DesignHashSet)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
