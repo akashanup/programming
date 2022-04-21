@@ -47,7 +47,7 @@ class Solution:
     # Intelligently Build a Subsequence With Binary Search => O(n*Logn)
     def lis(self, nums):
         n = len(nums)
-        longestSubsequence = []
+        longestSubsequence = [nums[0]]
         for i in range(1, n):
             j = bisect_left(longestSubsequence, nums[i])
             # If nums[i] is greater than all the elements in longestSubsequence
