@@ -448,6 +448,7 @@
   29. [Subtree of Another Tree](https://github.com/akashanup/programming/tree/main/SubtreeOfAnotherTree)
   30. [Recover Binary Search Tree](https://github.com/akashanup/programming/tree/main/RecoverBinarySearchTree)
   31. [Binary Search Tree Iterator](https://github.com/akashanup/programming/tree/main/BinarySearchTreeIterator)
+  32. [Minimum Absolute Difference In BST](https://github.com/akashanup/programming/tree/main/MinimumAbsoluteDifferenceInBST)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
