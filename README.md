@@ -451,6 +451,7 @@
   31. [Binary Search Tree Iterator](https://github.com/akashanup/programming/tree/main/BinarySearchTreeIterator)
   32. [Minimum Absolute Difference In BST](https://github.com/akashanup/programming/tree/main/MinimumAbsoluteDifferenceInBST)
   33. [Maximum Width of Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumWidthOfBinaryTree)
+  34. [All Nodes Distance K In Binary Tree](https://github.com/akashanup/programming/tree/main/AllNodesDistance-K-InBinaryTree)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
