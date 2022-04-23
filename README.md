@@ -297,6 +297,7 @@
   8. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
   9. [Subarrays with K Different Integers](https://github.com/akashanup/python-programming/tree/main/SubarraysWith-K-DifferentIntegers)
   10. [3Sum With Multiplicity](https://github.com/akashanup/python-programming/tree/main/3SumWithMultiplicity)
+  11. [Minimum Window Substring](https://github.com/akashanup/python-programming/tree/main/MinimumWindowSubstring)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
