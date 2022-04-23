@@ -4,10 +4,13 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
+
+
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         prevLevel, prevNum, maxWidth = 1, 1, 0
-        queue = deque([[prevNum,prevLevel,root]])
+        queue = deque([[prevNum, prevLevel, root]])
 
         while queue:
             [num, level, node] = queue.popleft()
@@ -16,8 +19,8 @@ class Solution:
 
             maxWidth = max(maxWidth, num - prevNum + 1)
             if node.left:
-                queue.append([num*2,  level+1, node.left])
+                queue.append([num * 2, level + 1, node.left])
             if node.right:
-                queue.append([num*2+1,level+1, node.right])
+                queue.append([num * 2 + 1, level + 1, node.right])
 
         return maxWidth
