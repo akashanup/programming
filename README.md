@@ -193,6 +193,7 @@
   34. [Minimize Deviation in Array](https://github.com/akashanup/python-programming/tree/main/MinimizeDeviationInArray)
   35. [Next Permutation](https://github.com/akashanup/python-programming/tree/main/NextPermutation)
   36. [Container With Most Water](https://github.com/akashanup/python-programming/tree/main/ContainerWithMostWater)
+  37. [PeekingIterator](https://github.com/akashanup/python-programming/tree/main/PeekingIterator)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
@@ -477,6 +478,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   18. [Is Graph Bipartite?](https://github.com/akashanup/programming/tree/main/IsGraphBipartite)
   19. [Clone Graph](https://github.com/akashanup/programming/tree/main/CloneGraph)
   20. [Path with Maximum Probability](https://github.com/akashanup/programming/tree/main/PathWithMaximumProbability)
+  21. [Min Cost to Connect All Points](https://github.com/akashanup/programming/tree/main/MinCostToConnectAllPoints)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
