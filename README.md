@@ -479,6 +479,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   19. [Clone Graph](https://github.com/akashanup/programming/tree/main/CloneGraph)
   20. [Path with Maximum Probability](https://github.com/akashanup/programming/tree/main/PathWithMaximumProbability)
   21. [Min Cost to Connect All Points](https://github.com/akashanup/programming/tree/main/MinCostToConnectAllPoints)
+  22. [Smallest String With Swaps](https://github.com/akashanup/programming/tree/main/SmallestStringWithSwaps)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
