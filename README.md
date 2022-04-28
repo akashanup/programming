@@ -193,7 +193,8 @@
   34. [Minimize Deviation in Array](https://github.com/akashanup/python-programming/tree/main/MinimizeDeviationInArray)
   35. [Next Permutation](https://github.com/akashanup/python-programming/tree/main/NextPermutation)
   36. [Container With Most Water](https://github.com/akashanup/python-programming/tree/main/ContainerWithMostWater)
-  37. [PeekingIterator](https://github.com/akashanup/python-programming/tree/main/PeekingIterator)
+  37. [Peeking Iterator](https://github.com/akashanup/python-programming/tree/main/PeekingIterator)
+  38. [Maximum Product of Three Numbers](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfThreeNumbers)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
