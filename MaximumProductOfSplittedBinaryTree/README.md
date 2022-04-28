@@ -6,6 +6,7 @@ Return the maximum product of the sums of the two subtrees. Since the answer may
 
 Note that you need to maximize the answer before taking the mod and not after taking it.
 
+[![sample_1_1699](sample_1_1699.png)]()
 ### Example 1
 ```sh
 Input: root = [1,2,3,4,5,6]
@@ -13,6 +14,7 @@ Output: 110
 Explanation: Remove the red edge and get 2 binary trees with sum 11 and 10. Their product is 110 (11*10)
 ```
 
+[![sample_2_1699](sample_2_1699.png)]()
 ### Example 2
 ```sh
 Input: root = [1,null,2,3,4,null,null,5,6]
