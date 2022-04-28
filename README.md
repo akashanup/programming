@@ -252,6 +252,7 @@
   31. [Minimum Limit of Balls in a Bag](https://github.com/akashanup/programming/tree/main/MinimumLimitOfBallsInBag)
   32. [Median Of Two Sorted Arrays](https://github.com/akashanup/programming/tree/main/MedianOfTwoSortedArrays)
   33. [Count Number of Rectangles Containing Each Point](https://github.com/akashanup/programming/tree/main/CountNumberOfRectanglesContainingEachPoint)
+  34. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -480,6 +481,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   20. [Path with Maximum Probability](https://github.com/akashanup/programming/tree/main/PathWithMaximumProbability)
   21. [Min Cost to Connect All Points](https://github.com/akashanup/programming/tree/main/MinCostToConnectAllPoints)
   22. [Smallest String With Swaps](https://github.com/akashanup/programming/tree/main/SmallestStringWithSwaps)
+  23. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
