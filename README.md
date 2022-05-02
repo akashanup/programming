@@ -458,6 +458,7 @@
   34. [All Nodes Distance K In Binary Tree](https://github.com/akashanup/programming/tree/main/AllNodesDistance-K-InBinaryTree)
   35. [Maximum Product of Splitted Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumProductOfSplittedBinaryTree)
   36. [Count Good Nodes In Binary Tree](https://github.com/akashanup/programming/tree/main/CountGoodNodesInBinaryTree)
+  37. [Validate Binary Search Tree](https://github.com/akashanup/programming/tree/main/ValidateBinarySearchTree)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
@@ -484,6 +485,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   21. [Min Cost to Connect All Points](https://github.com/akashanup/programming/tree/main/MinCostToConnectAllPoints)
   22. [Smallest String With Swaps](https://github.com/akashanup/programming/tree/main/SmallestStringWithSwaps)
   23. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
+  24. [Network Delay Time](https://github.com/akashanup/programming/tree/main/NetworkDelayTime)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
