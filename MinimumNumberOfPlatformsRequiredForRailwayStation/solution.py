@@ -1,17 +1,18 @@
 class Solution:
-    def findPlatform(self, arrivals, departures):
+    def findPlatform(self, arr, dep):
         platforms = 1
-        tempPlatforms = 1
-        arrivals = sorted(arrivals)
-        departures = sorted(departures)
-        noOfTrains = len(arrivals)
+        maxPlatforms = 1
+        arr = sorted(arr)
+        dep = sorted(dep)
         i = 1
         j = 0
-        while i < noOfTrains and j < noOfTrains:
-            if arrivals[i] <= departures[j]:
-                tempPlatforms += 1
+        trains = len(arr)
+        while i < trains and j < trains:
+            if arr[i] <= dep[j]:
+                platforms += 1
                 i += 1
-            elif arrivals[i] > departures[j]:
-                tempPlatforms -= 1
+            elif arr[i] > dep[j]:
+                platforms -= 1
                 j += 1
-        return max(platforms, tempPlatforms)
+            maxPlatforms = max(platforms, maxPlatforms)
+        return maxPlatforms
