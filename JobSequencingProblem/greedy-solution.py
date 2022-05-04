@@ -14,14 +14,14 @@ class Solution:
         jobs.sort(key=lambda x: x[2], reverse=True)
         maxProfit = 0
         for job in jobs:
-            # Start time of current job as every job takes a unit amount of time.
-            deadline = job[1] - 1
-            # Check if any slot is available before the deadline of current job
-            while deadline >= 0 and deadlines[deadline] is not True:
-                deadline -= 1
-            # If a vacant slot is found then assign the current job to that slot and count it profit.
-            if deadline >= 0 and deadlines[deadline] is True:
-                deadlines[deadline] = False
+            # Last slot of any job could be (deadline - 1) as every job takes a unit amount of time.
+            lastSlot = job[1] - 1
+            # Check if any slot is available before the last slot of current job
+            while lastSlot >= 0 and deadlines[lastSlot] is not True:
+                lastSlot -= 1
+            # If a vacant slot is found then assign the current job to that slot and count its profit.
+            if lastSlot >= 0 and deadlines[lastSlot] is True:
+                deadlines[lastSlot] = False
                 maxProfit += job[2]
 
         return maxProfit
