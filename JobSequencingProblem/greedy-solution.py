@@ -8,8 +8,8 @@ class Solution:
     def jobScheduling(self, jobs, n):
         # Find the maximum deadline among all the jobs
         maxDeadLine = self.getMaxDeadline(jobs)
-        # Make an array of deadlines from 0 to maxDeadline denoting the deadline slots.
-        deadlines = [True for _ in range(maxDeadLine)]
+        # Make an array of slots from 0 to maxDeadline denoting the time slots.
+        slots = [True for _ in range(maxDeadLine)]
         # Sort the jobs based on profit in decreasing order to always accommodate those jobs which has more profit.
         jobs.sort(key=lambda x: x[2], reverse=True)
         maxProfit = 0
@@ -17,11 +17,11 @@ class Solution:
             # Last slot of any job could be (deadline - 1) as every job takes a unit amount of time.
             lastSlot = job[1] - 1
             # Check if any slot is available before the last slot of current job
-            while lastSlot >= 0 and deadlines[lastSlot] is not True:
+            while lastSlot >= 0 and slots[lastSlot] is not True:
                 lastSlot -= 1
             # If a vacant slot is found then assign the current job to that slot and count its profit.
-            if lastSlot >= 0 and deadlines[lastSlot] is True:
-                deadlines[lastSlot] = False
+            if lastSlot >= 0 and slots[lastSlot] is True:
+                slots[lastSlot] = False
                 maxProfit += job[2]
 
         return maxProfit
