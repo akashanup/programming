@@ -194,6 +194,7 @@
   37. [Peeking Iterator](https://github.com/akashanup/python-programming/tree/main/PeekingIterator)
   38. [Maximum Product of Three Numbers](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfThreeNumbers)
   39. [Shortest Unsorted Continuous Subarray](https://github.com/akashanup/python-programming/tree/main/ShortestUnsortedContinuousSubarray)
+  40. [Max Number of K-Sum Pairs](https://github.com/akashanup/python-programming/tree/main/MaxNumberOf-K-SumPairs)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
@@ -217,6 +218,7 @@
   5. [Subarrays with distinct characters](https://github.com/akashanup/python-programming/tree/main/SubarraysWithDistinctCharacters)
   6. [Design Twitter](https://github.com/akashanup/python-programming/tree/main/DesignTwitter)
   7. [Design HashSet](https://github.com/akashanup/python-programming/tree/main/DesignHashSet)
+  8. [Max Number of K-Sum Pairs](https://github.com/akashanup/python-programming/tree/main/MaxNumberOf-K-SumPairs)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
