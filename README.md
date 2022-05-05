@@ -219,6 +219,7 @@
   6. [Design Twitter](https://github.com/akashanup/python-programming/tree/main/DesignTwitter)
   7. [Design HashSet](https://github.com/akashanup/python-programming/tree/main/DesignHashSet)
   8. [Max Number of K-Sum Pairs](https://github.com/akashanup/python-programming/tree/main/MaxNumberOf-K-SumPairs)
+  9. [Making File Names Unique](https://github.com/akashanup/python-programming/tree/main/MakingFileNamesUnique)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
