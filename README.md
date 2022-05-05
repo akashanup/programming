@@ -392,6 +392,7 @@
   3. [Moving Average from Data Stream](https://github.com/akashanup/programming/tree/main/MovingAverageFromDataStream)
   4. [Keys and Rooms](https://github.com/akashanup/programming/tree/main/KeysAndRooms)
   5. [Sliding Window Maximum](https://github.com/akashanup/programming/tree/main/SlidingWindowMaximum)
+  6. [Implement Stack using Queues](https://github.com/akashanup/programming/tree/main/ImplementStackUsingQueues)
 
   ### Matrix
   1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
