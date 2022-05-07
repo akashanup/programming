@@ -314,6 +314,8 @@
   6. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
   7. [Unique Paths III](https://github.com/akashanup/programming/tree/main/UniquePathsIII)
   8. [Subsets](https://github.com/akashanup/programming/tree/main/Subsets)
+  9. [Combination Sum](https://github.com/akashanup/programming/tree/main/CombinationSum)
+  10. [Combination Sum II](https://github.com/akashanup/programming/tree/main/CombinationSumII)
   
   ### Dynamic Programming
   1. [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
