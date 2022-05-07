@@ -387,6 +387,7 @@
   14. [Smallest Subsequence of Distinct Characters](https://github.com/akashanup/programming/tree/main/SmallestSubsequenceOfDistinctCharacters)
   15. [Maximum Frequency Stack](https://github.com/akashanup/programming/tree/main/MaximumFrequencyStack)
   16. [Remove All Adjacent Duplicates in String II](https://github.com/akashanup/programming/tree/main/RemoveAllAdjacentDuplicatesInStringII)
+  17. [132 Pattern](https://github.com/akashanup/programming/tree/main/132Pattern)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
