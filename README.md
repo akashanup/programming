@@ -221,6 +221,7 @@
   8. [Max Number of K-Sum Pairs](https://github.com/akashanup/python-programming/tree/main/MaxNumberOf-K-SumPairs)
   9. [Making File Names Unique](https://github.com/akashanup/python-programming/tree/main/MakingFileNamesUnique)
   10. [Flatten Nested List Iterator](https://github.com/akashanup/python-programming/tree/main/FlattenNestedListIterator)
+  11. [Replace Words](https://github.com/akashanup/python-programming/tree/main/ReplaceWords)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
@@ -317,6 +318,8 @@
   8. [Subsets](https://github.com/akashanup/programming/tree/main/Subsets)
   9. [Combination Sum](https://github.com/akashanup/programming/tree/main/CombinationSum)
   10. [Combination Sum II](https://github.com/akashanup/programming/tree/main/CombinationSumII)
+  11. [Combination Sum III](https://github.com/akashanup/programming/tree/main/CombinationSumIII)
+  12. [Combination Sum IV](https://github.com/akashanup/programming/tree/main/CombinationSumIV)
   
   ### Dynamic Programming
   1. [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
