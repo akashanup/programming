@@ -13,9 +13,9 @@ class Solution:
         while queue:
             currSum, idx, combination = queue.popleft()
             if currSum == n and len(combination) == k:
-                combinations.append(tuple(combination))
+                combinations.append(combination)
             if len(combination) < k:
                 for i in range(idx, len(candidates)):
                     if currSum + candidates[i] <= n:
                         queue.append([currSum + candidates[i], i+1, combination + [candidates[i]]])
-        return set(combinations)
+        return combinations
