@@ -395,6 +395,7 @@
   15. [Maximum Frequency Stack](https://github.com/akashanup/programming/tree/main/MaximumFrequencyStack)
   16. [Remove All Adjacent Duplicates in String II](https://github.com/akashanup/programming/tree/main/RemoveAllAdjacentDuplicatesInStringII)
   17. [132 Pattern](https://github.com/akashanup/programming/tree/main/132Pattern)
+  18. [Maximum Score of a Good Subarray](https://github.com/akashanup/programming/tree/main/MaximumScoreOfGoodSubarray)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
