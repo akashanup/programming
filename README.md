@@ -377,6 +377,7 @@
   53. [Subset Sum](https://github.com/akashanup/programming/tree/main/SubsetSum)
   54. [Minimum Swaps To Make Sequences Increasing](https://github.com/akashanup/programming/tree/main/MinimumSwapsToMakeSequencesIncreasing)
   55. [Count Number of Texts](https://github.com/akashanup/programming/tree/main/CountNumberOfTexts)
+  56. [Check if There Is a Valid Parentheses String Path](https://github.com/akashanup/programming/tree/main/CheckIfThereIsValidParenthesesStringPath)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
