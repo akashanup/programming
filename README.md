@@ -474,6 +474,7 @@
   35. [Maximum Product of Splitted Binary Tree](https://github.com/akashanup/programming/tree/main/MaximumProductOfSplittedBinaryTree)
   36. [Count Good Nodes In Binary Tree](https://github.com/akashanup/programming/tree/main/CountGoodNodesInBinaryTree)
   37. [Validate Binary Search Tree](https://github.com/akashanup/programming/tree/main/ValidateBinarySearchTree)
+  38. [Count Nodes Equal to Average of Subtree](https://github.com/akashanup/programming/tree/main/CountNodesEqualToAverageOfSubtree)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
