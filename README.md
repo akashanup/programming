@@ -375,6 +375,7 @@
   51. [Paint House III](https://github.com/akashanup/programming/tree/main/PaintHouseIII)
   52. [Arithmetic Slices](https://github.com/akashanup/programming/tree/main/ArithmeticSlices)
   53. [Subset Sum](https://github.com/akashanup/programming/tree/main/SubsetSum)
+  54. [Minimum Swaps To Make Sequences Increasing](https://github.com/akashanup/programming/tree/main/MinimumSwapsToMakeSequencesIncreasing)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
