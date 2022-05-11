@@ -379,6 +379,7 @@
   55. [Count Number of Texts](https://github.com/akashanup/programming/tree/main/CountNumberOfTexts)
   56. [Check if There Is a Valid Parentheses String Path](https://github.com/akashanup/programming/tree/main/CheckIfThereIsValidParenthesesStringPath)
   57. [Maximum Product Subarray](https://github.com/akashanup/programming/tree/main/MaximumProductSubarray)
+  58. [Count Sorted Vowel Strings](https://github.com/akashanup/programming/tree/main/CountSortedVowelStrings)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
