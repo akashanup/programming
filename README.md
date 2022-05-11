@@ -380,6 +380,7 @@
   56. [Check if There Is a Valid Parentheses String Path](https://github.com/akashanup/programming/tree/main/CheckIfThereIsValidParenthesesStringPath)
   57. [Maximum Product Subarray](https://github.com/akashanup/programming/tree/main/MaximumProductSubarray)
   58. [Count Sorted Vowel Strings](https://github.com/akashanup/programming/tree/main/CountSortedVowelStrings)
+  59. [Regular Expression Matching](https://github.com/akashanup/programming/tree/main/RegularExpressionMatching)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
