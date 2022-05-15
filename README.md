@@ -481,6 +481,7 @@
   37. [Validate Binary Search Tree](https://github.com/akashanup/programming/tree/main/ValidateBinarySearchTree)
   38. [Count Nodes Equal to Average of Subtree](https://github.com/akashanup/programming/tree/main/CountNodesEqualToAverageOfSubtree)
   39. [Populating Next Right Pointers in Each Node II](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNodeII)
+  40. [Deepest Leaves Sum](https://github.com/akashanup/programming/tree/main/DeepestLeavesSum)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
