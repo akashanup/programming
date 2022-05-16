@@ -511,6 +511,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   23. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
   24. [Network Delay Time](https://github.com/akashanup/programming/tree/main/NetworkDelayTime)
   25. [Shortest Path in Binary Matrix](https://github.com/akashanup/programming/tree/main/ShortestPathInBinaryMatrix)
+  26. [Shortest Path in DAG](https://github.com/akashanup/programming/tree/main/ShortestPathInDAG)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
