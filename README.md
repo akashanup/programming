@@ -221,6 +221,8 @@
   9. [Making File Names Unique](https://github.com/akashanup/python-programming/tree/main/MakingFileNamesUnique)
   10. [Flatten Nested List Iterator](https://github.com/akashanup/python-programming/tree/main/FlattenNestedListIterator)
   11. [Replace Words](https://github.com/akashanup/python-programming/tree/main/ReplaceWords)
+  12. [Minimum Operations to Make the Array Alternating](https://github.com/akashanup/python-programming/tree/main/MinimumOperationsToMakeTheArrayAlternating)
+  13. [Top K Frequent Words](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentWords)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
@@ -435,6 +437,7 @@
   4. [Maximum Earnings From Taxi](https://github.com/akashanup/programming/tree/main/MaximumEarningsFromTaxi)
   5. [Maximum Profit in Job Scheduling](https://github.com/akashanup/programming/tree/main/MaximumProfitInJobScheduling)
   6. [Car Pooling](https://github.com/akashanup/programming/tree/main/CarPooling)
+  7. [Top K Frequent Words](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentWords)
 
   ### Bit Manipulation (Bit Masking)
   1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
@@ -485,6 +488,7 @@
   39. [Populating Next Right Pointers in Each Node II](https://github.com/akashanup/programming/tree/main/PopulatingNextRightPointersInEachNodeII)
   40. [Deepest Leaves Sum](https://github.com/akashanup/programming/tree/main/DeepestLeavesSum)
   41. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/akashanup/programming/tree/main/FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree)
+  42. [Contains Duplicate III](https://github.com/akashanup/programming/tree/main/ContainsDuplicateIII)
 
   ### Graphs & Disjoint Set
   1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
