@@ -426,6 +426,7 @@
   7. [Knuth Moris Pratt](https://github.com/akashanup/programming/tree/main/KnuthMorisPratt-KNP)
   8. [Compare Version Numbers](https://github.com/akashanup/programming/tree/main/CompareVersionNumbers)
   9. [Backspace String Compare](https://github.com/akashanup/programming/tree/main/BackspaceStringCompare)
+  10. [Mini Parser](https://github.com/akashanup/programming/tree/main/MiniParser)
 
   ### Priority Queue(Heapq)
   1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
