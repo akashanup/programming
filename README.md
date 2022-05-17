@@ -259,6 +259,7 @@
   32. [Median Of Two Sorted Arrays](https://github.com/akashanup/programming/tree/main/MedianOfTwoSortedArrays)
   33. [Count Number of Rectangles Containing Each Point](https://github.com/akashanup/programming/tree/main/CountNumberOfRectanglesContainingEachPoint)
   34. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
+  35. [Random Pick with Weight](https://github.com/akashanup/programming/tree/main/RandomPickWithWeight)
 
   ### Sorting
   1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
