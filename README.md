@@ -385,6 +385,7 @@
   59. [Regular Expression Matching](https://github.com/akashanup/programming/tree/main/RegularExpressionMatching)
   60. [Minimum Cost to Cut a Stick](https://github.com/akashanup/programming/tree/main/MinimumCostToCutStick)
   61. [Palindrome Partitioning II](https://github.com/akashanup/programming/tree/main/PalindromePartitioningII)
+  62. [Longest Increasing Path in a Matrix](https://github.com/akashanup/programming/tree/main/LongestIncreasingPathInMatrix)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
