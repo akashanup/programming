@@ -307,6 +307,7 @@
   9. [Subarrays with K Different Integers](https://github.com/akashanup/python-programming/tree/main/SubarraysWith-K-DifferentIntegers)
   10. [3Sum With Multiplicity](https://github.com/akashanup/python-programming/tree/main/3SumWithMultiplicity)
   11. [Minimum Window Substring](https://github.com/akashanup/python-programming/tree/main/MinimumWindowSubstring)
+  12. [Fruit Into Baskets](https://github.com/akashanup/python-programming/tree/main/FruitIntoBaskets)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
@@ -386,6 +387,7 @@
   61. [Palindrome Partitioning II](https://github.com/akashanup/programming/tree/main/PalindromePartitioningII)
   62. [Longest Increasing Path in a Matrix](https://github.com/akashanup/programming/tree/main/LongestIncreasingPathInMatrix)
   63. [Palindromic Substrings](https://github.com/akashanup/programming/tree/main/PalindromicSubstrings)
+  64. [Ones and Zeroes](https://github.com/akashanup/programming/tree/main/OnesAndZeroes)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
