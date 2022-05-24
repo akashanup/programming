@@ -388,6 +388,7 @@
   62. [Longest Increasing Path in a Matrix](https://github.com/akashanup/programming/tree/main/LongestIncreasingPathInMatrix)
   63. [Palindromic Substrings](https://github.com/akashanup/programming/tree/main/PalindromicSubstrings)
   64. [Ones and Zeroes](https://github.com/akashanup/programming/tree/main/OnesAndZeroes)
+  65. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
@@ -408,6 +409,7 @@
   16. [Remove All Adjacent Duplicates in String II](https://github.com/akashanup/programming/tree/main/RemoveAllAdjacentDuplicatesInStringII)
   17. [132 Pattern](https://github.com/akashanup/programming/tree/main/132Pattern)
   18. [Maximum Score of a Good Subarray](https://github.com/akashanup/programming/tree/main/MaximumScoreOfGoodSubarray)
+  19. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
 
   ### Queue
   1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
