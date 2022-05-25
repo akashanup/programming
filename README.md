@@ -388,6 +388,7 @@
   63. [Palindromic Substrings](https://github.com/akashanup/programming/tree/main/PalindromicSubstrings)
   64. [Ones and Zeroes](https://github.com/akashanup/programming/tree/main/OnesAndZeroes)
   65. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
+  66. [Russian Doll Envelopes](https://github.com/akashanup/programming/tree/main/RussianDollEnvelopes)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
