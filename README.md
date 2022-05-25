@@ -532,6 +532,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   29. [Number of Provinces](https://github.com/akashanup/programming/tree/main/NumberOfProvinces)
   30. [Redundant Connection](https://github.com/akashanup/programming/tree/main/RedundantConnection)
   31. [Reconstruct Itinerary](https://github.com/akashanup/programming/tree/main/ReconstructItinerary)
+  32. [Find Eventual Safe States](https://github.com/akashanup/programming/tree/main/FindEventualSafeStates)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
