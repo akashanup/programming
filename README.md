@@ -533,6 +533,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   30. [Redundant Connection](https://github.com/akashanup/programming/tree/main/RedundantConnection)
   31. [Reconstruct Itinerary](https://github.com/akashanup/programming/tree/main/ReconstructItinerary)
   32. [Find Eventual Safe States](https://github.com/akashanup/programming/tree/main/FindEventualSafeStates)
+  33. [Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/ReachableNodesInSubdividedGraph)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
