@@ -534,6 +534,8 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   31. [Reconstruct Itinerary](https://github.com/akashanup/programming/tree/main/ReconstructItinerary)
   32. [Find Eventual Safe States](https://github.com/akashanup/programming/tree/main/FindEventualSafeStates)
   33. [Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/ReachableNodesInSubdividedGraph)
+  34. [Satisfiability Of Equality Equations](https://github.com/akashanup/programming/tree/main/SatisfiabilityOfEqualityEquations)
+  35. [Frog Position After T Seconds](https://github.com/akashanup/programming/tree/main/FrogPositionAfter-T-Seconds)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
