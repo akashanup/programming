@@ -307,6 +307,7 @@
   10. [3Sum With Multiplicity](https://github.com/akashanup/python-programming/tree/main/3SumWithMultiplicity)
   11. [Minimum Window Substring](https://github.com/akashanup/python-programming/tree/main/MinimumWindowSubstring)
   12. [Fruit Into Baskets](https://github.com/akashanup/python-programming/tree/main/FruitIntoBaskets)
+  13. [Shortest Way to Form String](https://github.com/akashanup/python-programming/tree/main/ShortestWayToFormString)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
@@ -536,6 +537,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   33. [Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/ReachableNodesInSubdividedGraph)
   34. [Satisfiability Of Equality Equations](https://github.com/akashanup/programming/tree/main/SatisfiabilityOfEqualityEquations)
   35. [Frog Position After T Seconds](https://github.com/akashanup/programming/tree/main/FrogPositionAfter-T-Seconds)
+  36. [Word Ladder](https://github.com/akashanup/programming/tree/main/WordLadder)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
