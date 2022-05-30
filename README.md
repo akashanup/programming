@@ -538,6 +538,8 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   34. [Satisfiability Of Equality Equations](https://github.com/akashanup/programming/tree/main/SatisfiabilityOfEqualityEquations)
   35. [Frog Position After T Seconds](https://github.com/akashanup/programming/tree/main/FrogPositionAfter-T-Seconds)
   36. [Word Ladder](https://github.com/akashanup/programming/tree/main/WordLadder)
+  37. [Word Ladder II](https://github.com/akashanup/programming/tree/main/WordLadderII)
+  38. [Regions Cut By Slashes](https://github.com/akashanup/programming/tree/main/RegionsCutBySlashes)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
