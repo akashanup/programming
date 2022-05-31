@@ -548,3 +548,4 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   3. [Stream of Characters](https://github.com/akashanup/programming/tree/main/StreamOfCharacters)
   4. [Design Add and Search Words Data Structure](https://github.com/akashanup/programming/tree/main/DesignAddAndSearchWordsDataStructure)
   5. [Maximum XOR of Two Numbers in an Array](https://github.com/akashanup/programming/tree/main/Maximum-XOR-OfTwoNumbersInAnArray)
+  6. [Longest Common Prefix](https://github.com/akashanup/programming/tree/main/LongestCommonPrefix)
