@@ -221,6 +221,7 @@
   11. [Replace Words](https://github.com/akashanup/python-programming/tree/main/ReplaceWords)
   12. [Minimum Operations to Make the Array Alternating](https://github.com/akashanup/python-programming/tree/main/MinimumOperationsToMakeTheArrayAlternating)
   13. [Top K Frequent Words](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentWords)
+  14. [Design an Ordered Stream](https://github.com/akashanup/python-programming/tree/main/DesignAnOrderedStream)
 
   ### Searching
   1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
