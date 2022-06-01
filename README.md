@@ -543,6 +543,7 @@ Any Other](https://github.com/akashanup/programming/tree/main/CheckWhetherAnyInt
   37. [Word Ladder II](https://github.com/akashanup/programming/tree/main/WordLadderII)
   38. [Regions Cut By Slashes](https://github.com/akashanup/programming/tree/main/RegionsCutBySlashes)
   39. [Most Stones Removed with Same Row or Column](https://github.com/akashanup/programming/tree/main/MostStonesRemovedWithSameRowOrColumn)
+  40. [Find All People With Secret](https://github.com/akashanup/programming/tree/main/FindAllPeopleWithSecret)
 
   ### Trie
   1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
