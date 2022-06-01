@@ -309,6 +309,7 @@
   11. [Minimum Window Substring](https://github.com/akashanup/python-programming/tree/main/MinimumWindowSubstring)
   12. [Fruit Into Baskets](https://github.com/akashanup/python-programming/tree/main/FruitIntoBaskets)
   13. [Shortest Way to Form String](https://github.com/akashanup/python-programming/tree/main/ShortestWayToFormString)
+  14. [Longest Substring with at Least K Repeating Characters](https://github.com/akashanup/python-programming/tree/main/LongestSubstringWithAtLeast-K-RepeatingCharacters)
 
   ### Backtracking
   1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
