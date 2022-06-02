@@ -392,6 +392,7 @@
   64. [Ones and Zeroes](https://github.com/akashanup/programming/tree/main/OnesAndZeroes)
   65. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
   66. [Russian Doll Envelopes](https://github.com/akashanup/programming/tree/main/RussianDollEnvelopes)
+  67. [Steps To Make Array Non Decreasing](https://github.com/akashanup/programming/tree/main/StepsToMakeArrayNonDecreasing)
   
   ### Stack
   1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
