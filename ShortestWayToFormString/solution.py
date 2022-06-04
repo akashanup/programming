@@ -22,6 +22,6 @@ class Solution:
         return steps
 
 
-print(Solution().shortestWay(source="abc", target="abcbc"))
-print(Solution().shortestWay(source="abc", target="acdbc"))
-print(Solution().shortestWay(source="xyz", target="xzyxz"))
+print(Solution().shortestWay(source="abc", target="abcbc"))  # 2
+print(Solution().shortestWay(source="abc", target="acdbc"))  # -1
+print(Solution().shortestWay(source="xyz", target="xzyxz"))  # 3
