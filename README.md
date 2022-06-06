@@ -193,6 +193,8 @@
   40. [Max Number of K-Sum Pairs](https://github.com/akashanup/python-programming/tree/main/MaxNumberOf-K-SumPairs)
   41. [Range Sum Query 2D - Immutable](https://github.com/akashanup/python-programming/tree/main/RangeSumQuery2D-Immutable)
   42. [Happy Number](https://github.com/akashanup/python-programming/tree/main/HappyNumber)
+  43. [Integer Break](https://github.com/akashanup/python-programming/tree/main/IntegerBreak)
+  43. [Angle Between Hands Of Clock](https://github.com/akashanup/python-programming/tree/main/AngleBetweenHandsOfClock)
 
   ### Linked Lists
   1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
