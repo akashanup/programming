@@ -1,4 +1,4 @@
-from CircularQueue import CircularQueue
+from circularQueue import CircularQueue
 
 
 class DynamicCircularQueue(CircularQueue):

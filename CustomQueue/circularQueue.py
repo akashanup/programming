@@ -1,4 +1,4 @@
-from BasicQueue import BasicQueue
+from basicQueue import BasicQueue
 
 
 class CircularQueue(BasicQueue):

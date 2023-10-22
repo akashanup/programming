@@ -1,9 +1,9 @@
-from BasicQueue import BasicQueue
-from CircularQueue import CircularQueue
-from DynamicCircularQueue import DynamicCircularQueue
+from basicQueue import BasicQueue
+from circularQueue import CircularQueue
+from dynamicCircularQueue import DynamicCircularQueue
 
 
-class Queue:
+class CustomQueue:
     def __init__(self):
         self.size = 5
 
@@ -128,7 +128,7 @@ class Queue:
         print("IsFull: ", dynamicCircularQueue.isFull())
         
 
-queue = Queue()
+queue = CustomQueue()
 # queue.basicQueue()
 # queue.circularQueue()
 queue.dynamicCircularQueue()
