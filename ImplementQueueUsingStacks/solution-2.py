@@ -1,5 +1,5 @@
 """
-This solution is insertion optimised.
+This solution is deletion optimised.
 """
 
 
@@ -9,38 +9,36 @@ class MyQueue:
         """
         Initialize your data structure here.
         """
-        self.mainStack = []
-        self.helperStack = []
-        self.front = None
+        self.frontStack = []
+        self.backStack = []
 
     def push(self, x: int) -> None:
         """
         Push element x to the back of queue.
         """
-        self.mainStack.append(x)
+        while self.frontStack:
+            self.backStack.append(self.frontStack.pop())
+        self.frontStack.append(x)
+        while self.backStack:
+            self.frontStack.append(self.backStack.pop())
 
     def pop(self) -> int:
         """
         Removes the element from in front of queue and returns that element.
         """
-        while len(self.mainStack) > 1:
-            self.helperStack.append(self.mainStack.pop())
-        popped = self.mainStack.pop()
-        while self.helperStack:
-            self.mainStack.append(self.helperStack.pop())
-        return popped
+        return self.frontStack.pop()
 
     def peek(self) -> int:
         """
         Get the front element.
         """
-        return self.mainStack[0]
+        return self.frontStack[-1]
 
     def empty(self) -> bool:
         """
         Returns whether the queue is empty.
         """
-        return not self.mainStack
+        return not self.frontStack
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
