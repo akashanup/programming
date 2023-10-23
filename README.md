@@ -420,6 +420,7 @@
 18. [Maximum Score of a Good Subarray](https://github.com/akashanup/programming/tree/main/MaximumScoreOfGoodSubarray)
 19. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
 20. [Flood Fill](https://github.com/akashanup/programming/tree/main/FloodFill)
+21. [Sort Stack](https://github.com/akashanup/programming/tree/main/SortStack)
 
 ### Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
