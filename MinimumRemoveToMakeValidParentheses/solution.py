@@ -1,8 +1,8 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         open = 0
-        close = s.count(')')
-        closeUsed = 0
+        totalClosed = s.count(')')
+        exhaustedClosed = 0
         stack = []
         i = 0
         while i < len(s):
@@ -15,15 +15,15 @@ class Solution:
                         stack.append(s[i])
                         open -= 1
                     else:
-                        closeUsed += 1
+                        exhaustedClosed += 1
                 else:
                     # If the current '(' can be mapped to further ')' then map it.
-                    # Else (close - closeUsed <= 0) then remove the current '(' as its corresponding pair will not be found.
-                    if close - closeUsed > 0:
+                    # Else (totalClosed - exhaustedClosed <= 0) then remove the current '(' as its corresponding pair will not be found.
+                    if totalClosed > exhaustedClosed:
                         # A pair will be found.
                         stack.append(s[i])
                         open += 1
-                        closeUsed += 1
+                        exhaustedClosed += 1
             else:
                 stack.append(s[i])
             i += 1
