@@ -1,14 +1,20 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         lookup = {}
-        stack = [nums2[0]]
-        for num in nums2[1:]:
-            while stack and num > stack[-1]:
-                lookup[stack[-1]] = num
+        stack = [sys.maxsize]
+        i = len(nums2)-1
+
+        # Finding next greater element for all elements nums2 and storing in lookup.
+        while i >= 0:
+            while nums2[i] > stack[-1]:
                 stack.pop()
-            stack.append(num)
+            lookup[nums2[i]] = stack[-1]
+            stack.append(nums2[i])
+            i -= 1
 
-        while stack:
-            lookup[stack.pop()] = -1
+        # Finding the next greater element for all elements of nums1 from lookup
+        result = [-1]*len(nums1)
+        for i, num in enumerate(nums1):
+            result[i] = lookup[num] if lookup[num] != sys.maxsize else -1
 
-        return [lookup[num] for num in nums1]
+        return result
