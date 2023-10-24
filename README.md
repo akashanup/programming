@@ -430,6 +430,7 @@
 5. [Sliding Window Maximum](https://github.com/akashanup/programming/tree/main/SlidingWindowMaximum)
 6. [Implement Stack using Queues](https://github.com/akashanup/programming/tree/main/ImplementStackUsingQueues)
 7. [Flood Fill](https://github.com/akashanup/programming/tree/main/FloodFill)
+8. [Find Largest Value in Each Tree Row](https://github.com/akashanup/programming/tree/main/FindLargestValueInEachTreeRow)
 
 ### Matrix
 1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
