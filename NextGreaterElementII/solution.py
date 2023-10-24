@@ -1,20 +1,23 @@
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        lookup = [-1] * n
-        stack = [0]
-        i = 1
+        result = [-1] * n
+        stack = []
+
         """
-            It is similar to Next Greater Element I (https://leetcode.com/problems/next-greater-element-i/discuss/1529683/Python-or-Simple-Solutions)
-            The only difference over here is that the array is now circular. 
-            So the max length to search for an element at index j would be from j+1 to n and then from 0 to j-1. This search space can be easily encountered using modulo(%) operator as it will again result the index from 0 after it reaches the length of array.
-            One more thing that needs to be taken care of is, here we will not add the element directly to stack. First we will check whether its next greater elemnt has been found or not. If not found then add it to stack.
+        This question is very similar to Next Greater Element I.
+        The only difference here is that the array is circular.
+        So to handle circular array, we will visualize it as a duplicate array is pasted after the original array.
+        Hence now the length becomes 2*n so the iteration will start from 2n-1 till 0.
+        Now we will be storing answers in results only when i < n and take care of other imaginary values by using modulo operator.
         """
-        while i < 2*n:
-            while stack and nums[i%n] > nums[stack[-1]]:
-                lookup[stack[-1]] = nums[i%n]
+
+        # Finding next greater element for all elements nums and storing in lookup.
+        for i in range((2 * n) - 1, -1, -1):
+            while stack and nums[i % n] >= stack[-1]:
                 stack.pop()
-            if lookup[i%n] == -1:
-                stack.append(i%n)
-            i += 1
-        return lookup            
+            if i < n:
+                result[i] = stack[-1] if stack else -1
+            stack.append(nums[i % n])
+
+        return result
