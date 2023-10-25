@@ -1,34 +1,35 @@
 class Solution:
-    def nextSmallerElement(self, nums):
-        stack = [0]
-        right = [-1] * len(nums)
-        for index in range(1, len(nums)):
-            while stack and nums[stack[-1]] > nums[index]:
-                right[stack[-1]] = index
+    def nextSmallerItem(self, items):
+        result = [-1] * len(items)
+        stack = []
+        for i in range(len(items) - 1, -1, -1):
+            while stack and items[i] <= items[stack[-1]]:
                 stack.pop()
-            stack.append(index)
-        while stack:
-            right[stack.pop()] = -1
-        return right
+            result[i] = stack[-1] if stack else -1
+            stack.append(i)
+        return result
 
-    def previousSmallerElement(self, nums):
-        stack = [len(nums)-1]
-        left = [-1] * len(nums)
-        for index in range(len(nums)-2, -1, -1):
-            while stack and nums[stack[-1]] > nums[index]:
-                left[stack[-1]] = index
+    def previousSmallerItem(self, items):
+        result = [-1] * len(items)
+        stack = []
+        for i in range(len(items)):
+            while stack and items[i] <= items[stack[-1]]:
                 stack.pop()
-            stack.append(index)
-        while stack:
-            left[stack.pop()] = -1
-        return left
+            result[i] = stack[-1] if stack else -1
+            stack.append(i)
+        return result
 
-    def largestRectangleArea(self, heights):
-        right = self.nextSmallerElement(heights)
-        left = self.previousSmallerElement(heights)
-        area = 0
+    def largestRectangleArea(self, heights: List[int]) -> int:
+        nextSmallerHistogramIndex = self.nextSmallerItem(heights)
+        previousSmallerHistogramIndex = self.previousSmallerItem(heights)
+
+        largestArea = 0
         for index, height in enumerate(heights):
-            if right[index] == -1:
-                right[index] = len(heights)
-            area = max(area, height * (right[index] - left[index] - 1))
-        return area
+            baseY = nextSmallerHistogramIndex[index]
+            baseY = baseY if baseY != -1 else len(heights)
+            baseX = previousSmallerHistogramIndex[index]
+            base = baseY - baseX - 1
+            currentArea = height * base
+            largestArea = max(largestArea, currentArea)
+
+        return largestArea
