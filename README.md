@@ -422,6 +422,7 @@
 19. [Longest Valid Parentheses](https://github.com/akashanup/programming/tree/main/LongestValidParentheses)
 20. [Flood Fill](https://github.com/akashanup/programming/tree/main/FloodFill)
 21. [Sort Stack](https://github.com/akashanup/programming/tree/main/SortStack)
+22. [Minimum Add to Make Parentheses Valid](https://github.com/akashanup/programming/tree/main/MinimumAddToMakeParenthesesValid)
 
 ### Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
