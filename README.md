@@ -473,6 +473,8 @@
 3. [Single Number III](https://github.com/akashanup/programming/tree/main/SingleNumberIII)
 4. [PowerOfx-n](https://github.com/akashanup/programming/tree/main/PowerOfx-n)
 5. [Divide Two Integers](https://github.com/akashanup/programming/tree/main/DivideTwoIntegers)
+6. [Decode XORed Array](https://github.com/akashanup/programming/tree/main/DecodeXORedArray)
+7. [Find The Original Array of Prefix Xor](https://github.com/akashanup/programming/tree/main/FindTheOriginalArrayOfPrefixXor)
 
 ### Tree
 1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
