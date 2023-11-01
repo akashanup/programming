@@ -519,6 +519,7 @@
 40. [Deepest Leaves Sum](https://github.com/akashanup/programming/tree/main/DeepestLeavesSum)
 41. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/akashanup/programming/tree/main/FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree)
 42. [Contains Duplicate III](https://github.com/akashanup/programming/tree/main/ContainsDuplicateIII)
+43. [Find Mode in Binary Search Tree](https://github.com/akashanup/programming/tree/main/FindModeInBinarySearchTree)
 
 ### Graphs & Disjoint Set
 1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
