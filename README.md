@@ -194,6 +194,7 @@
 45. [Triangle](https://github.com/akashanup/python-programming/tree/main/Triangle)
 46. [Running Sum Of 1d Array](https://github.com/akashanup/python-programming/tree/main/RunningSumOf1dArray)
 47. [Non Decreasing Array](https://github.com/akashanup/python-programming/tree/main/NonDecreasingArray)
+48. [Build an Array With Stack Operations](https://github.com/akashanup/python-programming/tree/main/BuildAnArrayWithStackOperations)
 
 ### Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
