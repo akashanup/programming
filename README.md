@@ -144,9 +144,7 @@
 10. [Find Distance In A Binary Tree](https://github.com/akashanup/programming/tree/main/FindDistanceInBinaryTree)
 11. [Device Application Pairs](https://github.com/akashanup/programming/tree/main/DeviceApplicationPairs)
 
-## Miscellaneous
-
-### Arrays
+## Arrays
 1. [Remove Duplicates From Sorted Array](https://github.com/akashanup/programming/tree/main/RemoveDuplicatesFromSortedArray)
 2. [Left Side Less Right Side More](https://github.com/akashanup/programming/tree/main/LeftSideLessRightSideMore)
 3. [Sub-matrix Sum Queries](https://github.com/akashanup/programming/tree/main/SubmatrixSumQueries)
@@ -196,7 +194,7 @@
 47. [Non Decreasing Array](https://github.com/akashanup/python-programming/tree/main/NonDecreasingArray)
 48. [Build an Array With Stack Operations](https://github.com/akashanup/python-programming/tree/main/BuildAnArrayWithStackOperations)
 
-### Linked Lists
+## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
 2. [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/ReverseLinkedList-II)
 3. [Remove Nth Node From End of List](https://github.com/akashanup/programming/tree/main/RemoveNthNodeFromEndOfList)
@@ -208,9 +206,9 @@
 9. [Copy List with Random Pointer](https://github.com/akashanup/programming/tree/main/CopyListWithRandomPointer)
 10. [Add Two Numbers II](https://github.com/akashanup/programming/tree/main/AddTwoNumbersII)
 11. [Palindrome Linked List](https://github.com/akashanup/programming/tree/main/PalindromeLinkedList)
-11. [Intersection Of Two Linked Lists](https://github.com/akashanup/programming/tree/main/IntersectionOfTwoLinkedLists)
+12. [Intersection Of Two Linked Lists](https://github.com/akashanup/programming/tree/main/IntersectionOfTwoLinkedLists)
 
-### HashMap & HashSet
+## HashMap & HashSet
 1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
 2. [Contiguous Array](https://github.com/akashanup/programming/tree/main/ContiguousArray)
 3. [K-diff Pairs in an Array](https://github.com/akashanup/programming/tree/main/K-DiffPairsInAnArray)
@@ -227,7 +225,7 @@
 14. [Design an Ordered Stream](https://github.com/akashanup/python-programming/tree/main/DesignAnOrderedStream)
 15. [Jewels and Stones](https://github.com/akashanup/python-programming/tree/main/JewelsAndStones)
 
-### Searching
+## Searching
 1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
 2. [Sqrt(x)](https://github.com/akashanup/python-programming/tree/main/Sqrt-x)
 3. [First Bad Version](https://github.com/akashanup/python-programming/tree/main/FirstBadVersion)
@@ -264,7 +262,7 @@
 34. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
 35. [Random Pick with Weight](https://github.com/akashanup/programming/tree/main/RandomPickWithWeight)
 
-### Sorting
+## Sorting
 1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
 2. [Binary Insertion Sort](https://github.com/akashanup/programming/tree/main/BinaryInsertionSort)
 3. [Merge Sort](https://github.com/akashanup/programming/tree/main/MergeSort)
@@ -283,7 +281,7 @@
 16. [Minimum Absolute Difference](https://github.com/akashanup/python-programming/tree/main/MinimumAbsoluteDifference)
 17. [Remove Covered Intervals](https://github.com/akashanup/python-programming/tree/main/RemoveCoveredIntervals)
 
-### Greedy Algorithm
+## Greedy Algorithm
 1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
 2. [Job Sequencing Problem](https://github.com/akashanup/programming/tree/main/JobSequencingProblem)
 3. [Minimum Number of Frogs Croaking](https://github.com/akashanup/programming/tree/main/MinimumNumberOfFrogsCroaking)
@@ -299,7 +297,7 @@
 13. [Two City Scheduling](https://github.com/akashanup/python-programming/tree/main/TwoCityScheduling)
 14. [Water Overflow](https://github.com/akashanup/python-programming/tree/main/WaterOverflow)
 
-### Sliding Window
+## Sliding Window
 1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
 2. [Maximize the Confusion of an Exam](https://github.com/akashanup/python-programming/tree/main/MaximizeTheConfusionOfAnExam)
 3. [Longest Substring Without Repeating Characters](https://github.com/akashanup/python-programming/tree/main/LongestSubstringWithoutRepeatingCharacters)
@@ -316,7 +314,7 @@
 14. [Longest Substring with at Least K Repeating Characters](https://github.com/akashanup/python-programming/tree/main/LongestSubstringWithAtLeast-K-RepeatingCharacters)
 15. [Minimum Operations to Reduce X to Zero](https://github.com/akashanup/python-programming/tree/main/MinimumOperationsToReduce-X-ToZero)
 
-### Backtracking
+## Backtracking
 1. [Word Search](https://github.com/akashanup/programming/tree/main/WordSearch)
 2. [Backtracking N-Queens](https://github.com/akashanup/python-programming/tree/main/Backtracking-N-Queens)
 3. [N-Queens](https://github.com/akashanup/python-programming/tree/main/N-Queens)
@@ -330,7 +328,7 @@
 11. [Combination Sum III](https://github.com/akashanup/programming/tree/main/CombinationSumIII)
 12. [Combination Sum IV](https://github.com/akashanup/programming/tree/main/CombinationSumIV)
 
-### Dynamic Programming
+## Dynamic Programming
 1. [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
 2. [Money Change](https://github.com/akashanup/programming/tree/main/MoneyChange)
 3. [Primitive Calculator](https://github.com/akashanup/programming/tree/main/PrimitiveCalculator)
@@ -401,7 +399,7 @@
 68. [Delete Operation For Two Strings](https://github.com/akashanup/python-programming/tree/main/DeleteOperationForTwoStrings)
 69. [Binary Trees With Factors](https://github.com/akashanup/python-programming/tree/main/BinaryTreesWithFactors)
 
-### Stack
+## Stack
 1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
 2. [Implement Queue using Stacks](https://github.com/akashanup/programming/tree/main/ImplementQueueUsingStacks)
 3. [Min Stack](https://github.com/akashanup/programming/tree/main/MinStack)
@@ -427,7 +425,7 @@
 23. [Online Stock Span](https://github.com/akashanup/programming/tree/main/OnlineStockSpan)
 24. [Maximal Rectangle](https://github.com/akashanup/programming/tree/main/MaximalRectangle)
 
-### Queue
+## Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
 2. [Design Circular Queue](https://github.com/akashanup/programming/tree/main/DesignCircularQueue)
 3. [Moving Average from Data Stream](https://github.com/akashanup/programming/tree/main/MovingAverageFromDataStream)
@@ -437,12 +435,12 @@
 7. [Flood Fill](https://github.com/akashanup/programming/tree/main/FloodFill)
 8. [Find Largest Value in Each Tree Row](https://github.com/akashanup/programming/tree/main/FindLargestValueInEachTreeRow)
 
-### Matrix
+## Matrix
 1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
 2. [Diagonal TraverseII](https://github.com/akashanup/programming/tree/main/DiagonalTraverseII)
 3. [Score After Flipping Matrix](https://github.com/akashanup/programming/tree/main/ScoreAfterFlippingMatrix)
 
-### Strings
+## Strings
 1. [Lexicographically smallest string formed by removing at most one character](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByRemovingAtMostOneCharacter)
 2. [Lexicographically smallest string formed by appending a character from the first K characters of a given string](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
 3. [Lexicographically smallest string obtained after concatenating array](https://github.com/akashanup/programming/tree/main/LexicographicallySmallestStringFormedByAppendingCharacterFromTheFirstK-CharactersOfGivenString)
@@ -455,7 +453,7 @@
 10. [Mini Parser](https://github.com/akashanup/programming/tree/main/MiniParser)
 11. [K-th Symbol in Grammar](https://github.com/akashanup/programming/tree/main/K-thSymbolInGrammar)
 
-### Priority Queue(Heapq)
+## Priority Queue(Heapq)
 1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
 2. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
 3. [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/TheNumberOfTheSmallestUnoccupiedChair)
@@ -469,7 +467,7 @@
 11. [Course Schedule III](https://github.com/akashanup/python-programming/tree/main/CourseScheduleIII)
 12. [Top-K-FrequentElements](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentElements)
 
-### Bit Manipulation (Bit Masking)
+## Bit Manipulation (Bit Masking)
 1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
 2. [Single Number II](https://github.com/akashanup/programming/tree/main/SingleNumberII)
 3. [Single Number III](https://github.com/akashanup/programming/tree/main/SingleNumberIII)
@@ -478,7 +476,7 @@
 6. [Decode XORed Array](https://github.com/akashanup/programming/tree/main/DecodeXORedArray)
 7. [Find The Original Array of Prefix Xor](https://github.com/akashanup/programming/tree/main/FindTheOriginalArrayOfPrefixXor)
 
-### Tree
+## Tree
 1. [Tree Demo](https://github.com/akashanup/programming/tree/main/TreeDemo)
 2. [Compute tree height](https://github.com/akashanup/programming/tree/main/ComputeTreeHeight)
 3. [Convert a given Binary Tree to Doubly Linked List](https://github.com/akashanup/programming/tree/main/ConvertGivenBinaryTreeToDoublyLinkedList)
@@ -523,7 +521,7 @@
 42. [Contains Duplicate III](https://github.com/akashanup/programming/tree/main/ContainsDuplicateIII)
 43. [Find Mode in Binary Search Tree](https://github.com/akashanup/programming/tree/main/FindModeInBinarySearchTree)
 
-### Graphs & Disjoint Set
+## Graphs & Disjoint Set
 1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
 2. [Disjoint Set (Or Union-Find) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindAlgorithmToDetectCycleInAnUndirectedGraph)
 3. [Disjoint Set (Union By Rank and Path Compression Algorithm) | (Detect Cycle in an Undirected Graph)](https://github.com/akashanup/programming/tree/main/DisjointSetOrUnion-FindByRankAndPathCompressionAlgorithmToDetectCycleInAnUndirectedGraph)
@@ -565,7 +563,7 @@
 39. [Most Stones Removed with Same Row or Column](https://github.com/akashanup/programming/tree/main/MostStonesRemovedWithSameRowOrColumn)
 40. [Find All People With Secret](https://github.com/akashanup/programming/tree/main/FindAllPeopleWithSecret)
 
-### Trie
+## Trie
 1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
 2. [Word Search II](https://github.com/akashanup/programming/tree/main/WordSearchII)
 3. [Stream of Characters](https://github.com/akashanup/programming/tree/main/StreamOfCharacters)
@@ -573,3 +571,6 @@
 5. [Maximum XOR of Two Numbers in an Array](https://github.com/akashanup/programming/tree/main/Maximum-XOR-OfTwoNumbersInAnArray)
 6. [Longest Common Prefix](https://github.com/akashanup/programming/tree/main/LongestCommonPrefix)
 7. [Remove Sub-Folders From The Filesystem](https://github.com/akashanup/programming/tree/main/RemoveSub-FoldersFromTheFilesystem)
+
+## Miscellaneous
+1. [Last Moment Before All Ants Fall Out of a Plank](https://github.com/akashanup/programming/tree/main/LastMomentBeforeAllAntsFallOutOfAPlank)
