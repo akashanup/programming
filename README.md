@@ -418,6 +418,7 @@
 22. [Minimum Add to Make Parentheses Valid](https://github.com/akashanup/programming/tree/main/MinimumAddToMakeParenthesesValid)
 23. [Online Stock Span](https://github.com/akashanup/programming/tree/main/OnlineStockSpan)
 24. [Maximal Rectangle](https://github.com/akashanup/programming/tree/main/MaximalRectangle)
+25. [Find the Celebrity](https://github.com/akashanup/programming/tree/main/FindTheCelebrity)
 
 ## Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
