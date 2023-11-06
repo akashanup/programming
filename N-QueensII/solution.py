@@ -19,6 +19,3 @@ class Solution:
         res = []
         self.assignQueens(n, 0, [], matrix, res)
         return len(res)
-
-
-print(Solution().solveNQueens(1))

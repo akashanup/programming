@@ -50,6 +50,3 @@ class Solution:
         result = []
         self.assignQueen(matrix, n, 0, result)
         return len(result)
-
-
-print(Solution().solveNQueens(4))
