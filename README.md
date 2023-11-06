@@ -431,6 +431,7 @@
 7. [Flood Fill](https://github.com/akashanup/programming/tree/main/FloodFill)
 8. [Find Largest Value in Each Tree Row](https://github.com/akashanup/programming/tree/main/FindLargestValueInEachTreeRow)
 9. [Reverse First K elements of Queue](https://github.com/akashanup/programming/tree/main/ReverseFirst-K-ElementsOfQueue)
+10. [Find the First Non-Repeating Character in a Stream](https://github.com/akashanup/programming/tree/main/FindTheFirstNon-RepeatingCharacterInStream)
 
 ## Matrix
 1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
