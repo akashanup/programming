@@ -432,6 +432,7 @@
 8. [Find Largest Value in Each Tree Row](https://github.com/akashanup/programming/tree/main/FindLargestValueInEachTreeRow)
 9. [Reverse First K elements of Queue](https://github.com/akashanup/programming/tree/main/ReverseFirst-K-ElementsOfQueue)
 10. [Find the First Non-Repeating Character in a Stream](https://github.com/akashanup/programming/tree/main/FindTheFirstNon-RepeatingCharacterInStream)
+11. [Interleave The First Half Of The Queue With The Second Half](https://github.com/akashanup/programming/tree/main/InterleaveTheFirstHalfOfTheQueueWithTheSecondHalf)
 
 ## Matrix
 1. [Diagonal Traverse](https://github.com/akashanup/programming/tree/main/DiagonalTraverse)
