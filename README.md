@@ -469,6 +469,7 @@
 10. [Minimum Size Subarray Sum](https://github.com/akashanup/python-programming/tree/main/MinimumSizeSubarraySum)
 11. [Course Schedule III](https://github.com/akashanup/python-programming/tree/main/CourseScheduleIII)
 12. [Top-K-FrequentElements](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentElements)
+13. [Seat Reservation Manager](https://github.com/akashanup/python-programming/tree/main/SeatReservationManager)
 
 ## Bit Manipulation (Bit Masking)
 1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
