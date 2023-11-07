@@ -12,8 +12,8 @@ The following functions must be supported by n Stacks-
 ### Example 1
 ```sh
 Input :
-N = 3
-S = 6
+N = 6
+S = 3
 push(10, 1)
 push(20, 1)
 push(30, 2)

@@ -1,16 +1,16 @@
 class Solution:
     def __init__(self, n, s):
         # List to store an element
-        self.arr = [None] * s
+        self.arr = [None] * n
         # List to determine the index of top element of all stacks
-        self.top = [-1] * n
+        self.top = [-1] * s
         """
         List to determine- 
         the index of next element after stack top
         OR
         the index of next free slot
         """
-        self.next = [_ + 1 for _ in range(s)]
+        self.next = [_ + 1 for _ in range(n)]
         self.next[-1] = -1
         # Variable determines the next free slot to store in arr.
         self.freeSlot = 0
@@ -46,10 +46,12 @@ class Solution:
         return self.freeSlot == -1
 
 
-solution = Solution(3, 6)
+solution = Solution(6, 3)
 print(solution.push(10, 1))
 print(solution.push(20, 1))
 print(solution.push(30, 2))
+print(solution.pop(1))
+print(solution.pop(1))
 print(solution.pop(1))
 print(solution.pop(2))
 print(solution.pop(2))
