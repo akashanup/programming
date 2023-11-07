@@ -21,7 +21,7 @@ class MyQueue:
 
     def pop(self) -> int:
         """
-        Removes the element from in front of queue and returns that element.
+        Removes the element from the front of queue and returns that element.
         """
         while len(self.mainStack) > 1:
             self.helperStack.append(self.mainStack.pop())
