@@ -28,7 +28,7 @@ class MyStack:
         return len(self.q1) == 0
 
 
-# Your MyStack object will be instantiated and called as such:
+# Your MyStack object will be instantiated, and called as such:
 # obj = MyStack()
 # obj.push(x)
 # param_2 = obj.pop()
