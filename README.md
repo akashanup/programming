@@ -583,3 +583,4 @@
 ## Miscellaneous
 1. [Last Moment Before All Ants Fall Out of a Plank](https://github.com/akashanup/programming/tree/main/LastMomentBeforeAllAntsFallOutOfAPlank)
 2. [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
+3. [Find the Winner of an Array Game](https://github.com/akashanup/programming/tree/main/FindTheWinnerOfAnArrayGame)
