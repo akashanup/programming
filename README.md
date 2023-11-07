@@ -290,6 +290,7 @@
 12. [Broken Calculator](https://github.com/akashanup/python-programming/tree/main/BrokenCalculator)
 13. [Two City Scheduling](https://github.com/akashanup/python-programming/tree/main/TwoCityScheduling)
 14. [Water Overflow](https://github.com/akashanup/python-programming/tree/main/WaterOverflow)
+15. [Eliminate Maximum Number of Monsters](https://github.com/akashanup/python-programming/tree/main/EliminateMaximumNumberOfMonsters)
 
 ## Sliding Window
 1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
