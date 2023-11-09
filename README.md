@@ -581,6 +581,7 @@
 7. [Remove Sub-Folders From The Filesystem](https://github.com/akashanup/programming/tree/main/RemoveSub-FoldersFromTheFilesystem)
 
 ## Miscellaneous
-1. [Last Moment Before All Ants Fall Out of a Plank](https://github.com/akashanup/programming/tree/main/LastMomentBeforeAllAntsFallOutOfAPlank)
+1. [Sorting With Recursion](https://github.com/akashanup/programming/tree/main/SortingWithRecursion)
+2. [Last Moment Before All Ants Fall Out of a Plank](https://github.com/akashanup/programming/tree/main/LastMomentBeforeAllAntsFallOutOfAPlank)
 2. [Pascal's Triangle](https://github.com/akashanup/programming/tree/main/PascalTriangle)
 3. [Find the Winner of an Array Game](https://github.com/akashanup/programming/tree/main/FindTheWinnerOfAnArrayGame)
