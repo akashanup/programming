@@ -31,8 +31,8 @@ class Solution:
             nextSmallerItemIndex = nextSmallerItemIndexes[i]
             if nextSmallerItemIndex == -1:
                 nextSmallerItemIndex = len(nums)
-            # Now it is clear that num is the minimum in between previousSmallerItemIndex+1 and  nextSmallerItemIndex-1 indexes
-            # So if k lies in between this then have a good subarray
+            # Now it is clear that num is the minimum in between previousSmallerItemIndex+1 and nextSmallerItemIndex-1
+            # So if k lies in between this, then we have a good subarray
             if previousSmallerItemIndex + 1 <= k <= nextSmallerItemIndex - 1:
                 maxScore = max(maxScore, ((nextSmallerItemIndex - 1) - (previousSmallerItemIndex + 1) + 1) * num)
         return maxScore
