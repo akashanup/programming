@@ -421,6 +421,7 @@
 24. [Maximal Rectangle](https://github.com/akashanup/programming/tree/main/MaximalRectangle)
 25. [Find the Celebrity](https://github.com/akashanup/programming/tree/main/FindTheCelebrity)
 26. [N Stacks In An Array](https://github.com/akashanup/programming/tree/main/N-StacksInAnArray)
+27. [Sum of Subarray Minimums](https://github.com/akashanup/programming/tree/main/SumOfSubarrayMinimums)
 
 ## Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
