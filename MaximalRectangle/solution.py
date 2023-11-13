@@ -1,3 +1,15 @@
+"""
+This question is very similar to the Largest Rectangle In Histogram.
+There the histogram was already given, and we just needed to calculate the largest rectangle area.
+But here need to dynamically make the histogram also.
+
+At a time, treat one row as base and make histogram with columns as bars from the first row till the current row.
+Consider the heights of histogram are calculated based on the column values from the first row till the current row.
+If for the current row any column value is 0, then the corresponding height would also be considered as 0 because
+we need only 1s in the rectangle.
+"""
+
+
 class Solution:
     def nextSmallerElementIndex(self, heights):
         result = [-1] * len(heights)
@@ -39,16 +51,11 @@ class Solution:
         maxArea = 0
         heights = [0] * len(matrix[0])
         for row in range(len(matrix)):
-            """
-            Consider the heights of histogram is calculated based on the column values from the first row till current row.
-            If for the current row, any column value is 0 then corresponding height would also be considered as 0 because we need only 1s in the rectangle.
-            """
             for col in range(len(matrix[0])):
                 if matrix[row][col] == "1":
                     heights[col] += 1
                 else:
                     heights[col] = 0
-            # Consider the current row as base. With respect to the base, calculate the area of rectangle with the height calculated above.
             area = self.largestRectangularAreaOfHistogram(heights)
             maxArea = max(maxArea, area)
         return maxArea
