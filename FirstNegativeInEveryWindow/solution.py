@@ -6,7 +6,7 @@ class Solution:
     def firstNegative(self, nums, k):
         # Queue will track the negative elements for all K windows
         queue = deque()
-        result = [None] * ceil(len(nums) - k + 1)
+        result = [None] * (len(nums) - k + 1)
         # Find the negative numbers in the original order for the first k-size window
         for i in range(k):
             if nums[i] < 0:
