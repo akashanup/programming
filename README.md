@@ -457,6 +457,7 @@
 10. [Mini Parser](https://github.com/akashanup/programming/tree/main/MiniParser)
 11. [K-th Symbol in Grammar](https://github.com/akashanup/programming/tree/main/K-thSymbolInGrammar)
 12. [Count Number of Homogenous Substrings](https://github.com/akashanup/programming/tree/main/CountNumberOfHomogenousSubstrings)
+13. [Sort Vowels in a String](https://github.com/akashanup/programming/tree/main/SortVowelsInString)
 
 ## Priority Queue(Heapq)
 1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
@@ -573,6 +574,8 @@
 39. [Most Stones Removed with Same Row or Column](https://github.com/akashanup/programming/tree/main/MostStonesRemovedWithSameRowOrColumn)
 40. [Find All People With Secret](https://github.com/akashanup/programming/tree/main/FindAllPeopleWithSecret)
 41. [Restore the Array From Adjacent Pairs](https://github.com/akashanup/programming/tree/main/RestoreTheArrayFromAdjacentPairs)
+42. [Bus Routes](https://github.com/akashanup/programming/tree/main/BusRoutes)
+43. [Design Graph With Shortest Path Calculator](https://github.com/akashanup/programming/tree/main/DesignGraphWithShortestPathCalculator)
 
 ## Trie
 1. [Implement Trie (Prefix Tree)](https://github.com/akashanup/programming/tree/main/ImplementTriePrefixTree)
