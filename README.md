@@ -218,6 +218,8 @@
 13. [Top K Frequent Words](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentWords)
 14. [Design an Ordered Stream](https://github.com/akashanup/python-programming/tree/main/DesignAnOrderedStream)
 15. [Jewels and Stones](https://github.com/akashanup/python-programming/tree/main/JewelsAndStones)
+16. [Maximum Sum of Distinct Subarrays With Length K](https://github.com/akashanup/python-programming/tree/main/MaximumSumOfDistinctSubarraysWithLengthK)
+17. [Unique Length-3 Palindromic Subsequences](https://github.com/akashanup/python-programming/tree/main/UniqueLength3PalindromicSubsequences)
 
 ## Searching
 1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
