@@ -1,26 +1,29 @@
 class Solution:
-    def combinations(self, unprocessed, processed=None):
-        if processed is None:
-            processed = []
+    def combinations(self, nums):
+        return self.__combinations([], nums, 0)
+
+    def permutations(self, nums):
+        return self.__permutations([], nums, 0)
+
+    def __combinations(self, processed, unprocessed, u):
         # Base Condition: Nothing to process, Empty input.
-        if not unprocessed:
+        if u == len(unprocessed):
             return [processed]
+        currentItem = unprocessed[u]
         # Take the current item and recur for remaining.
-        taken = self.combinations(unprocessed[1:], processed+[unprocessed[0]])
+        taken = self.__combinations(processed+[currentItem], unprocessed, u+1)
         # Reject the current item and recur for remaining.
-        rejected = self.combinations(unprocessed[1:], processed)
+        rejected = self.__combinations(processed, unprocessed, u+1)
         return taken + rejected
 
-    def permutations(self, unprocessed, processed=None):
-        if processed is None:
-            processed = []
+    def __permutations(self, processed, unprocessed, u):
         # Base Condition: Nothing to process, Empty input.
-        if not unprocessed:
+        if u == len(unprocessed):
             return [processed]
+        currentItem = unprocessed[u]
         answer = []
         for i in range(len(processed)+1):
-            # Add the current item at ith index and recur for remaining.
-            answer += self.permutations(unprocessed[1:], processed[:i]+[unprocessed[0]]+processed[i:])
+            answer += self.__permutations(processed[:i]+[currentItem]+processed[i:], unprocessed, u+1)
         return answer
 
 
