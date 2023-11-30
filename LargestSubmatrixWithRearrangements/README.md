@@ -22,7 +22,7 @@ Explanation: You can rearrange the columns as shown above.
 The largest submatrix of 1s, in bold, has an area of 3.
 ```
 
-### Example 2
+### Example 3
 ```sh
 Input: matrix = [[1,1,0],[1,0,1]]
 Output: 2
