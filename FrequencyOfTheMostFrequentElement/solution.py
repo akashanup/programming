@@ -7,7 +7,7 @@ Logic:
     Now let's say for a number nums[i], we could modify x numbers on the left of nums[i] with using at most K
     operations.
     From the above statement we can conclude that-
-    x * nums[i] would be equal to nums[i-1] + nums[i-2] + .. + nums[i-x]
+    x * nums[i] would be equal to nums[i] + nums[i-1] + nums[i-2] + .. + nums[i-x]
     Now if this x is less than or equal to K than we have found one of the potential number with maximum frequency.
     If x > K then we would try to modify x-1 numbers on left.
     We just need to do this for all the numbers.
