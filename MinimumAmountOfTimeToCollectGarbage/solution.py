@@ -17,7 +17,7 @@ class Solution:
             prevHouse = 0
             for house in range(len(garbage)):
                 if house in houses:
-                    # Time taken to reach the current house from previous house
+                    # Time taken to reach the current house from the previous house
                     timeTaken += travelTime[house] - travelTime[prevHouse]
                     # Time taken to collect all the current garbage type from the current house
                     timeTaken += houses[house]
