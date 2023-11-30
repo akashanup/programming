@@ -24,7 +24,11 @@ class Solution:
 
         maxArea = 0
         for row in matrix:
-            # Here we do not need to find the previous smaller element index because row is sorted here so we can conclude that for current height[i], all the heights at left of i would be greater that height[i] hence the base of rectangle could be extended to the extreme left of i.
+            """
+            Here we do not need to find the previous smaller element index because row is sorted here so we can 
+            conclude that for current height[i], all the heights at left of i would be greater that height[i] hence 
+            the base of rectangle could be extended to the extreme left of i.
+            """
             row.sort(reverse=True)
             nextSmallerIdx = self.__nextSmallerElementIndex(row)
             for b, height in enumerate(row):
