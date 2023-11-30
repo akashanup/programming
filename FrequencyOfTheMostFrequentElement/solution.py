@@ -19,14 +19,14 @@ class Solution:
         nums.sort()
         maxFreq = 0
         left = 0
-        currentWindowSum = 0
+        currWindowSum = 0
         
         for right in range(len(nums)):
-            target = nums[right]
-            currentWindowSum += target
+            currNum = nums[right]
+            currWindowSum += currNum
             
-            while (right - left + 1) * target - currentWindowSum > k:
-                currentWindowSum -= nums[left]
+            while (right - left + 1) * currNum - currWindowSum > k:
+                currWindowSum -= nums[left]
                 left += 1
             
             maxFreq = max(maxFreq, right - left + 1)
