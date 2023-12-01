@@ -279,6 +279,7 @@
 18. [Maximum Number of Coins You Can Get](https://github.com/akashanup/python-programming/tree/main/MaximumNumberOfCoinsYouCanGet)
 19. [Arithmetic Subarrays](https://github.com/akashanup/python-programming/tree/main/ArithmeticSubarrays)
 20. [Reduction Operations to Make the Array Elements Equal](https://github.com/akashanup/python-programming/tree/main/ReductionOperationsToMakeTheArrayElementsEqual)
+21. [Maximum Element After Decreasing and Rearranging](https://github.com/akashanup/python-programming/tree/main/MaximumElementAfterDecreasingAndRearranging)
 
 ## Greedy Algorithm
 1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
