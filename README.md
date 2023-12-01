@@ -187,6 +187,7 @@
 47. [Non Decreasing Array](https://github.com/akashanup/python-programming/tree/main/NonDecreasingArray)
 48. [Build an Array With Stack Operations](https://github.com/akashanup/python-programming/tree/main/BuildAnArrayWithStackOperations)
 49. [Minimum Amount of Time to Collect Garbage](https://github.com/akashanup/python-programming/tree/main/MinimumAmountOfTimeToCollectGarbage)
+50. [Count Nice Pairs in an Array](https://github.com/akashanup/python-programming/tree/main/CountNicePairsInAnArray)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
