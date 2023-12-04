@@ -408,6 +408,7 @@
 68. [Delete Operation For Two Strings](https://github.com/akashanup/python-programming/tree/main/DeleteOperationForTwoStrings)
 69. [Binary Trees With Factors](https://github.com/akashanup/python-programming/tree/main/BinaryTreesWithFactors)
 70. [Knight Dialer](https://github.com/akashanup/python-programming/tree/main/KnightDialer)
+71. [Minimum Path Cost in a Grid](https://github.com/akashanup/python-programming/tree/main/MinimumPathCostInGrid)
 
 ## Stack
 1. [Check brackets in the code](https://github.com/akashanup/programming/tree/main/CheckBracketsInTheCode)
