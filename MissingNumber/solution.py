@@ -2,12 +2,10 @@ class Solution:
     def cyclicSort(self, nums, n):
         i = 0
         while i < n:
-            if nums[i] != n:
-                correct = nums[i]
-                if nums[i] != nums[correct]:
-                    nums[i], nums[correct] = nums[correct], nums[i]
-                else:
-                    i += 1
+            correct = nums[i]
+            # Since nums[i] starts from zero and can be equal to n, hence we need to check for upper bound also.
+            if nums[i] < len(nums) and nums[i] != nums[correct]:
+                nums[i], nums[correct] = nums[correct], nums[i]
             else:
                 i += 1
 
@@ -15,9 +13,11 @@ class Solution:
         n = len(nums)
         self.cyclicSort(nums, n)
         """
-            Since the numbers are in range 0 to n in 0-index array, therefore for each index i, the value present at i should also be i (Because we have soted the array).
+            Since the numbers are in range 0 to n in 0-index array, therefore for each index i, the value present at i 
+            should also be i (Because we have sorted the array).
             If it is not i then that number is missing.
         """
+
         for i in range(n):
             if i != nums[i]:
                 return i
