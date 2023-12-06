@@ -1,8 +1,13 @@
 """
 Logic:
-    1. Iterate over the array and keep a track of sum of all the encountered elements (prefix sum). Let's call it as currentSum. Whenever, we find currentSum == k, we have found a required subarray.
-    2. While iterating, also keep a track of all the currentSum which is calculated. This is done because at any point if currentSum exceeds k then we can check whether currentSum - k has already been found or not. If it does then we have found more subarrays.
-        Proof: Let's say for index j, the currentSum exceeds k be currentSum_j and for index i (<j) the currentSum be currentSum_i and if currentSum_j - k == currentSum_i then sum(nums[i:j]) would be equal to k. Hence we have found for sub arrays.
+    1. Iterate over the array and keep a track of sum of all the encountered elements (prefix sum).
+    Let's call it as currentSum, now, whenever we find currentSum == k, we have found a required subarray.
+    2. While iterating, also keep track of all the currentSum which is calculated.
+    This is done because at any point if currentSum exceeds k then we can check whether currentSum - k has already
+    been found or not. If it does, then we have found more subarrays.
+    Proof: Let's say for index j, the currentSum exceeds k be currentSum_j and for index i (<j) the currentSum be
+    currentSum_i and if currentSum_j - k == currentSum_i then sum(nums[i:j]) would be equal to k.
+    Hence, we have found subarrays.
 """
 
 
