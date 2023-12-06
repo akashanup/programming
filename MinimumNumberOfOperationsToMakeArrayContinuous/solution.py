@@ -18,7 +18,7 @@ class Solution:
 
         ans = n
         for i, start in enumerate(nums):
-            # Elements must continuous and must be in range from start to end
+            # Elements must be continuous and must be in range from start to end
             end = start + n - 1
             # Find right insert position
             idx = self.binarySearchFindCeil(nums, end)
@@ -26,4 +26,3 @@ class Solution:
             alteredPotentialElements = n - existingPotentialElements
             ans = min(ans, alteredPotentialElements)
         return ans
-        
