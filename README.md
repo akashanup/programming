@@ -191,6 +191,7 @@
 52. [Find Missing Observations](https://github.com/akashanup/python-programming/tree/main/FindMissingObservations)
 53. [Maximum Subarray](https://github.com/akashanup/programming/tree/main/MaximumSubarray)
 54. [Continuous Subarray Sum](https://github.com/akashanup/python-programming/tree/main/ContinuousSubarraySum)
+55. [Intervals Between Identical Elements](https://github.com/akashanup/python-programming/tree/main/IntervalsBetweenIdenticalElements)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
