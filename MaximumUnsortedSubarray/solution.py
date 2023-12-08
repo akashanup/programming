@@ -2,11 +2,10 @@
 Logic:
 We need to iterate the list from the beginning and try to find the index (say i) from where the list fails its sequence.
 It means that A[i-1] > A[i].
-So if we find the correct index for A[i-1] as per sorted A then we can say that we have
-found the last index of unsorted subarray.
-Remember that there could be many such unsorted subarrays.
-We need to iterate all the unsorted subarrays to find the
-last index which would guarantee that the last index would be the last index of final maximum unsorted subarray.
+So if we find the correct index for A[i-1] as per sorted A then we can say that we have found the last index of
+current unsorted subarray.
+Remember that there could be many such unsorted subarrays. Hence, we need to iterate all the unsorted subarrays to find
+the last index which would guarantee that the last index would be the last index of final maximum unsorted subarray.
 
 Now we need to iterate the list from end to find the first index for which the array fails its sequence. We could use
 the above logic to find the start index of final maximum unsorted subarray.
