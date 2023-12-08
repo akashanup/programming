@@ -1,18 +1,15 @@
 """
 Logic:
 Let's start by looking at the first character.
-
 If the first character is X, all permutations that had the first character less than X would come before this
 permutation when sorted lexicographically.
-
-Number of permutations with a character C as the first character
+We also know that the number of permutations with a character C as the first character
     = number of permutations possible with remaining N-1 character = (N-1)!
-
 Then the problem reduces to finding the rank of the permutation after removing the first character from the set.
-
 Hence,
 rank = number of characters less than first character * (N-1)!
-    + rank of permutation of string with the first character removed
+    + rank of permutation of string with the first character removed (Basically, fix the first character at first index
+    and find the rank for remaining)
 
 Example:
 Let's say out string is “VIEW”.
@@ -38,7 +35,7 @@ class Solution:
         i = 0
         count = self.__smallerCharsCount(A, i)
         while i < len(A):
-            rank += count * self.__fact((len(A) - 1 - i))
+            rank += count * self.__fact(len(A) - 1 - i)
             i += 1
             count = self.__smallerCharsCount(A, i)
         return rank % 1000003
