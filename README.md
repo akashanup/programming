@@ -194,6 +194,7 @@
 55. [Intervals Between Identical Elements](https://github.com/akashanup/python-programming/tree/main/IntervalsBetweenIdenticalElements)
 56. [Flip](https://github.com/akashanup/python-programming/tree/main/Flip)
 57. [Maximum Unsorted Subarray](https://github.com/akashanup/python-programming/tree/main/MaximumUnsortedSubarray)
+58. [Sorted Permutation Rank](https://github.com/akashanup/python-programming/tree/main/SortedPermutationRank)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
