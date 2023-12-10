@@ -483,6 +483,7 @@
 11. [K-th Symbol in Grammar](https://github.com/akashanup/programming/tree/main/K-thSymbolInGrammar)
 12. [Count Number of Homogenous Substrings](https://github.com/akashanup/programming/tree/main/CountNumberOfHomogenousSubstrings)
 13. [Sort Vowels in a String](https://github.com/akashanup/programming/tree/main/SortVowelsInString)
+14. [Valid Ip Addresses](https://github.com/akashanup/programming/tree/main/ValidIpAddresses)
 
 ## Priority Queue(Heapq)
 1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
@@ -556,6 +557,7 @@
 45. [Unique Binary Search Trees](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTrees)
 46. [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTreesII)
 47. [N-ary Tree Level Order Traversal](https://github.com/akashanup/programming/tree/main/N-aryTreeLevelOrderTraversal)
+48. [Segment Tree](https://github.com/akashanup/programming/tree/main/SegmentTree)
 
 ## Graphs & Disjoint Set
 1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
