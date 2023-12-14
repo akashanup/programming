@@ -485,6 +485,7 @@
 12. [Count Number of Homogenous Substrings](https://github.com/akashanup/programming/tree/main/CountNumberOfHomogenousSubstrings)
 13. [Sort Vowels in a String](https://github.com/akashanup/programming/tree/main/SortVowelsInString)
 14. [Valid Ip Addresses](https://github.com/akashanup/programming/tree/main/ValidIpAddresses)
+15. [Different Ways to Add Parentheses](https://github.com/akashanup/programming/tree/main/DifferentWaysToAddParentheses)
 
 ## Priority Queue(Heapq)
 1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
