@@ -559,6 +559,7 @@
 46. [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/UniqueBinarySearchTreesII)
 47. [N-ary Tree Level Order Traversal](https://github.com/akashanup/programming/tree/main/N-aryTreeLevelOrderTraversal)
 48. [Segment Tree](https://github.com/akashanup/programming/tree/main/SegmentTree)
+49. (Smallest Subtree with all the Deepest Nodes)(https://github.com/akashanup/programming/tree/main/SmallestSubtreeWithAllTheDeepestNodes)
 
 ## Graphs & Disjoint Set
 1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
