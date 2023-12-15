@@ -448,6 +448,7 @@
 26. [N Stacks In An Array](https://github.com/akashanup/programming/tree/main/N-StacksInAnArray)
 27. [Sum of Subarray Minimums](https://github.com/akashanup/programming/tree/main/SumOfSubarrayMinimums)
 28. [Largest Submatrix With Rearrangements](https://github.com/akashanup/programming/tree/main/LargestSubmatrixWithRearrangements)
+29. [Minimum Number of Taps to Open to Water a Garden](https://github.com/akashanup/programming/tree/main/MinimumNumberOfTapsToOpenToWaterGarden)
 
 ## Queue
 1. [Network packet processing simulation](https://github.com/akashanup/programming/tree/main/NetworkPacketProcessingSimulation)
