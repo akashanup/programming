@@ -229,6 +229,7 @@
 16. [Maximum Sum of Distinct Subarrays With Length K](https://github.com/akashanup/python-programming/tree/main/MaximumSumOfDistinctSubarraysWithLengthK)
 17. [Unique Length-3 Palindromic Subsequences](https://github.com/akashanup/python-programming/tree/main/UniqueLength3PalindromicSubsequences)
 18. [Reconstruct Original Digits from English](https://github.com/akashanup/python-programming/tree/main/ReconstructOriginalDigitsFromEnglish)
+19. [Design In-Memory File System](https://github.com/akashanup/python-programming/tree/main/DesignIn-MemoryFileSystem)
 
 ## Searching
 1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
