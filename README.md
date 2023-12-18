@@ -347,6 +347,7 @@
 11. [Combination Sum II](https://github.com/akashanup/programming/tree/main/CombinationSumII)
 12. [Combination Sum III](https://github.com/akashanup/programming/tree/main/CombinationSumIII)
 13. [Combination Sum IV](https://github.com/akashanup/programming/tree/main/CombinationSumIV)
+14. [Minimum Moves to Spread Stones Over Grid](https://github.com/akashanup/programming/tree/main/MinimumMovesToSpreadStonesOverGrid)
 
 ## Dynamic Programming
 1. [Min Cost Climbing Stairs](https://github.com/akashanup/programming/tree/main/MinCostClimbingStairs)
