@@ -267,6 +267,7 @@
 33. [Count Number of Rectangles Containing Each Point](https://github.com/akashanup/programming/tree/main/CountNumberOfRectanglesContainingEachPoint)
 34. [Path With Minimum Effort](https://github.com/akashanup/programming/tree/main/PathWithMinimumEffort)
 35. [Random Pick with Weight](https://github.com/akashanup/programming/tree/main/RandomPickWithWeight)
+36. [Closest Subsequence Sum](https://github.com/akashanup/programming/tree/main/ClosestSubsequenceSum)
 
 ## Sorting
 1. [Insertion Sort](https://github.com/akashanup/programming/tree/main/InsertionSort)
@@ -503,6 +504,7 @@
 11. [Course Schedule III](https://github.com/akashanup/python-programming/tree/main/CourseScheduleIII)
 12. [Top-K-FrequentElements](https://github.com/akashanup/python-programming/tree/main/Top-K-FrequentElements)
 13. [Seat Reservation Manager](https://github.com/akashanup/python-programming/tree/main/SeatReservationManager)
+14. [Design a Food Rating System](https://github.com/akashanup/python-programming/tree/main/DesignFoodRatingSystem)
 
 ## Bit Manipulation (Bit Masking)
 1. [Single Number](https://github.com/akashanup/programming/tree/main/SingleNumber)
