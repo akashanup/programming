@@ -314,6 +314,7 @@
 17. [Number of Ways to Divide a Long Corridor](https://github.com/akashanup/python-programming/tree/main/NumberOfWaysToDivideLongCorridor)
 18. [Minimize Maximum Pair Sum in Array](https://github.com/akashanup/python-programming/tree/main/MinimizeMaximumPairSumInArray)
 19. [Minimum Cost Homecoming of a Robot in a Grid](https://github.com/akashanup/python-programming/tree/main/MinimumCostHomecomingOfRobotInGrid)
+20. [Minimum Time to Make Rope Colorful](https://github.com/akashanup/python-programming/tree/main/MinimumTimeToMakeRopeColorful)
 
 ## Sliding Window
 1. [Max Consecutive Ones III](https://github.com/akashanup/programming/tree/main/MaxConsecutiveOnesIII)
