@@ -568,6 +568,7 @@
 48. [Segment Tree](https://github.com/akashanup/programming/tree/main/SegmentTree)
 49. [Smallest Subtree with all the Deepest Nodes](https://github.com/akashanup/programming/tree/main/SmallestSubtreeWithAllTheDeepestNodes)
 50. [Binary Tree Maximum Path Sum](https://github.com/akashanup/programming/tree/main/BinaryTreeMaximumPathSum)
+51. [Maximum Difference Between Node and Ancestor](https://github.com/akashanup/programming/tree/main/MaximumDifferenceBetweenNodeAndAncestor)
 
 ## Graphs & Disjoint Set
 1. [Find The Town Judge](https://github.com/akashanup/programming/tree/main/FindTheTownJudge)
