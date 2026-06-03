@@ -194,6 +194,9 @@
 57. [Maximum Unsorted Subarray](https://github.com/akashanup/python-programming/tree/main/MaximumUnsortedSubarray)
 58. [Sorted Permutation Rank](https://github.com/akashanup/python-programming/tree/main/SortedPermutationRank)
 59. [Maximum Product of Two Elements in an Array](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfTwoElementsInAnArray)
+60. [Smallest Range I](https://github.com/akashanup/python-programming/tree/main/SmallestRangeI)
+60. [Uncommon Words From Two Sentences](https://github.com/akashanup/python-programming/tree/main/UncommonWordsFromTwoSentences)
+
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
