@@ -124,7 +124,6 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 117. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 118. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
 119. [Numbers At Most N Given Digit Set](https://github.com/akashanup/programming/tree/main/NumbersAtMost-N-GivenDigitSet)
-120. [License Key Formatting](./LicenseKeyFormatting/)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
@@ -201,6 +200,8 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 59. [Maximum Product of Two Elements in an Array](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfTwoElementsInAnArray)
 60. [Smallest Range I](https://github.com/akashanup/python-programming/tree/main/SmallestRangeI)
 61. [Binary Gap](https://github.com/akashanup/python-programming/tree/main/BinaryGap)
+62. [License Key Formatting](https://github.com/akashanup/python-programming/tree/main/LicenseKeyFormatting/)
+63. [Teemo Attacking](https://github.com/akashanup/python-programming/tree/main/TeemoAttacking/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
