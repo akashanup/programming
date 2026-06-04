@@ -1,5 +1,9 @@
 # Programs
 
+## Automation
+Use [tools/leetcode_agent.py](tools/leetcode_agent.py) to scaffold a new solved problem from a LeetCode URL.
+Step 1 creates the problem folder and fetched `README.md`; step 2 updates this index, commits, and pushes after you manually add `solution.py`.
+
 ## LeetCode
 1. [Super Palindromes](https://github.com/akashanup/python-programming/tree/main/SuperPalindrome)
 2. [Construct Target Array With Multiple Sums](https://github.com/akashanup/python-programming/tree/main/ConstructTargetArrayWithMultipleSums)
