@@ -195,8 +195,7 @@
 58. [Sorted Permutation Rank](https://github.com/akashanup/python-programming/tree/main/SortedPermutationRank)
 59. [Maximum Product of Two Elements in an Array](https://github.com/akashanup/python-programming/tree/main/MaximumProductOfTwoElementsInAnArray)
 60. [Smallest Range I](https://github.com/akashanup/python-programming/tree/main/SmallestRangeI)
-60. [Uncommon Words From Two Sentences](https://github.com/akashanup/python-programming/tree/main/UncommonWordsFromTwoSentences)
-
+61. [Binary Gap](https://github.com/akashanup/python-programming/tree/main/BinaryGap)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
@@ -233,6 +232,7 @@
 18. [Reconstruct Original Digits from English](https://github.com/akashanup/python-programming/tree/main/ReconstructOriginalDigitsFromEnglish)
 19. [Design In-Memory File System](https://github.com/akashanup/python-programming/tree/main/DesignIn-MemoryFileSystem)
 20. [Number of Submatrices That Sum to Target](https://github.com/akashanup/python-programming/tree/main/NumberOfSubmatricesThatSumToTarget)
+21. [Uncommon Words From Two Sentences](https://github.com/akashanup/python-programming/tree/main/UncommonWordsFromTwoSentences)
 
 ## Searching
 1. [Binary Search](https://github.com/akashanup/programming/tree/main/BinarySearch)
