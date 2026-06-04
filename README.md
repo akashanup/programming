@@ -124,6 +124,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 117. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 118. [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/StockPriceFluctuation)
 119. [Numbers At Most N Given Digit Set](https://github.com/akashanup/programming/tree/main/NumbersAtMost-N-GivenDigitSet)
+120. [License Key Formatting](./LicenseKeyFormatting/)
 
 ## GeeksforGeeks
 1. [Ugly Numbers](https://github.com/akashanup/python-programming/tree/main/UglyNumber)
