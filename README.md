@@ -203,6 +203,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 62. [License Key Formatting](https://github.com/akashanup/python-programming/tree/main/LicenseKeyFormatting/)
 63. [Teemo Attacking](https://github.com/akashanup/python-programming/tree/main/TeemoAttacking/)
 64. [Keyboard Rows](https://github.com/akashanup/python-programming/tree/main/KeyboardRows/)
+65. [Perfect Number](https://github.com/akashanup/python-programming/tree/main/PerfectNumber/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
