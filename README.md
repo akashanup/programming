@@ -508,6 +508,8 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 15. [Different Ways to Add Parentheses](https://github.com/akashanup/programming/tree/main/DifferentWaysToAddParentheses)
 16. [Minimum Number of Steps to Make Two Strings Anagram](https://github.com/akashanup/programming/tree/main/MinimumNumberOfStepsToMakeTwoStringsAnagram)
 17. [Determine if Two Strings Are Close](https://github.com/akashanup/programming/tree/main/DetermineIfTwoStringsAreClose)
+18. [Student Attendance Record I](https://github.com/akashanup/programming/tree/main/StudentAttendanceRecordI)
+
 
 ## Priority Queue(Heapq)
 1. [K Largest Or Smallest Elements In An Array](https://github.com/akashanup/programming/tree/main/K-LargestOrSmallestElementsInAnArray)
