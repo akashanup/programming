@@ -307,6 +307,8 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 23. [Max Distance](https://github.com/akashanup/python-programming/tree/main/MaxDistance)
 24. [Find Players With Zero or One Losses](https://github.com/akashanup/python-programming/tree/main/FindPlayersWithZeroOrOneLosses)
 25. [Find Polygon With the Largest Perimeter](https://github.com/akashanup/python-programming/tree/main/FindPolygonWithTheLargestPerimeter)
+26. [Array Partition](https://github.com/akashanup/python-programming/tree/main/ArrayPartition)
+
 
 ## Greedy Algorithm
 1. [Car Fueling](https://github.com/akashanup/python-programming/tree/main/CarFueling)
