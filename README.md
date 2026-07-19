@@ -205,7 +205,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 64. [Keyboard Rows](https://github.com/akashanup/programming/tree/main/KeyboardRows/)
 65. [Perfect Number](https://github.com/akashanup/programming/tree/main/PerfectNumber/)
 65. [Reverse String II](https://github.com/akashanup/programming/tree/main/ReverseStringII/)
-65. [Duplicate Zero](https://github.com/akashanup/programming/tree/main/DuplicateZero/)
+65. [Duplicate Zero](https://github.com/akashanup/programming/tree/main/DuplicateZeros/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
