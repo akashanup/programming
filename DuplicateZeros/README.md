@@ -1,11 +1,5 @@
 # Duplicate Zeros
 
-## Metadata
-
-- Problem: 1089
-- Difficulty: Easy
-- Source: https://leetcode.com/problems/duplicate-zeros/description/
-
 ## Problem Statement
 
 Given a fixed-length integer array `arr`, duplicate each occurrence of zero, shifting the remaining elements to the right.
