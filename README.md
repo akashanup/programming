@@ -208,6 +208,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 65. [Duplicate Zero](https://github.com/akashanup/programming/tree/main/DuplicateZeros/)
 66. [Remove Element](https://github.com/akashanup/programming/tree/main/RemoveElement/)
 66. [Check If N and Its Double Exist](https://github.com/akashanup/programming/tree/main/CheckIfNandItsDoubleExist/)
+67. [Replace Elements with Greatest Element on Right Side](https://github.com/akashanup/programming/tree/main/ReplaceElementsWithGreatestElementOnRightSide/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
