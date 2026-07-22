@@ -210,6 +210,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 66. [Check If N and Its Double Exist](https://github.com/akashanup/programming/tree/main/CheckIfNandItsDoubleExist/)
 67. [Replace Elements with Greatest Element on Right Side](https://github.com/akashanup/programming/tree/main/ReplaceElementsWithGreatestElementonRightSide/)
 68. [Move Zeroes](https://github.com/akashanup/programming/tree/main/MoveZeroes/)
+69. [Third Maximum Number](https://github.com/akashanup/programming/tree/main/ThirdMaximumNumber/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
