@@ -10,7 +10,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 **Example 1:**
 
-*
+![image](image.png)
 
 ```text
 Input: head = [3,2,0,-4], pos = 1
@@ -20,7 +20,7 @@ Explanation: There is a cycle in the linked list, where tail connects to the sec
 
 **Example 2:**
 
-*
+![image1](image-1.png)
 
 ```text
 Input: head = [1,2], pos = 0
@@ -30,7 +30,7 @@ Explanation: There is a cycle in the linked list, where tail connects to the fir
 
 **Example 3:**
 
-*
+![image2](image-2.png)
 
 ```text
 Input: head = [1], pos = -1
