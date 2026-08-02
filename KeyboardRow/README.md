@@ -1,11 +1,5 @@
 # Keyboard Row
 
-## Metadata
-
-- Problem: 500
-- Difficulty: Easy
-- Source: https://leetcode.com/problems/keyboard-row/description/
-
 ## Problem Statement
 
 Given an array of strings `words`, return *the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below*.
@@ -20,7 +14,7 @@ In the **American keyboard**:
 
 - the third row consists of the characters `"zxcvbnm"`.
 
-*
+![image](image.png)
 
 **Example 1:**
 
