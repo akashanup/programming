@@ -132,6 +132,34 @@ def strip_leading_title(source_text: str, title: str) -> str:
     return "\n".join(lines).strip()
 
 
+def download_images(content_html: str, dest_dir: Path) -> str:
+    """Download images referenced in HTML to images/ subdir and rewrite src attributes."""
+    img_pattern = re.compile(r"""(<img[^>]*\bsrc=['"])([^'"]+)(['"][^>]*/?>)""", re.I)
+    downloaded: dict[str, str] = {}
+    images_dir = dest_dir / "images"
+
+    def replace_src(match: re.Match[str]) -> str:
+        prefix, src, suffix = match.group(1), match.group(2), match.group(3)
+        if src in downloaded:
+            return f"{prefix}{downloaded[src]}{suffix}"
+        filename = re.sub(r"[?#].*$", "", src.split("/")[-1]) or "image"
+        local_path = images_dir / filename
+        try:
+            req = Request(src, headers={"User-Agent": "Mozilla/5.0"})
+            with urlopen(req, timeout=30) as resp:
+                images_dir.mkdir(exist_ok=True)
+                local_path.write_bytes(resp.read())
+            rel = f"images/{filename}"
+            downloaded[src] = rel
+            return f"{prefix}{rel}{suffix}"
+        except Exception as exc:
+            print(f"warning: could not download image {src}: {exc}", file=sys.stderr)
+            downloaded[src] = src
+            return match.group(0)
+
+    return img_pattern.sub(replace_src, content_html)
+
+
 def html_to_markdown(content_html: str) -> str:
     def pre_block_replacer(match: re.Match[str]) -> str:
         code_block = match.group(1)
@@ -141,8 +169,17 @@ def html_to_markdown(content_html: str) -> str:
             return "\n"
         return f"\n```text\n{code_block}\n```\n"
 
+    def img_replacer(match: re.Match[str]) -> str:
+        tag = match.group(0)
+        src_m = re.search(r'src=[\'"](.*?)[\'"]', tag, re.I)
+        alt_m = re.search(r'alt=[\'"](.*?)[\'"]', tag, re.I)
+        src = src_m.group(1) if src_m else ""
+        alt = alt_m.group(1) if alt_m else ""
+        return f"![{alt}]({src})" if src else ""
+
     text = content_html
     text = re.sub(r"<pre[^>]*>(.*?)</pre>", pre_block_replacer, text, flags=re.I | re.S)
+    text = re.sub(r"<img[^>]*/?>\s*", img_replacer, text, flags=re.I)
     text = re.sub(r"<br\\s*/?>", "\n", text, flags=re.I)
     text = re.sub(r"<li[^>]*>", "- ", text, flags=re.I)
     text = re.sub(r"</li>", "\n", text, flags=re.I)
@@ -242,8 +279,12 @@ def write_problem_scaffold(spec: ProblemSpec) -> list[Path]:
 
     problem_dir.mkdir(parents=True, exist_ok=False)
 
+    problem_html = spec.problem_html
+    if problem_html:
+        problem_html = download_images(problem_html, problem_dir)
+
     readme_path = problem_dir / "README.md"
-    readme_text = build_readme(spec.title, spec.problem_html, spec.problem_id, spec.difficulty, spec.source_url)
+    readme_text = build_readme(spec.title, problem_html, spec.problem_id, spec.difficulty, spec.source_url)
     readme_path.write_text(readme_text, encoding="utf-8")
     created_files.append(readme_path)
 
