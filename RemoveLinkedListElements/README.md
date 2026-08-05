@@ -12,7 +12,9 @@ Given the `head` of a linked list and an integer `val`, remove all the nodes of 
 
 **Example 1:**
 
-![](images/removelinked-list.jpg)```text
+![](images/removelinked-list.jpg)
+
+```text
 Input: head = [1,2,6,3,4,5,6], val = 6
 Output: [1,2,3,4,5]
 ```
