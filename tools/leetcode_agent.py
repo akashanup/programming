@@ -28,6 +28,17 @@ ROOT = Path(__file__).resolve().parents[1]
 ROOT_README = ROOT / "README.md"
 PROBLEM_ROOT = ROOT / "problems"
 LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
+
+
+def _github_base_url() -> str:
+    result = subprocess.run(
+        ["git", "remote", "get-url", "origin"],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+    )
+    url = result.stdout.strip().removesuffix(".git")
+    return f"{url}/tree/main/problems" if url else "https://github.com/akashanup/dsa/tree/main/problems"
 LEETCODE_PROBLEM_URL = "https://leetcode.com/problems/{slug}/description/"
 LEETCODE_URL_PATTERN = re.compile(r"https?://(?:www\.)?leetcode\.com/", re.I)
 LEETCODE_SLUG_PATTERN = re.compile(r"/problems/([^/]+)/", re.I)
@@ -39,6 +50,9 @@ GRAPHQL_QUERY = """query questionData($titleSlug: String!) {
         title
         content
         difficulty
+        topicTags {
+            name
+        }
     }
 }"""
 
@@ -52,6 +66,7 @@ class ProblemSpec:
     source_url: str | None
     problem_id: str | None
     difficulty: str | None
+    topics: list[str] | None = None
 
 
 def normalize_folder_name(title: str, folder: Optional[str]) -> str:
@@ -114,6 +129,7 @@ def fetch_problem_data(title_slug: str) -> dict[str, str]:
         "title": str(question.get("title", "")).strip(),
         "content": str(question.get("content", "")).strip(),
         "difficulty": str(question.get("difficulty", "")).strip(),
+        "topics": [t["name"] for t in question.get("topicTags", []) if isinstance(t, dict)],
     }
 
 
@@ -299,30 +315,55 @@ def write_problem_scaffold(spec: ProblemSpec) -> list[Path]:
     return created_files
 
 
-def update_root_readme(readme_text: str, title: str, folder: str, section: str) -> str:
-    section_heading = f"## {section}"
+def update_root_readme(readme_text: str, spec: ProblemSpec) -> str:
+    section_heading = f"## {spec.section}"
     section_start = readme_text.find(section_heading)
     if section_start == -1:
-        raise ValueError(f'Section "{section}" was not found in {ROOT_README.name}.')
+        raise ValueError(f'Section "{spec.section}" was not found in {ROOT_README.name}.')
 
     next_section_start = readme_text.find("\n## ", section_start + len(section_heading))
     section_end = next_section_start if next_section_start != -1 else len(readme_text)
 
     section_block = readme_text[section_start:section_end]
-    if re.search(rf"\[{re.escape(title)}\]\(|{re.escape(folder)}", section_block):
+
+    if re.search(rf"\[{re.escape(spec.title)}\]", section_block):
         return readme_text
 
-    numbers = [int(match.group(1)) for match in re.finditer(r"^\s*(\d+)\.\s", section_block, flags=re.M)]
-    next_number = max(numbers) + 1 if numbers else 1
-    entry = f"{next_number}. [{title}](./problem/{folder}/)"
+    # Match data rows: lines starting with | number |
+    data_row_pattern = re.compile(r"^\|\s*\d+\s*\|.+$", re.M)
+    all_matches = list(data_row_pattern.finditer(section_block))
+    if not all_matches:
+        return readme_text
 
-    insertion_point = section_end
-    if insertion_point > 0 and not readme_text[insertion_point - 1] == "\n":
-        entry = "\n" + entry
-    if not readme_text.endswith("\n"):
-        readme_text += "\n"
+    # Parse rows into (title, full_row_text)
+    title_from_row = re.compile(r"\|\s*\d+\s*\|\s*\[(.+?)\]")
+    parsed_rows: list[tuple[str, str]] = []
+    for m in all_matches:
+        row_text = m.group(0)
+        title_match = title_from_row.search(row_text)
+        row_title = title_match.group(1) if title_match else ""
+        parsed_rows.append((row_title, row_text))
 
-    updated = readme_text[:section_end].rstrip() + "\n" + entry + "\n" + readme_text[section_end:]
+    # Build new row
+    github_link = f"{_github_base_url()}/{spec.folder}"
+    difficulty = spec.difficulty or "-"
+    topics = ", ".join(spec.topics) if spec.topics else "-"
+    new_row = f"| 0 | [{spec.title}]({github_link}) | {difficulty} | {topics} |"
+    parsed_rows.append((spec.title, new_row))
+
+    # Sort alphabetically by title (case-insensitive)
+    parsed_rows.sort(key=lambda x: x[0].lower())
+
+    # Renumber 1..N
+    renumbered = [
+        re.sub(r"^\|\s*\d+\s*\|", f"| {i} |", row)
+        for i, (_, row) in enumerate(parsed_rows, start=1)
+    ]
+
+    # Replace the entire rows block in the original text
+    rows_start = section_start + all_matches[0].start()
+    rows_end = section_start + all_matches[-1].end()
+    updated = readme_text[:rows_start] + "\n".join(renumbered) + readme_text[rows_end:]
     return updated.rstrip() + "\n"
 
 
@@ -345,7 +386,7 @@ def finalize_problem(spec: ProblemSpec) -> list[Path]:
         )
 
     root_text = ROOT_README.read_text(encoding="utf-8")
-    updated_root = update_root_readme(root_text, spec.title, spec.folder, spec.section)
+    updated_root = update_root_readme(root_text, spec)
     if updated_root != root_text:
         ROOT_README.write_text(updated_root, encoding="utf-8")
 
@@ -465,6 +506,7 @@ def main() -> int:
         source_url=source_url,
         problem_id=fetched_problem["id"] if fetched_problem else None,
         difficulty=fetched_problem["difficulty"] if fetched_problem else None,
+        topics=fetched_problem["topics"] if fetched_problem else None,
     )
 
     if args.dry_run:
