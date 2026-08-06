@@ -26,6 +26,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 ROOT_README = ROOT / "README.md"
+PROBLEM_ROOT = ROOT / "problem"
 LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
 LEETCODE_PROBLEM_URL = "https://leetcode.com/problems/{slug}/description/"
 LEETCODE_URL_PATTERN = re.compile(r"https?://(?:www\.)?leetcode\.com/", re.I)
@@ -272,7 +273,7 @@ def build_readme(
 
 def write_problem_scaffold(spec: ProblemSpec) -> list[Path]:
     created_files: list[Path] = []
-    problem_dir = ROOT / spec.folder
+    problem_dir = PROBLEM_ROOT / spec.folder
 
     if problem_dir.exists():
         raise FileExistsError(f"Folder already exists: {problem_dir}")
@@ -306,7 +307,7 @@ def update_root_readme(readme_text: str, title: str, folder: str, section: str) 
 
     numbers = [int(match.group(1)) for match in re.finditer(r"^\s*(\d+)\.\s", section_block, flags=re.M)]
     next_number = max(numbers) + 1 if numbers else 1
-    entry = f"{next_number}. [{title}](./{folder}/)"
+    entry = f"{next_number}. [{title}](./problem/{folder}/)"
 
     insertion_point = section_end
     if insertion_point > 0 and not readme_text[insertion_point - 1] == "\n":
@@ -323,7 +324,7 @@ def ensure_parent_exists(path: Path) -> None:
 
 
 def finalize_problem(spec: ProblemSpec) -> list[Path]:
-    problem_dir = ROOT / spec.folder
+    problem_dir = PROBLEM_ROOT / spec.folder
     readme_path = problem_dir / "README.md"
     solution_path = problem_dir / "solution.py"
 
@@ -359,8 +360,8 @@ def run_git_command(arguments: list[str]) -> str:
 
 
 def commit_and_push(spec: ProblemSpec, commit_message: str | None, push_enabled: bool) -> None:
-    problem_dir = ROOT / spec.folder
-    run_git_command(["add", "README.md", spec.folder])
+    problem_dir = PROBLEM_ROOT / spec.folder
+    run_git_command(["add", "README.md", f"problem/{spec.folder}"])
 
     diff_check = subprocess.run(
         ["git", "diff", "--cached", "--quiet"],
@@ -396,8 +397,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--section",
-        default="LeetCode",
-        help='Index section to update in the root README. Default: "LeetCode".',
+        default="Leetcode Problemset",
+        help='Index section to update in the root README. Default: "Leetcode Problemset".',
     )
     parser.add_argument(
         "--dry-run",
@@ -444,7 +445,7 @@ def main() -> int:
         title = target
 
     folder = normalize_folder_name(title, args.folder)
-    problem_dir = ROOT / folder
+    problem_dir = PROBLEM_ROOT / folder
     source_text = read_text(args.source)
     if source_text is not None:
         source_text = strip_leading_title(source_text, title)
