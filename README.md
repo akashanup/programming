@@ -232,6 +232,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 17. [Odd Even Linked List](https://github.com/akashanup/programming/tree/main/OddEvenLinkedList)
 18. [Merge Two Sorted Lists](https://github.com/akashanup/programming/tree/main/MergeTwoSortedLists)
 19. [Flatten a Multilevel Doubly Linked List](https://github.com/akashanup/programming/tree/main/FlattenaMultilevelDoublyLinkedList)
+20. [Rotate List](https://github.com/akashanup/programming/tree/main/RotateList)
 
 ## HashMap & HashSet
 1. [Insert Delete GetRandom O(1)](https://github.com/akashanup/programming/tree/main/InsertDeleteGetRandomInBigO-1)
