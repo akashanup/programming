@@ -371,7 +371,7 @@ def commit_and_push(spec: ProblemSpec, commit_message: str | None, push_enabled:
         print("No staged changes to commit.")
         return
 
-    message = commit_message or f"Add {spec.title} solution"
+    message = commit_message or spec.title
     run_git_command(["commit", "-m", message])
 
     if push_enabled:
