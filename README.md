@@ -211,6 +211,7 @@ Step 1 creates the problem folder and fetched `README.md`; step 2 updates this i
 67. [Replace Elements with Greatest Element on Right Side](https://github.com/akashanup/programming/tree/main/ReplaceElementsWithGreatestElementonRightSide/)
 68. [Move Zeroes](https://github.com/akashanup/programming/tree/main/MoveZeroes/)
 69. [Third Maximum Number](https://github.com/akashanup/programming/tree/main/ThirdMaximumNumber/)
+70. [Find Pivot Index](https://github.com/akashanup/programming/tree/main/FindPivotIndex/)
 
 ## Linked Lists
 1. [Reverse Linked List](https://github.com/akashanup/programming/tree/main/ReverseLinkedList)
