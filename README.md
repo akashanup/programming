@@ -606,4 +606,4 @@
 
 ## Automation
 Use [tools/leetcode_agent.py](tools/leetcode_agent.py) to scaffold a new solved problem from a LeetCode URL.
-Step 1 creates the problem folder and fetched `README.md`; step 2 updates this index, commits, and pushes.
+Step 1 creates the problem folder inside `problems/` with fetched `README.md` and empty `solution.py`; step 2 updates this index, commits, and pushes.

@@ -7,9 +7,10 @@ This repository now includes a local scaffold generator at [tools/leetcode_agent
 When you finish a problem, run the script with the problem title. It will:
 
 **Step 1:**
-- create a new problem folder and README
+- create a new problem folder inside the existing `problems/` directory
 - write `README.md` with problem statement and metadata
 - create an empty `solution.py` file
+- (requires `problems/` folder to already exist)
 
 **Step 2:**
 - update the root [README.md](../README.md) index with the problem details
@@ -43,6 +44,7 @@ python tools/leetcode_agent.py "K-diff Pairs in an Array" --folder K-DiffPairsIn
 
 ## Recommended flow
 
-1. Run the script with a LeetCode problem or submission URL with `--step 1` (creates folder, README.md, and empty solution.py)
-2. Add your solution code to `solution.py`
-3. Run the script again with `--step 2` (updates root index, creates commit with problem name, and pushes)
+1. Ensure the `problems/` folder exists in the repository root
+2. Run the script with a LeetCode problem or submission URL with `--step 1` (creates problem folder, README.md, and empty solution.py inside `problems/`)
+3. Add your solution code to `solution.py`
+4. Run the script again with `--step 2` (updates root index, creates commit with problem name, and pushes)

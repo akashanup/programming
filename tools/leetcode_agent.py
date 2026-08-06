@@ -26,7 +26,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 ROOT_README = ROOT / "README.md"
-PROBLEM_ROOT = ROOT / "problem"
+PROBLEM_ROOT = ROOT / "problems"
 LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql"
 LEETCODE_PROBLEM_URL = "https://leetcode.com/problems/{slug}/description/"
 LEETCODE_URL_PATTERN = re.compile(r"https?://(?:www\.)?leetcode\.com/", re.I)
@@ -278,7 +278,10 @@ def write_problem_scaffold(spec: ProblemSpec) -> list[Path]:
     if problem_dir.exists():
         raise FileExistsError(f"Folder already exists: {problem_dir}")
 
-    problem_dir.mkdir(parents=True, exist_ok=False)
+    if not PROBLEM_ROOT.exists():
+        raise FileNotFoundError(f"Problems folder not found: {PROBLEM_ROOT}")
+
+    problem_dir.mkdir(parents=False, exist_ok=False)
 
     problem_html = spec.problem_html
     if problem_html:
@@ -288,6 +291,10 @@ def write_problem_scaffold(spec: ProblemSpec) -> list[Path]:
     readme_text = build_readme(spec.title, problem_html, spec.problem_id, spec.difficulty, spec.source_url)
     readme_path.write_text(readme_text, encoding="utf-8")
     created_files.append(readme_path)
+
+    solution_path = problem_dir / "solution.py"
+    solution_path.write_text("", encoding="utf-8")
+    created_files.append(solution_path)
 
     return created_files
 
@@ -361,7 +368,7 @@ def run_git_command(arguments: list[str]) -> str:
 
 def commit_and_push(spec: ProblemSpec, commit_message: str | None, push_enabled: bool) -> None:
     problem_dir = PROBLEM_ROOT / spec.folder
-    run_git_command(["add", "README.md", f"problem/{spec.folder}"])
+    run_git_command(["add", "README.md", f"problems/{spec.folder}"])
 
     diff_check = subprocess.run(
         ["git", "diff", "--cached", "--quiet"],
