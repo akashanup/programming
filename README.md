@@ -366,152 +366,153 @@
 | 360 | [Perfect Number](https://github.com/akashanup/programming/tree/main/problems/PerfectNumber/) | Easy | Math |
 | 361 | [Perfect Squares](https://github.com/akashanup/programming/tree/main/problems/PerfectSquares) | Medium | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack |
 | 362 | [Permutation in String](https://github.com/akashanup/programming/tree/main/problems/PermutationInString) | Medium | Hash Table, Two Pointers, String, Sliding Window |
-| 363 | [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/problems/PopulatingNextRightPointersInEachNode) | Medium | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| 364 | [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/problems/PopulatingNextRightPointersInEachNodeII) | Medium | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| 365 | [Pow(x, n)](https://github.com/akashanup/programming/tree/main/problems/PowerOfx-n) | Medium | Math, Recursion |
-| 366 | [Prefix and Suffix Search](https://github.com/akashanup/programming/tree/main/problems/PrefixAndSuffixSearch) | Hard | Array, Hash Table, String, Design, Trie |
-| 367 | [Product of Array Except Self](https://github.com/akashanup/programming/tree/main/problems/ProductOfArrayExceptSelf) | Medium | Array, Prefix Sum |
-| 368 | [Product of the Last K Numbers](https://github.com/akashanup/programming/tree/main/problems/ProductOfTheLast-K-Numbers) | Medium | Array, Math, Design, Data Stream, Prefix Sum |
-| 369 | [Pseudo-Palindromic Paths in a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/PseudoPalindromicPathsInBinaryTree) | Medium | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| 370 | [Push Dominoes](https://github.com/akashanup/programming/tree/main/problems/PushDominoes) | Medium | Two Pointers, String, Dynamic Programming |
-| 371 | [Random Pick with Weight](https://github.com/akashanup/programming/tree/main/problems/RandomPickWithWeight) | Medium | Array, Math, Binary Search, Prefix Sum, Randomized |
-| 372 | [Range Addition II](https://github.com/akashanup/programming/tree/main/problems/RangeAdditionII) | Easy | Array, Math |
-| 373 | [Range Sum Query - Mutable](https://github.com/akashanup/programming/tree/main/problems/RangeSumQuery-Mutable) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition |
-| 374 | [Range Sum Query 2D - Immutable](https://github.com/akashanup/programming/tree/main/problems/RangeSumQuery2D-Immutable) | Medium | Array, Design, Matrix, Prefix Sum |
-| 375 | [Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/problems/ReachableNodesInSubdividedGraph) | Hard | Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm |
-| 376 | [Reconstruct Itinerary](https://github.com/akashanup/programming/tree/main/problems/ReconstructItinerary) | Hard | Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph |
-| 377 | [Reconstruct Original Digits from English](https://github.com/akashanup/programming/tree/main/problems/ReconstructOriginalDigitsFromEnglish) | Medium | Hash Table, Math, String |
-| 378 | [Recover Binary Search Tree](https://github.com/akashanup/programming/tree/main/problems/RecoverBinarySearchTree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
-| 379 | [Reduce Array Size to The Half](https://github.com/akashanup/programming/tree/main/problems/ReduceArraySizeToTheHalf) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
-| 380 | [Reduction Operations to Make the Array Elements Equal](https://github.com/akashanup/programming/tree/main/problems/ReductionOperationsToMakeTheArrayElementsEqual) | Medium | Array, Sorting |
-| 381 | [Redundant Connection](https://github.com/akashanup/programming/tree/main/problems/RedundantConnection) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
-| 382 | [Regions Cut By Slashes](https://github.com/akashanup/programming/tree/main/problems/RegionsCutBySlashes) | Medium | Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Planar Graph |
-| 383 | [Regular Expression Matching](https://github.com/akashanup/programming/tree/main/problems/RegularExpressionMatching) | Hard | String, Dynamic Programming, Recursion |
-| 384 | [Remove All Adjacent Duplicates In String](https://github.com/akashanup/programming/tree/main/problems/RemoveAllAdjacentDuplicatesInString) | Easy | String, Stack |
-| 385 | [Remove All Adjacent Duplicates in String II](https://github.com/akashanup/programming/tree/main/problems/RemoveAllAdjacentDuplicatesInStringII) | Medium | String, Stack |
-| 386 | [Remove Covered Intervals](https://github.com/akashanup/programming/tree/main/problems/RemoveCoveredIntervals) | Medium | Array, Sorting |
-| 387 | [Remove Duplicate Letters](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicateLetters) | Medium | String, Stack, Greedy, Monotonic Stack |
-| 388 | [Remove Duplicates from Sorted Array](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedArray) | Easy | Array, Two Pointers |
-| 389 | [Remove Duplicates from Sorted Array II](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedArrayII) | Medium | Array, Two Pointers |
-| 390 | [Remove Duplicates from Sorted List II](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedListII) | Medium | Linked List, Two Pointers |
-| 391 | [Remove Element](https://github.com/akashanup/programming/tree/main/problems/RemoveElement/) | Easy | Array, Two Pointers |
-| 392 | [Remove Linked List Elements](https://github.com/akashanup/programming/tree/main/problems/RemoveLinkedListElements) | Easy | Linked List, Recursion |
-| 393 | [Remove Nth Node From End of List](https://github.com/akashanup/programming/tree/main/problems/RemoveNthNodeFromEndOfList) | Medium | Linked List, Two Pointers |
-| 394 | [Remove Sub-Folders from the Filesystem](https://github.com/akashanup/programming/tree/main/problems/RemoveSub-FoldersFromTheFilesystem) | Medium | Array, String, Depth-First Search, Trie |
-| 395 | [Replace Elements with Greatest Element on Right Side](https://github.com/akashanup/programming/tree/main/problems/ReplaceElementsWithGreatestElementonRightSide/) | Easy | Array |
-| 396 | [Replace Words](https://github.com/akashanup/programming/tree/main/problems/ReplaceWords) | Medium | Array, Hash Table, String, Trie |
-| 397 | [Reshape the Matrix](https://github.com/akashanup/programming/tree/main/problems/ReshapeTheMatrix) | Easy | Array, Matrix, Simulation |
-| 398 | [Restore the Array From Adjacent Pairs](https://github.com/akashanup/programming/tree/main/problems/RestoreTheArrayFromAdjacentPairs) | Medium | Array, Hash Table, Depth-First Search |
-| 399 | [Reverse Linked List](https://github.com/akashanup/programming/tree/main/problems/ReverseLinkedList) | Easy | Linked List, Recursion |
-| 400 | [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/problems/ReverseLinkedList-II) | Medium | Linked List |
-| 401 | [Reverse Nodes in k-Group](https://github.com/akashanup/programming/tree/main/problems/ReverseNodesInK-Group) | Hard | Linked List, Recursion |
-| 402 | [Reverse Only Letters](https://github.com/akashanup/programming/tree/main/problems/ReverseOnlyLetters) | Easy | Two Pointers, String |
-| 403 | [Reverse String II](https://github.com/akashanup/programming/tree/main/problems/ReverseStringII/) | Easy | Two Pointers, String |
-| 404 | [Reverse Words in a String](https://github.com/akashanup/programming/tree/main/problems/ReverseWordsInString) | Medium | Two Pointers, String |
-| 405 | [Rotate Array](https://github.com/akashanup/programming/tree/main/problems/RotateArray) | Medium | Array, Math, Two Pointers |
-| 406 | [Rotate Image](https://github.com/akashanup/programming/tree/main/problems/RotateImage) | Medium | Array, Math, Matrix |
-| 407 | [Rotate List](https://github.com/akashanup/programming/tree/main/problems/RotateList) | Medium | Linked List, Two Pointers |
-| 408 | [Running Sum of 1d Array](https://github.com/akashanup/programming/tree/main/problems/RunningSumOf1dArray) | Easy | Array, Prefix Sum |
-| 409 | [Russian Doll Envelopes](https://github.com/akashanup/programming/tree/main/problems/RussianDollEnvelopes) | Hard | Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence |
-| 410 | [Satisfiability of Equality Equations](https://github.com/akashanup/programming/tree/main/problems/SatisfiabilityOfEqualityEquations) | Medium | Array, String, Union-Find, Graph Theory |
-| 411 | [Score After Flipping Matrix](https://github.com/akashanup/programming/tree/main/problems/ScoreAfterFlippingMatrix) | Medium | Array, Greedy, Bit Manipulation, Matrix |
-| 412 | [Score of Parentheses](https://github.com/akashanup/programming/tree/main/problems/ScoreOfParentheses) | Medium | String, Stack, Bracket Sequences |
-| 413 | [Search a 2D Matrix](https://github.com/akashanup/programming/tree/main/problems/SearchIn2DMatrix) | Medium | Array, Binary Search, Matrix |
-| 414 | [Search a 2D Matrix II](https://github.com/akashanup/programming/tree/main/problems/SearchIn2DMatrixII) | Medium | Array, Binary Search, Divide and Conquer, Matrix |
-| 415 | [Search in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SearchInRotatedSortedArray) | Medium | Array, Binary Search |
-| 416 | [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/problems/SearchInRotatedSortedArrayII) | Medium | Array, Binary Search |
-| 417 | [Search Insert Position](https://github.com/akashanup/programming/tree/main/problems/SearchInsertPosition) | Easy | Array, Binary Search |
-| 418 | [Search Suggestions System](https://github.com/akashanup/programming/tree/main/problems/SearchSuggestionsSystem) | Medium | Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue) |
-| 419 | [Seat Reservation Manager](https://github.com/akashanup/programming/tree/main/problems/SeatReservationManager) | Medium | Design, Heap (Priority Queue) |
-| 420 | [Second Minimum Node In a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/SecondMinimumNodeInBinaryTree) | Easy | Tree, Depth-First Search, Binary Tree |
-| 421 | [Set Matrix Zeroes](https://github.com/akashanup/programming/tree/main/problems/SetMatrixZeroes) | Medium | Array, Hash Table, Matrix |
-| 422 | [Shifting Letters](https://github.com/akashanup/programming/tree/main/problems/ShiftingLetters) | Medium | Array, String, Prefix Sum |
-| 423 | [Shortest Path in a Grid with Obstacles Elimination](https://github.com/akashanup/programming/tree/main/problems/ShortestPathInGridWithObstaclesElimination) | Hard | Array, Breadth-First Search, Matrix |
-| 424 | [Shortest Path in Binary Matrix](https://github.com/akashanup/programming/tree/main/problems/ShortestPathInBinaryMatrix) | Medium | Array, Breadth-First Search, Matrix |
-| 425 | [Shortest Unsorted Continuous Subarray](https://github.com/akashanup/programming/tree/main/problems/ShortestUnsortedContinuousSubarray) | Medium | Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack |
-| 426 | [Shortest Way to Form String](https://github.com/akashanup/programming/tree/main/problems/ShortestWayToFormString) | Medium | Two Pointers, String, Binary Search, Greedy |
-| 427 | [Shuffle an Array](https://github.com/akashanup/programming/tree/main/problems/ShuffleAnArray) | Medium | Array, Math, Design, Randomized |
-| 428 | [Simplify Path](https://github.com/akashanup/programming/tree/main/problems/SimplifyPath) | Medium | String, Stack |
-| 429 | [Single Number](https://github.com/akashanup/programming/tree/main/problems/SingleNumber) | Easy | Array, Bit Manipulation |
-| 430 | [Single Number II](https://github.com/akashanup/programming/tree/main/problems/SingleNumberII) | Medium | Array, Bit Manipulation |
-| 431 | [Single Number III](https://github.com/akashanup/programming/tree/main/problems/SingleNumberIII) | Medium | Array, Bit Manipulation |
-| 432 | [Sliding Window Maximum](https://github.com/akashanup/programming/tree/main/problems/SlidingWindowMaximum) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query |
-| 433 | [Sliding Window Median](https://github.com/akashanup/programming/tree/main/problems/SlidingWindowMedian) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap |
-| 434 | [Slowest Key](https://github.com/akashanup/programming/tree/main/problems/SlowestKey) | Easy | Array, String |
-| 435 | [Smallest Range I](https://github.com/akashanup/programming/tree/main/problems/SmallestRangeI) | Easy | Array, Math |
-| 436 | [Smallest String With A Given Numeric Value](https://github.com/akashanup/programming/tree/main/problems/SmallestStringWithGivenNumericValue) | Medium | String, Greedy |
-| 437 | [Smallest String With Swaps](https://github.com/akashanup/programming/tree/main/problems/SmallestStringWithSwaps) | Medium | Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting |
-| 438 | [Smallest Subsequence of Distinct Characters](https://github.com/akashanup/programming/tree/main/problems/SmallestSubsequenceOfDistinctCharacters) | Medium | String, Stack, Greedy, Monotonic Stack |
-| 439 | [Smallest Subtree with all the Deepest Nodes](https://github.com/akashanup/programming/tree/main/problems/SmallestSubtreeWithAllTheDeepestNodes) | Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor, DP on Trees |
-| 440 | [Sort an Array](https://github.com/akashanup/programming/tree/main/problems/SortAnArray) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
-| 441 | [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/problems/SortArrayByParityII) | Easy | Array, Two Pointers, Sorting |
-| 442 | [Sort Colors](https://github.com/akashanup/programming/tree/main/problems/SortColors) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
-| 443 | [Sort Vowels in a String](https://github.com/akashanup/programming/tree/main/problems/SortVowelsInString) | Medium | String, Sorting |
-| 444 | [Spiral Matrix](https://github.com/akashanup/programming/tree/main/problems/SpiralMatrix) | Medium | Array, Matrix, Simulation |
-| 445 | [Spiral Matrix II](https://github.com/akashanup/programming/tree/main/problems/SpiralMatrixII) | Medium | Array, Matrix, Simulation |
-| 446 | [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/problems/SplitArrayLargestSum) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
-| 447 | [Split Linked List in Parts](https://github.com/akashanup/programming/tree/main/problems/SplitLinkedListInParts) | Medium | Linked List |
-| 448 | [Sqrt(x)](https://github.com/akashanup/programming/tree/main/problems/Sqrt-x) | Easy | Math, Binary Search, Newton's Method |
-| 449 | [Squares of a Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SquaresOfSortedArray) | Easy | Array, Two Pointers, Sorting |
-| 450 | [Steps to Make Array Non-decreasing](https://github.com/akashanup/programming/tree/main/problems/StepsToMakeArrayNonDecreasing) | Medium | Array, Linked List, Dynamic Programming, Stack, Monotonic Stack, Simulation |
-| 451 | [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/problems/StockPriceFluctuation) | Medium | Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set |
-| 452 | [Stone Game](https://github.com/akashanup/programming/tree/main/problems/StoneGame) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
-| 453 | [Stone Game IV](https://github.com/akashanup/programming/tree/main/problems/StoneGameIV) | Hard | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
-| 454 | [Stone Game VII](https://github.com/akashanup/programming/tree/main/problems/StoneGameVII) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
-| 455 | [Stream of Characters](https://github.com/akashanup/programming/tree/main/problems/StreamOfCharacters) | Hard | Array, String, Design, Trie, Data Stream, Aho–Corasick Algorithm |
-| 456 | [Student Attendance Record I](https://github.com/akashanup/programming/tree/main/problems/StudentAttendanceRecordI) | Easy | String |
-| 457 | [Subarray Sum Equals K](https://github.com/akashanup/programming/tree/main/problems/SubarraySumEqualsK) | Medium | Array, Hash Table, Prefix Sum |
-| 458 | [Subarrays with K Different Integers](https://github.com/akashanup/programming/tree/main/problems/SubarraysWith-K-DifferentIntegers) | Hard | Array, Hash Table, Sliding Window, Counting |
-| 459 | [Subsets](https://github.com/akashanup/programming/tree/main/problems/Subsets) | Medium | Array, Backtracking, Bit Manipulation |
-| 460 | [Subsets II](https://github.com/akashanup/programming/tree/main/problems/SubsetsII) | Medium | Array, Backtracking, Bit Manipulation |
-| 461 | [Subtree of Another Tree](https://github.com/akashanup/programming/tree/main/problems/SubtreeOfAnotherTree) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
-| 462 | [Sudoku Solver](https://github.com/akashanup/programming/tree/main/problems/SudokuSolver) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links |
-| 463 | [Sum of Absolute Differences in a Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SumOfAbsoluteDifferencesInSortedArray) | Medium | Array, Math, Prefix Sum |
-| 464 | [Sum of Beauty in the Array](https://github.com/akashanup/programming/tree/main/problems/SumOfBeautyInTheArray) | Medium | Array |
-| 465 | [Sum of Distances in Tree](https://github.com/akashanup/programming/tree/main/problems/SumOfDistancesInTree) | Hard | Dynamic Programming, Tree, Depth-First Search, Graph Theory, DP on Trees |
-| 466 | [Sum of Square Numbers](https://github.com/akashanup/programming/tree/main/problems/SumOfSquareNumbers) | Medium | Math, Two Pointers, Binary Search |
-| 467 | [Sum of Subarray Minimums](https://github.com/akashanup/programming/tree/main/problems/SumOfSubarrayMinimums) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack |
-| 468 | [Super Palindromes](https://github.com/akashanup/programming/tree/main/problems/SuperPalindrome) | Hard | Math, String, Enumeration |
-| 469 | [Surrounded Regions](https://github.com/akashanup/programming/tree/main/problems/SurroundedRegions) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
-| 470 | [Swap Nodes in Pairs](https://github.com/akashanup/programming/tree/main/problems/SwapNodesInPairs) | Medium | Linked List, Recursion |
-| 471 | [Symmetric Tree](https://github.com/akashanup/programming/tree/main/problems/SymmetricTree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
-| 472 | [Target Sum](https://github.com/akashanup/programming/tree/main/problems/TargetSum) | Medium | Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack |
-| 473 | [Teemo Attacking](https://github.com/akashanup/programming/tree/main/problems/TeemoAttacking/) | Easy | Array, Simulation |
-| 474 | [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/problems/TheNumberOfTheSmallestUnoccupiedChair) | Medium | Array, Hash Table, Heap (Priority Queue) |
-| 475 | [Third Maximum Number](https://github.com/akashanup/programming/tree/main/problems/ThirdMaximumNumber/) | Easy | Array, Sorting |
-| 476 | [Three Equal Parts](https://github.com/akashanup/programming/tree/main/problems/ThreeEqualParts) | Hard | Array, Math |
-| 477 | [Time Based Key-Value Store](https://github.com/akashanup/programming/tree/main/problems/TimeBasedKeyValueStore) | Medium | Hash Table, String, Binary Search, Design |
-| 478 | [To Lower Case](https://github.com/akashanup/programming/tree/main/problems/ToLowerCase) | Easy | String |
-| 479 | [Top K Frequent Elements](https://github.com/akashanup/programming/tree/main/problems/Top-K-FrequentElements) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
-| 480 | [Top K Frequent Words](https://github.com/akashanup/programming/tree/main/problems/Top-K-FrequentWords) | Medium | Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
-| 481 | [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/problems/TrappingRainWater) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
-| 482 | [Triangle](https://github.com/akashanup/programming/tree/main/problems/Triangle) | Medium | Array, Dynamic Programming |
-| 483 | [Two City Scheduling](https://github.com/akashanup/programming/tree/main/problems/TwoCityScheduling) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
-| 484 | [Two Sum](https://github.com/akashanup/programming/tree/main/problems/TwoSum) | Easy | Array, Hash Table |
-| 485 | [Two Sum II - Input Array Is Sorted](https://github.com/akashanup/programming/tree/main/problems/TwoSumII-InputArrayIsSorted) | Medium | Array, Two Pointers, Binary Search |
-| 486 | [Two Sum IV - Input is a BST](https://github.com/akashanup/programming/tree/main/problems/TwoSum-IV-InputIsBST) | Easy | Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree |
-| 487 | [Uncommon Words from Two Sentences](https://github.com/akashanup/programming/tree/main/problems/UncommonWordsFromTwoSentences) | Easy | Hash Table, String, Counting |
-| 488 | [Unique Binary Search Trees](https://github.com/akashanup/programming/tree/main/problems/UniqueBinarySearchTrees) | Medium | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
-| 489 | [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/problems/UniqueBinarySearchTreesII) | Medium | Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree |
-| 490 | [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/problems/UniqueEmailAddresses) | Easy | Array, Hash Table, String |
-| 491 | [Unique Length-3 Palindromic Subsequences](https://github.com/akashanup/programming/tree/main/problems/UniqueLength3PalindromicSubsequences) | Medium | Hash Table, String, Bit Manipulation, Prefix Sum |
-| 492 | [Unique Paths](https://github.com/akashanup/programming/tree/main/problems/UniquePaths) | Medium | Math, Dynamic Programming, Combinatorics |
-| 493 | [Unique Paths II](https://github.com/akashanup/programming/tree/main/problems/UniquePathsII) | Medium | Array, Dynamic Programming, Matrix |
-| 494 | [Unique Paths III](https://github.com/akashanup/programming/tree/main/problems/UniquePathsIII) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path |
-| 495 | [Valid Mountain Array](https://github.com/akashanup/programming/tree/main/problems/ValidMountainArray) | Easy | Array |
-| 496 | [Valid Number](https://github.com/akashanup/programming/tree/main/problems/ValidNumber) | Hard | String |
-| 497 | [Valid Parentheses](https://github.com/akashanup/programming/tree/main/problems/ValidParentheses) | Easy | String, Stack, Bracket Sequences |
-| 498 | [Valid Sudoku](https://github.com/akashanup/programming/tree/main/problems/ValidSudoku) | Medium | Array, Hash Table, Matrix |
-| 499 | [Valid Tic-Tac-Toe State](https://github.com/akashanup/programming/tree/main/problems/ValidTicTacToeState) | Medium | Array, Matrix |
-| 500 | [Valid Triangle Number](https://github.com/akashanup/programming/tree/main/problems/ValidTriangleNumber) | Medium | Array, Two Pointers, Binary Search, Greedy, Sorting |
-| 501 | [Validate Binary Search Tree](https://github.com/akashanup/programming/tree/main/problems/ValidateBinarySearchTree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
-| 502 | [Validate Stack Sequences](https://github.com/akashanup/programming/tree/main/problems/ValidateStackSequences) | Medium | Array, Stack, Simulation |
-| 503 | [Vertical Order Traversal of a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/VerticalOrderTraversalOfBinaryTree) | Hard | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree |
-| 504 | [Word Break](https://github.com/akashanup/programming/tree/main/problems/WordBreak) | Medium | Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search |
-| 505 | [Word Ladder](https://github.com/akashanup/programming/tree/main/problems/WordLadder) | Hard | Hash Table, String, Breadth-First Search, Bidirectional Search |
-| 506 | [Word Ladder II](https://github.com/akashanup/programming/tree/main/problems/WordLadderII) | Hard | Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search |
-| 507 | [Word Search](https://github.com/akashanup/programming/tree/main/problems/WordSearch) | Medium | Array, String, Backtracking, Depth-First Search, Matrix |
-| 508 | [Word Search II](https://github.com/akashanup/programming/tree/main/problems/WordSearchII) | Hard | Array, String, Backtracking, Trie, Matrix |
+| 363 | [Plus One](https://github.com/akashanup/dsa/tree/main/problems/PlusOne) | Easy | Array, Math |
+| 364 | [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/problems/PopulatingNextRightPointersInEachNode) | Medium | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 365 | [Populating Next Right Pointers in Each Node](https://github.com/akashanup/programming/tree/main/problems/PopulatingNextRightPointersInEachNodeII) | Medium | Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 366 | [Pow(x, n)](https://github.com/akashanup/programming/tree/main/problems/PowerOfx-n) | Medium | Math, Recursion |
+| 367 | [Prefix and Suffix Search](https://github.com/akashanup/programming/tree/main/problems/PrefixAndSuffixSearch) | Hard | Array, Hash Table, String, Design, Trie |
+| 368 | [Product of Array Except Self](https://github.com/akashanup/programming/tree/main/problems/ProductOfArrayExceptSelf) | Medium | Array, Prefix Sum |
+| 369 | [Product of the Last K Numbers](https://github.com/akashanup/programming/tree/main/problems/ProductOfTheLast-K-Numbers) | Medium | Array, Math, Design, Data Stream, Prefix Sum |
+| 370 | [Pseudo-Palindromic Paths in a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/PseudoPalindromicPathsInBinaryTree) | Medium | Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 371 | [Push Dominoes](https://github.com/akashanup/programming/tree/main/problems/PushDominoes) | Medium | Two Pointers, String, Dynamic Programming |
+| 372 | [Random Pick with Weight](https://github.com/akashanup/programming/tree/main/problems/RandomPickWithWeight) | Medium | Array, Math, Binary Search, Prefix Sum, Randomized |
+| 373 | [Range Addition II](https://github.com/akashanup/programming/tree/main/problems/RangeAdditionII) | Easy | Array, Math |
+| 374 | [Range Sum Query - Mutable](https://github.com/akashanup/programming/tree/main/problems/RangeSumQuery-Mutable) | Medium | Array, Divide and Conquer, Design, Binary Indexed Tree, Segment Tree, Sqrt Decomposition |
+| 375 | [Range Sum Query 2D - Immutable](https://github.com/akashanup/programming/tree/main/problems/RangeSumQuery2D-Immutable) | Medium | Array, Design, Matrix, Prefix Sum |
+| 376 | [Reachable Nodes In Subdivided Graph](https://github.com/akashanup/programming/tree/main/problems/ReachableNodesInSubdividedGraph) | Hard | Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm |
+| 377 | [Reconstruct Itinerary](https://github.com/akashanup/programming/tree/main/problems/ReconstructItinerary) | Hard | Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph |
+| 378 | [Reconstruct Original Digits from English](https://github.com/akashanup/programming/tree/main/problems/ReconstructOriginalDigitsFromEnglish) | Medium | Hash Table, Math, String |
+| 379 | [Recover Binary Search Tree](https://github.com/akashanup/programming/tree/main/problems/RecoverBinarySearchTree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 380 | [Reduce Array Size to The Half](https://github.com/akashanup/programming/tree/main/problems/ReduceArraySizeToTheHalf) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
+| 381 | [Reduction Operations to Make the Array Elements Equal](https://github.com/akashanup/programming/tree/main/problems/ReductionOperationsToMakeTheArrayElementsEqual) | Medium | Array, Sorting |
+| 382 | [Redundant Connection](https://github.com/akashanup/programming/tree/main/problems/RedundantConnection) | Medium | Depth-First Search, Breadth-First Search, Union-Find, Graph Theory |
+| 383 | [Regions Cut By Slashes](https://github.com/akashanup/programming/tree/main/problems/RegionsCutBySlashes) | Medium | Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Matrix, Planar Graph |
+| 384 | [Regular Expression Matching](https://github.com/akashanup/programming/tree/main/problems/RegularExpressionMatching) | Hard | String, Dynamic Programming, Recursion |
+| 385 | [Remove All Adjacent Duplicates In String](https://github.com/akashanup/programming/tree/main/problems/RemoveAllAdjacentDuplicatesInString) | Easy | String, Stack |
+| 386 | [Remove All Adjacent Duplicates in String II](https://github.com/akashanup/programming/tree/main/problems/RemoveAllAdjacentDuplicatesInStringII) | Medium | String, Stack |
+| 387 | [Remove Covered Intervals](https://github.com/akashanup/programming/tree/main/problems/RemoveCoveredIntervals) | Medium | Array, Sorting |
+| 388 | [Remove Duplicate Letters](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicateLetters) | Medium | String, Stack, Greedy, Monotonic Stack |
+| 389 | [Remove Duplicates from Sorted Array](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedArray) | Easy | Array, Two Pointers |
+| 390 | [Remove Duplicates from Sorted Array II](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedArrayII) | Medium | Array, Two Pointers |
+| 391 | [Remove Duplicates from Sorted List II](https://github.com/akashanup/programming/tree/main/problems/RemoveDuplicatesFromSortedListII) | Medium | Linked List, Two Pointers |
+| 392 | [Remove Element](https://github.com/akashanup/programming/tree/main/problems/RemoveElement/) | Easy | Array, Two Pointers |
+| 393 | [Remove Linked List Elements](https://github.com/akashanup/programming/tree/main/problems/RemoveLinkedListElements) | Easy | Linked List, Recursion |
+| 394 | [Remove Nth Node From End of List](https://github.com/akashanup/programming/tree/main/problems/RemoveNthNodeFromEndOfList) | Medium | Linked List, Two Pointers |
+| 395 | [Remove Sub-Folders from the Filesystem](https://github.com/akashanup/programming/tree/main/problems/RemoveSub-FoldersFromTheFilesystem) | Medium | Array, String, Depth-First Search, Trie |
+| 396 | [Replace Elements with Greatest Element on Right Side](https://github.com/akashanup/programming/tree/main/problems/ReplaceElementsWithGreatestElementonRightSide/) | Easy | Array |
+| 397 | [Replace Words](https://github.com/akashanup/programming/tree/main/problems/ReplaceWords) | Medium | Array, Hash Table, String, Trie |
+| 398 | [Reshape the Matrix](https://github.com/akashanup/programming/tree/main/problems/ReshapeTheMatrix) | Easy | Array, Matrix, Simulation |
+| 399 | [Restore the Array From Adjacent Pairs](https://github.com/akashanup/programming/tree/main/problems/RestoreTheArrayFromAdjacentPairs) | Medium | Array, Hash Table, Depth-First Search |
+| 400 | [Reverse Linked List](https://github.com/akashanup/programming/tree/main/problems/ReverseLinkedList) | Easy | Linked List, Recursion |
+| 401 | [Reverse Linked List II](https://github.com/akashanup/programming/tree/main/problems/ReverseLinkedList-II) | Medium | Linked List |
+| 402 | [Reverse Nodes in k-Group](https://github.com/akashanup/programming/tree/main/problems/ReverseNodesInK-Group) | Hard | Linked List, Recursion |
+| 403 | [Reverse Only Letters](https://github.com/akashanup/programming/tree/main/problems/ReverseOnlyLetters) | Easy | Two Pointers, String |
+| 404 | [Reverse String II](https://github.com/akashanup/programming/tree/main/problems/ReverseStringII/) | Easy | Two Pointers, String |
+| 405 | [Reverse Words in a String](https://github.com/akashanup/programming/tree/main/problems/ReverseWordsInString) | Medium | Two Pointers, String |
+| 406 | [Rotate Array](https://github.com/akashanup/programming/tree/main/problems/RotateArray) | Medium | Array, Math, Two Pointers |
+| 407 | [Rotate Image](https://github.com/akashanup/programming/tree/main/problems/RotateImage) | Medium | Array, Math, Matrix |
+| 408 | [Rotate List](https://github.com/akashanup/programming/tree/main/problems/RotateList) | Medium | Linked List, Two Pointers |
+| 409 | [Running Sum of 1d Array](https://github.com/akashanup/programming/tree/main/problems/RunningSumOf1dArray) | Easy | Array, Prefix Sum |
+| 410 | [Russian Doll Envelopes](https://github.com/akashanup/programming/tree/main/problems/RussianDollEnvelopes) | Hard | Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence |
+| 411 | [Satisfiability of Equality Equations](https://github.com/akashanup/programming/tree/main/problems/SatisfiabilityOfEqualityEquations) | Medium | Array, String, Union-Find, Graph Theory |
+| 412 | [Score After Flipping Matrix](https://github.com/akashanup/programming/tree/main/problems/ScoreAfterFlippingMatrix) | Medium | Array, Greedy, Bit Manipulation, Matrix |
+| 413 | [Score of Parentheses](https://github.com/akashanup/programming/tree/main/problems/ScoreOfParentheses) | Medium | String, Stack, Bracket Sequences |
+| 414 | [Search a 2D Matrix](https://github.com/akashanup/programming/tree/main/problems/SearchIn2DMatrix) | Medium | Array, Binary Search, Matrix |
+| 415 | [Search a 2D Matrix II](https://github.com/akashanup/programming/tree/main/problems/SearchIn2DMatrixII) | Medium | Array, Binary Search, Divide and Conquer, Matrix |
+| 416 | [Search in Rotated Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SearchInRotatedSortedArray) | Medium | Array, Binary Search |
+| 417 | [Search in Rotated Sorted Array II](https://github.com/akashanup/programming/tree/main/problems/SearchInRotatedSortedArrayII) | Medium | Array, Binary Search |
+| 418 | [Search Insert Position](https://github.com/akashanup/programming/tree/main/problems/SearchInsertPosition) | Easy | Array, Binary Search |
+| 419 | [Search Suggestions System](https://github.com/akashanup/programming/tree/main/problems/SearchSuggestionsSystem) | Medium | Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue) |
+| 420 | [Seat Reservation Manager](https://github.com/akashanup/programming/tree/main/problems/SeatReservationManager) | Medium | Design, Heap (Priority Queue) |
+| 421 | [Second Minimum Node In a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/SecondMinimumNodeInBinaryTree) | Easy | Tree, Depth-First Search, Binary Tree |
+| 422 | [Set Matrix Zeroes](https://github.com/akashanup/programming/tree/main/problems/SetMatrixZeroes) | Medium | Array, Hash Table, Matrix |
+| 423 | [Shifting Letters](https://github.com/akashanup/programming/tree/main/problems/ShiftingLetters) | Medium | Array, String, Prefix Sum |
+| 424 | [Shortest Path in a Grid with Obstacles Elimination](https://github.com/akashanup/programming/tree/main/problems/ShortestPathInGridWithObstaclesElimination) | Hard | Array, Breadth-First Search, Matrix |
+| 425 | [Shortest Path in Binary Matrix](https://github.com/akashanup/programming/tree/main/problems/ShortestPathInBinaryMatrix) | Medium | Array, Breadth-First Search, Matrix |
+| 426 | [Shortest Unsorted Continuous Subarray](https://github.com/akashanup/programming/tree/main/problems/ShortestUnsortedContinuousSubarray) | Medium | Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack |
+| 427 | [Shortest Way to Form String](https://github.com/akashanup/programming/tree/main/problems/ShortestWayToFormString) | Medium | Two Pointers, String, Binary Search, Greedy |
+| 428 | [Shuffle an Array](https://github.com/akashanup/programming/tree/main/problems/ShuffleAnArray) | Medium | Array, Math, Design, Randomized |
+| 429 | [Simplify Path](https://github.com/akashanup/programming/tree/main/problems/SimplifyPath) | Medium | String, Stack |
+| 430 | [Single Number](https://github.com/akashanup/programming/tree/main/problems/SingleNumber) | Easy | Array, Bit Manipulation |
+| 431 | [Single Number II](https://github.com/akashanup/programming/tree/main/problems/SingleNumberII) | Medium | Array, Bit Manipulation |
+| 432 | [Single Number III](https://github.com/akashanup/programming/tree/main/problems/SingleNumberIII) | Medium | Array, Bit Manipulation |
+| 433 | [Sliding Window Maximum](https://github.com/akashanup/programming/tree/main/problems/SlidingWindowMaximum) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query |
+| 434 | [Sliding Window Median](https://github.com/akashanup/programming/tree/main/problems/SlidingWindowMedian) | Hard | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap |
+| 435 | [Slowest Key](https://github.com/akashanup/programming/tree/main/problems/SlowestKey) | Easy | Array, String |
+| 436 | [Smallest Range I](https://github.com/akashanup/programming/tree/main/problems/SmallestRangeI) | Easy | Array, Math |
+| 437 | [Smallest String With A Given Numeric Value](https://github.com/akashanup/programming/tree/main/problems/SmallestStringWithGivenNumericValue) | Medium | String, Greedy |
+| 438 | [Smallest String With Swaps](https://github.com/akashanup/programming/tree/main/problems/SmallestStringWithSwaps) | Medium | Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting |
+| 439 | [Smallest Subsequence of Distinct Characters](https://github.com/akashanup/programming/tree/main/problems/SmallestSubsequenceOfDistinctCharacters) | Medium | String, Stack, Greedy, Monotonic Stack |
+| 440 | [Smallest Subtree with all the Deepest Nodes](https://github.com/akashanup/programming/tree/main/problems/SmallestSubtreeWithAllTheDeepestNodes) | Medium | Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor, DP on Trees |
+| 441 | [Sort an Array](https://github.com/akashanup/programming/tree/main/problems/SortAnArray) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort |
+| 442 | [Sort Array By Parity II](https://github.com/akashanup/programming/tree/main/problems/SortArrayByParityII) | Easy | Array, Two Pointers, Sorting |
+| 443 | [Sort Colors](https://github.com/akashanup/programming/tree/main/problems/SortColors) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort |
+| 444 | [Sort Vowels in a String](https://github.com/akashanup/programming/tree/main/problems/SortVowelsInString) | Medium | String, Sorting |
+| 445 | [Spiral Matrix](https://github.com/akashanup/programming/tree/main/problems/SpiralMatrix) | Medium | Array, Matrix, Simulation |
+| 446 | [Spiral Matrix II](https://github.com/akashanup/programming/tree/main/problems/SpiralMatrixII) | Medium | Array, Matrix, Simulation |
+| 447 | [Split Array Largest Sum](https://github.com/akashanup/programming/tree/main/problems/SplitArrayLargestSum) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum |
+| 448 | [Split Linked List in Parts](https://github.com/akashanup/programming/tree/main/problems/SplitLinkedListInParts) | Medium | Linked List |
+| 449 | [Sqrt(x)](https://github.com/akashanup/programming/tree/main/problems/Sqrt-x) | Easy | Math, Binary Search, Newton's Method |
+| 450 | [Squares of a Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SquaresOfSortedArray) | Easy | Array, Two Pointers, Sorting |
+| 451 | [Steps to Make Array Non-decreasing](https://github.com/akashanup/programming/tree/main/problems/StepsToMakeArrayNonDecreasing) | Medium | Array, Linked List, Dynamic Programming, Stack, Monotonic Stack, Simulation |
+| 452 | [Stock Price Fluctuation](https://github.com/akashanup/programming/tree/main/problems/StockPriceFluctuation) | Medium | Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set |
+| 453 | [Stone Game](https://github.com/akashanup/programming/tree/main/problems/StoneGame) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
+| 454 | [Stone Game IV](https://github.com/akashanup/programming/tree/main/problems/StoneGameIV) | Hard | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
+| 455 | [Stone Game VII](https://github.com/akashanup/programming/tree/main/problems/StoneGameVII) | Medium | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
+| 456 | [Stream of Characters](https://github.com/akashanup/programming/tree/main/problems/StreamOfCharacters) | Hard | Array, String, Design, Trie, Data Stream, Aho–Corasick Algorithm |
+| 457 | [Student Attendance Record I](https://github.com/akashanup/programming/tree/main/problems/StudentAttendanceRecordI) | Easy | String |
+| 458 | [Subarray Sum Equals K](https://github.com/akashanup/programming/tree/main/problems/SubarraySumEqualsK) | Medium | Array, Hash Table, Prefix Sum |
+| 459 | [Subarrays with K Different Integers](https://github.com/akashanup/programming/tree/main/problems/SubarraysWith-K-DifferentIntegers) | Hard | Array, Hash Table, Sliding Window, Counting |
+| 460 | [Subsets](https://github.com/akashanup/programming/tree/main/problems/Subsets) | Medium | Array, Backtracking, Bit Manipulation |
+| 461 | [Subsets II](https://github.com/akashanup/programming/tree/main/problems/SubsetsII) | Medium | Array, Backtracking, Bit Manipulation |
+| 462 | [Subtree of Another Tree](https://github.com/akashanup/programming/tree/main/problems/SubtreeOfAnotherTree) | Easy | Tree, Depth-First Search, String Matching, Binary Tree, Hash Function |
+| 463 | [Sudoku Solver](https://github.com/akashanup/programming/tree/main/problems/SudokuSolver) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links |
+| 464 | [Sum of Absolute Differences in a Sorted Array](https://github.com/akashanup/programming/tree/main/problems/SumOfAbsoluteDifferencesInSortedArray) | Medium | Array, Math, Prefix Sum |
+| 465 | [Sum of Beauty in the Array](https://github.com/akashanup/programming/tree/main/problems/SumOfBeautyInTheArray) | Medium | Array |
+| 466 | [Sum of Distances in Tree](https://github.com/akashanup/programming/tree/main/problems/SumOfDistancesInTree) | Hard | Dynamic Programming, Tree, Depth-First Search, Graph Theory, DP on Trees |
+| 467 | [Sum of Square Numbers](https://github.com/akashanup/programming/tree/main/problems/SumOfSquareNumbers) | Medium | Math, Two Pointers, Binary Search |
+| 468 | [Sum of Subarray Minimums](https://github.com/akashanup/programming/tree/main/problems/SumOfSubarrayMinimums) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack |
+| 469 | [Super Palindromes](https://github.com/akashanup/programming/tree/main/problems/SuperPalindrome) | Hard | Math, String, Enumeration |
+| 470 | [Surrounded Regions](https://github.com/akashanup/programming/tree/main/problems/SurroundedRegions) | Medium | Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix |
+| 471 | [Swap Nodes in Pairs](https://github.com/akashanup/programming/tree/main/problems/SwapNodesInPairs) | Medium | Linked List, Recursion |
+| 472 | [Symmetric Tree](https://github.com/akashanup/programming/tree/main/problems/SymmetricTree) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 473 | [Target Sum](https://github.com/akashanup/programming/tree/main/problems/TargetSum) | Medium | Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack |
+| 474 | [Teemo Attacking](https://github.com/akashanup/programming/tree/main/problems/TeemoAttacking/) | Easy | Array, Simulation |
+| 475 | [The Number of the Smallest Unoccupied Chair](https://github.com/akashanup/programming/tree/main/problems/TheNumberOfTheSmallestUnoccupiedChair) | Medium | Array, Hash Table, Heap (Priority Queue) |
+| 476 | [Third Maximum Number](https://github.com/akashanup/programming/tree/main/problems/ThirdMaximumNumber/) | Easy | Array, Sorting |
+| 477 | [Three Equal Parts](https://github.com/akashanup/programming/tree/main/problems/ThreeEqualParts) | Hard | Array, Math |
+| 478 | [Time Based Key-Value Store](https://github.com/akashanup/programming/tree/main/problems/TimeBasedKeyValueStore) | Medium | Hash Table, String, Binary Search, Design |
+| 479 | [To Lower Case](https://github.com/akashanup/programming/tree/main/problems/ToLowerCase) | Easy | String |
+| 480 | [Top K Frequent Elements](https://github.com/akashanup/programming/tree/main/problems/Top-K-FrequentElements) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
+| 481 | [Top K Frequent Words](https://github.com/akashanup/programming/tree/main/problems/Top-K-FrequentWords) | Medium | Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 482 | [Trapping Rain Water](https://github.com/akashanup/programming/tree/main/problems/TrappingRainWater) | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack |
+| 483 | [Triangle](https://github.com/akashanup/programming/tree/main/problems/Triangle) | Medium | Array, Dynamic Programming |
+| 484 | [Two City Scheduling](https://github.com/akashanup/programming/tree/main/problems/TwoCityScheduling) | Medium | Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| 485 | [Two Sum](https://github.com/akashanup/programming/tree/main/problems/TwoSum) | Easy | Array, Hash Table |
+| 486 | [Two Sum II - Input Array Is Sorted](https://github.com/akashanup/programming/tree/main/problems/TwoSumII-InputArrayIsSorted) | Medium | Array, Two Pointers, Binary Search |
+| 487 | [Two Sum IV - Input is a BST](https://github.com/akashanup/programming/tree/main/problems/TwoSum-IV-InputIsBST) | Easy | Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree |
+| 488 | [Uncommon Words from Two Sentences](https://github.com/akashanup/programming/tree/main/problems/UncommonWordsFromTwoSentences) | Easy | Hash Table, String, Counting |
+| 489 | [Unique Binary Search Trees](https://github.com/akashanup/programming/tree/main/problems/UniqueBinarySearchTrees) | Medium | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree |
+| 490 | [Unique Binary Search Trees II](https://github.com/akashanup/programming/tree/main/problems/UniqueBinarySearchTreesII) | Medium | Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree |
+| 491 | [Unique Email Addresses](https://github.com/akashanup/programming/tree/main/problems/UniqueEmailAddresses) | Easy | Array, Hash Table, String |
+| 492 | [Unique Length-3 Palindromic Subsequences](https://github.com/akashanup/programming/tree/main/problems/UniqueLength3PalindromicSubsequences) | Medium | Hash Table, String, Bit Manipulation, Prefix Sum |
+| 493 | [Unique Paths](https://github.com/akashanup/programming/tree/main/problems/UniquePaths) | Medium | Math, Dynamic Programming, Combinatorics |
+| 494 | [Unique Paths II](https://github.com/akashanup/programming/tree/main/problems/UniquePathsII) | Medium | Array, Dynamic Programming, Matrix |
+| 495 | [Unique Paths III](https://github.com/akashanup/programming/tree/main/problems/UniquePathsIII) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path |
+| 496 | [Valid Mountain Array](https://github.com/akashanup/programming/tree/main/problems/ValidMountainArray) | Easy | Array |
+| 497 | [Valid Number](https://github.com/akashanup/programming/tree/main/problems/ValidNumber) | Hard | String |
+| 498 | [Valid Parentheses](https://github.com/akashanup/programming/tree/main/problems/ValidParentheses) | Easy | String, Stack, Bracket Sequences |
+| 499 | [Valid Sudoku](https://github.com/akashanup/programming/tree/main/problems/ValidSudoku) | Medium | Array, Hash Table, Matrix |
+| 500 | [Valid Tic-Tac-Toe State](https://github.com/akashanup/programming/tree/main/problems/ValidTicTacToeState) | Medium | Array, Matrix |
+| 501 | [Valid Triangle Number](https://github.com/akashanup/programming/tree/main/problems/ValidTriangleNumber) | Medium | Array, Two Pointers, Binary Search, Greedy, Sorting |
+| 502 | [Validate Binary Search Tree](https://github.com/akashanup/programming/tree/main/problems/ValidateBinarySearchTree) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 503 | [Validate Stack Sequences](https://github.com/akashanup/programming/tree/main/problems/ValidateStackSequences) | Medium | Array, Stack, Simulation |
+| 504 | [Vertical Order Traversal of a Binary Tree](https://github.com/akashanup/programming/tree/main/problems/VerticalOrderTraversalOfBinaryTree) | Hard | Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree |
+| 505 | [Word Break](https://github.com/akashanup/programming/tree/main/problems/WordBreak) | Medium | Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search |
+| 506 | [Word Ladder](https://github.com/akashanup/programming/tree/main/problems/WordLadder) | Hard | Hash Table, String, Breadth-First Search, Bidirectional Search |
+| 507 | [Word Ladder II](https://github.com/akashanup/programming/tree/main/problems/WordLadderII) | Hard | Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search |
+| 508 | [Word Search](https://github.com/akashanup/programming/tree/main/problems/WordSearch) | Medium | Array, String, Backtracking, Depth-First Search, Matrix |
+| 509 | [Word Search II](https://github.com/akashanup/programming/tree/main/problems/WordSearchII) | Hard | Array, String, Backtracking, Trie, Matrix |
 
 ## Other Repository Problemset
 
