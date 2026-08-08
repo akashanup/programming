@@ -12,14 +12,18 @@ Given the `head` of a singly linked list, return `true`* if it is a **palindrome
 
 **Example 1:**
 
-![](images/pal1linked-list.jpg)```text
+![](images/pal1linked-list.jpg)
+
+```text
 Input: head = [1,2,2,1]
 Output: true
 ```
 
 **Example 2:**
 
-![](images/pal2linked-list.jpg)```text
+![](images/pal2linked-list.jpg)
+
+```text
 Input: head = [1,2]
 Output: false
 ```
